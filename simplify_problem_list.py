@@ -1,4 +1,5 @@
 import json
+import problem_json_formatter
 
 def simplify_json(input_file, output_file):
     with open(input_file, 'r') as file:
@@ -24,4 +25,5 @@ def simplify_json(input_file, output_file):
 if __name__ == "__main__":
     input_file = 'raw.json'  # replace with the path to your input JSON file
     output_file = 'simplified_problems.json'  # replace with the desired output file path
+    problem_json_formatter.format_json_file(input_file, silent=True)
     simplify_json(input_file, output_file)
