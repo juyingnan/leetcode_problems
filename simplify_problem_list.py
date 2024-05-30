@@ -12,7 +12,7 @@ def simplify_json(input_file, output_file):
     for item in data['stat_status_pairs']:
         if not item['paid_only']:
             simplified_item = {
-                "id": item['stat']['question_id'],
+                "id": item['stat']['frontend_question_id'],
                 "title": item['stat']['question__title'],
                 "slug": item['stat']['question__title_slug'],
                 "level": item['difficulty']['level']
