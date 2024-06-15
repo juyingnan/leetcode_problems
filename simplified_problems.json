@@ -1,10 +1,34 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3176,
+            "title": "Find the Maximum Length of a Good Subsequence I",
+            "slug": "find-the-maximum-length-of-a-good-subsequence-i",
+            "level": 2
+        },
+        {
+            "id": 3177,
+            "title": "Find the Maximum Length of a Good Subsequence II",
+            "slug": "find-the-maximum-length-of-a-good-subsequence-ii",
+            "level": 3
+        },
+        {
             "id": 3163,
             "title": "String Compression III",
             "slug": "string-compression-iii",
             "level": 2
+        },
+        {
+            "id": 3178,
+            "title": "Find the Child Who Has the Ball After K Seconds",
+            "slug": "find-the-child-who-has-the-ball-after-k-seconds",
+            "level": 1
+        },
+        {
+            "id": 3174,
+            "title": "Clear Digits",
+            "slug": "clear-digits",
+            "level": 1
         },
         {
             "id": 3162,
@@ -13,10 +37,34 @@
             "level": 1
         },
         {
+            "id": 3170,
+            "title": "Lexicographically Minimum String After Removing Stars",
+            "slug": "lexicographically-minimum-string-after-removing-stars",
+            "level": 2
+        },
+        {
             "id": 3164,
             "title": "Find the Number of Good Pairs II",
             "slug": "find-the-number-of-good-pairs-ii",
             "level": 2
+        },
+        {
+            "id": 3181,
+            "title": "Maximum Total Reward Using Operations II",
+            "slug": "maximum-total-reward-using-operations-ii",
+            "level": 3
+        },
+        {
+            "id": 3180,
+            "title": "Maximum Total Reward Using Operations I",
+            "slug": "maximum-total-reward-using-operations-i",
+            "level": 2
+        },
+        {
+            "id": 3171,
+            "title": "Find Subarray With Bitwise OR Closest to K",
+            "slug": "find-subarray-with-bitwise-or-closest-to-k",
+            "level": 3
         },
         {
             "id": 3161,
@@ -37,6 +85,12 @@
             "level": 3
         },
         {
+            "id": 3169,
+            "title": "Count Days Without Meetings",
+            "slug": "count-days-without-meetings",
+            "level": 2
+        },
+        {
             "id": 3151,
             "title": "Special Array I",
             "slug": "special-array-i",
@@ -55,10 +109,22 @@
             "level": 2
         },
         {
+            "id": 3168,
+            "title": "Minimum Number of Chairs in a Waiting Room",
+            "slug": "minimum-number-of-chairs-in-a-waiting-room",
+            "level": 1
+        },
+        {
             "id": 3165,
             "title": "Maximum Sum of Subsequence With Non-adjacent Elements",
             "slug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
             "level": 3
+        },
+        {
+            "id": 3179,
+            "title": "Find the N-th Value After K Seconds",
+            "slug": "find-the-n-th-value-after-k-seconds",
+            "level": 2
         },
         {
             "id": 3159,
@@ -89,6 +155,12 @@
             "title": "Find Number of Ways to Reach the K-th Stair",
             "slug": "find-number-of-ways-to-reach-the-k-th-stair",
             "level": 3
+        },
+        {
+            "id": 3175,
+            "title": "Find The First Player to win K Games in a Row",
+            "slug": "find-the-first-player-to-win-k-games-in-a-row",
+            "level": 2
         },
         {
             "id": 3146,
