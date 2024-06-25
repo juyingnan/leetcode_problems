@@ -1,6 +1,54 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3192,
+            "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+            "slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+            "level": 2
+        },
+        {
+            "id": 3190,
+            "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+            "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+            "level": 1
+        },
+        {
+            "id": 3191,
+            "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+            "slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+            "level": 2
+        },
+        {
+            "id": 3194,
+            "title": "Minimum Average of Smallest and Largest Elements",
+            "slug": "minimum-average-of-smallest-and-largest-elements",
+            "level": 1
+        },
+        {
+            "id": 3196,
+            "title": "Maximize Total Cost of Alternating Subarrays",
+            "slug": "maximize-total-cost-of-alternating-subarrays",
+            "level": 2
+        },
+        {
+            "id": 3195,
+            "title": "Find the Minimum Area to Cover All Ones I",
+            "slug": "find-the-minimum-area-to-cover-all-ones-i",
+            "level": 2
+        },
+        {
+            "id": 3193,
+            "title": "Count the Number of Inversions",
+            "slug": "count-the-number-of-inversions",
+            "level": 3
+        },
+        {
+            "id": 3197,
+            "title": "Find the Minimum Area to Cover All Ones II",
+            "slug": "find-the-minimum-area-to-cover-all-ones-ii",
+            "level": 3
+        },
+        {
             "id": 3176,
             "title": "Find the Maximum Length of a Good Subsequence I",
             "slug": "find-the-maximum-length-of-a-good-subsequence-i",
@@ -58,6 +106,18 @@
             "id": 3180,
             "title": "Maximum Total Reward Using Operations I",
             "slug": "maximum-total-reward-using-operations-i",
+            "level": 2
+        },
+        {
+            "id": 3187,
+            "title": "Peaks in Array",
+            "slug": "peaks-in-array",
+            "level": 3
+        },
+        {
+            "id": 3186,
+            "title": "Maximum Total Damage With Spell Casting",
+            "slug": "maximum-total-damage-with-spell-casting",
             "level": 2
         },
         {
@@ -127,6 +187,12 @@
             "level": 2
         },
         {
+            "id": 3184,
+            "title": "Count Pairs That Form a Complete Day I",
+            "slug": "count-pairs-that-form-a-complete-day-i",
+            "level": 1
+        },
+        {
             "id": 3159,
             "title": "Find Occurrences of an Element in an Array",
             "slug": "find-occurrences-of-an-element-in-an-array",
@@ -136,6 +202,12 @@
             "id": 3143,
             "title": "Maximum Points Inside the Square",
             "slug": "maximum-points-inside-the-square",
+            "level": 2
+        },
+        {
+            "id": 3185,
+            "title": "Count Pairs That Form a Complete Day II",
+            "slug": "count-pairs-that-form-a-complete-day-ii",
             "level": 2
         },
         {
