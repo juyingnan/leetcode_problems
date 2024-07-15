@@ -1,6 +1,24 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3217,
+            "title": "Delete Nodes From Linked List Present in Array",
+            "slug": "delete-nodes-from-linked-list-present-in-array",
+            "level": 2
+        },
+        {
+            "id": 3219,
+            "title": "Minimum Cost for Cutting Cake II",
+            "slug": "minimum-cost-for-cutting-cake-ii",
+            "level": 3
+        },
+        {
+            "id": 3218,
+            "title": "Minimum Cost for Cutting Cake I",
+            "slug": "minimum-cost-for-cutting-cake-i",
+            "level": 2
+        },
+        {
             "id": 3212,
             "title": "Count Submatrices With Equal Frequency of X and Y",
             "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
@@ -17,6 +35,12 @@
             "title": "Find the Maximum Length of Valid Subsequence I",
             "slug": "find-the-maximum-length-of-valid-subsequence-i",
             "level": 2
+        },
+        {
+            "id": 3216,
+            "title": "Lexicographically Smallest String After a Swap",
+            "slug": "lexicographically-smallest-string-after-a-swap",
+            "level": 1
         },
         {
             "id": 3208,
