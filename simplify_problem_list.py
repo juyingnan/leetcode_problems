@@ -23,6 +23,9 @@ def simplify_json(input_file, output_file):
         json.dump(simplified_data, file, indent=4)
 
 if __name__ == "__main__":
+    # source url
+    # https://leetcode.com/api/problems/all/
+
     input_file = 'raw.json'  # replace with the path to your input JSON file
     output_file = 'simplified_problems.json'  # replace with the desired output file path
     problem_json_formatter.format_json_file(input_file, silent=True)
