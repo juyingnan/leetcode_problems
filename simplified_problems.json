@@ -1,6 +1,24 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3220,
+            "title": "Odd and Even Transactions",
+            "slug": "odd-and-even-transactions",
+            "level": 2
+        },
+        {
+            "id": 3222,
+            "title": "Find the Winning Player in Coin Game",
+            "slug": "find-the-winning-player-in-coin-game",
+            "level": 1
+        },
+        {
+            "id": 3226,
+            "title": "Number of Bit Changes to Make Two Integers Equal",
+            "slug": "number-of-bit-changes-to-make-two-integers-equal",
+            "level": 1
+        },
+        {
             "id": 3217,
             "title": "Delete Nodes From Linked List Present in Array",
             "slug": "delete-nodes-from-linked-list-present-in-array",
@@ -13,9 +31,21 @@
             "level": 3
         },
         {
+            "id": 3224,
+            "title": "Minimum Array Changes to Make Differences Equal",
+            "slug": "minimum-array-changes-to-make-differences-equal",
+            "level": 2
+        },
+        {
             "id": 3218,
             "title": "Minimum Cost for Cutting Cake I",
             "slug": "minimum-cost-for-cutting-cake-i",
+            "level": 2
+        },
+        {
+            "id": 3228,
+            "title": "Maximum Number of Operations to Move Ones to the End",
+            "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
             "level": 2
         },
         {
@@ -79,6 +109,12 @@
             "level": 1
         },
         {
+            "id": 3225,
+            "title": "Maximum Score From Grid Operations",
+            "slug": "maximum-score-from-grid-operations",
+            "level": 3
+        },
+        {
             "id": 3200,
             "title": "Maximum Height of a Triangle",
             "slug": "maximum-height-of-a-triangle",
@@ -109,6 +145,12 @@
             "level": 1
         },
         {
+            "id": 3227,
+            "title": "Vowels Game in a String",
+            "slug": "vowels-game-in-a-string",
+            "level": 2
+        },
+        {
             "id": 3195,
             "title": "Find the Minimum Area to Cover All Ones I",
             "slug": "find-the-minimum-area-to-cover-all-ones-i",
@@ -131,6 +173,18 @@
             "title": "Find the Maximum Length of a Good Subsequence I",
             "slug": "find-the-maximum-length-of-a-good-subsequence-i",
             "level": 2
+        },
+        {
+            "id": 3223,
+            "title": "Minimum Length of String After Operations",
+            "slug": "minimum-length-of-string-after-operations",
+            "level": 2
+        },
+        {
+            "id": 3229,
+            "title": "Minimum Operations to Make Array Equal to Target",
+            "slug": "minimum-operations-to-make-array-equal-to-target",
+            "level": 3
         },
         {
             "id": 3211,
