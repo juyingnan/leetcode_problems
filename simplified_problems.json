@@ -1,10 +1,64 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3241,
+            "title": "Time Taken to Mark All Nodes",
+            "slug": "time-taken-to-mark-all-nodes",
+            "level": 3
+        },
+        {
             "id": 3220,
             "title": "Odd and Even Transactions",
             "slug": "odd-and-even-transactions",
             "level": 2
+        },
+        {
+            "id": 3245,
+            "title": "Alternating Groups III",
+            "slug": "alternating-groups-iii",
+            "level": 3
+        },
+        {
+            "id": 3239,
+            "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+            "slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+            "level": 2
+        },
+        {
+            "id": 3240,
+            "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+            "slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+            "level": 2
+        },
+        {
+            "id": 3238,
+            "title": "Find the Number of Winning Players",
+            "slug": "find-the-number-of-winning-players",
+            "level": 1
+        },
+        {
+            "id": 3243,
+            "title": "Shortest Distance After Road Addition Queries I",
+            "slug": "shortest-distance-after-road-addition-queries-i",
+            "level": 2
+        },
+        {
+            "id": 3242,
+            "title": "Design Neighbor Sum Service",
+            "slug": "design-neighbor-sum-service",
+            "level": 1
+        },
+        {
+            "id": 3232,
+            "title": "Find if Digit Game Can Be Won",
+            "slug": "find-if-digit-game-can-be-won",
+            "level": 1
+        },
+        {
+            "id": 3244,
+            "title": "Shortest Distance After Road Addition Queries II",
+            "slug": "shortest-distance-after-road-addition-queries-ii",
+            "level": 3
         },
         {
             "id": 3222,
@@ -17,6 +71,12 @@
             "title": "Number of Bit Changes to Make Two Integers Equal",
             "slug": "number-of-bit-changes-to-make-two-integers-equal",
             "level": 1
+        },
+        {
+            "id": 3233,
+            "title": "Find the Count of Numbers Which Are Not Special",
+            "slug": "find-the-count-of-numbers-which-are-not-special",
+            "level": 2
         },
         {
             "id": 3217,
@@ -82,6 +142,18 @@
             "id": 3213,
             "title": "Construct String with Minimum Cost",
             "slug": "construct-string-with-minimum-cost",
+            "level": 3
+        },
+        {
+            "id": 3234,
+            "title": "Count the Number of Substrings With Dominant Ones",
+            "slug": "count-the-number-of-substrings-with-dominant-ones",
+            "level": 2
+        },
+        {
+            "id": 3235,
+            "title": "Check if the Rectangle Corner Is Reachable",
+            "slug": "check-if-the-rectangle-corner-is-reachable",
             "level": 3
         },
         {
