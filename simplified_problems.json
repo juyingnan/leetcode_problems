@@ -1,6 +1,24 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3251,
+            "title": "Find the Count of Monotonic Pairs II",
+            "slug": "find-the-count-of-monotonic-pairs-ii",
+            "level": 3
+        },
+        {
+            "id": 3250,
+            "title": "Find the Count of Monotonic Pairs I",
+            "slug": "find-the-count-of-monotonic-pairs-i",
+            "level": 3
+        },
+        {
+            "id": 3248,
+            "title": "Snake in Matrix",
+            "slug": "snake-in-matrix",
+            "level": 1
+        },
+        {
             "id": 3241,
             "title": "Time Taken to Mark All Nodes",
             "slug": "time-taken-to-mark-all-nodes",
@@ -124,6 +142,12 @@
             "id": 3201,
             "title": "Find the Maximum Length of Valid Subsequence I",
             "slug": "find-the-maximum-length-of-valid-subsequence-i",
+            "level": 2
+        },
+        {
+            "id": 3249,
+            "title": "Count the Number of Good Nodes",
+            "slug": "count-the-number-of-good-nodes",
             "level": 2
         },
         {
