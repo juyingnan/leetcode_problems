@@ -1,6 +1,36 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3260,
+            "title": "Find the Largest Palindrome Divisible by K",
+            "slug": "find-the-largest-palindrome-divisible-by-k",
+            "level": 3
+        },
+        {
+            "id": 3256,
+            "title": "Maximum Value Sum by Placing Three Rooks I",
+            "slug": "maximum-value-sum-by-placing-three-rooks-i",
+            "level": 3
+        },
+        {
+            "id": 3261,
+            "title": "Count Substrings That Satisfy K-Constraint II",
+            "slug": "count-substrings-that-satisfy-k-constraint-ii",
+            "level": 3
+        },
+        {
+            "id": 3258,
+            "title": "Count Substrings That Satisfy K-Constraint I",
+            "slug": "count-substrings-that-satisfy-k-constraint-i",
+            "level": 1
+        },
+        {
+            "id": 3257,
+            "title": "Maximum Value Sum by Placing Three Rooks II",
+            "slug": "maximum-value-sum-by-placing-three-rooks-ii",
+            "level": 3
+        },
+        {
             "id": 3251,
             "title": "Find the Count of Monotonic Pairs II",
             "slug": "find-the-count-of-monotonic-pairs-ii",
@@ -43,9 +73,27 @@
             "level": 2
         },
         {
+            "id": 3259,
+            "title": "Maximum Energy Boost From Two Drinks",
+            "slug": "maximum-energy-boost-from-two-drinks",
+            "level": 2
+        },
+        {
             "id": 3240,
             "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
             "slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+            "level": 2
+        },
+        {
+            "id": 3255,
+            "title": "Find the Power of K-Size Subarrays II",
+            "slug": "find-the-power-of-k-size-subarrays-ii",
+            "level": 2
+        },
+        {
+            "id": 3254,
+            "title": "Find the Power of K-Size Subarrays I",
+            "slug": "find-the-power-of-k-size-subarrays-i",
             "level": 2
         },
         {
@@ -12592,6 +12640,12 @@
             "id": 626,
             "title": "Exchange Seats",
             "slug": "exchange-seats",
+            "level": 2
+        },
+        {
+            "id": 624,
+            "title": "Maximum Distance in Arrays",
+            "slug": "maximum-distance-in-arrays",
             "level": 2
         },
         {
