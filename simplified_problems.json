@@ -1,9 +1,45 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3270,
+            "title": "Find the Key of the Numbers",
+            "slug": "find-the-key-of-the-numbers",
+            "level": 1
+        },
+        {
+            "id": 3276,
+            "title": "Select Cells in Grid With Maximum Score",
+            "slug": "select-cells-in-grid-with-maximum-score",
+            "level": 3
+        },
+        {
+            "id": 3266,
+            "title": "Final Array State After K Multiplication Operations II",
+            "slug": "final-array-state-after-k-multiplication-operations-ii",
+            "level": 3
+        },
+        {
+            "id": 3264,
+            "title": "Final Array State After K Multiplication Operations I",
+            "slug": "final-array-state-after-k-multiplication-operations-i",
+            "level": 1
+        },
+        {
+            "id": 3274,
+            "title": "Check if Two Chessboard Squares Have the Same Color",
+            "slug": "check-if-two-chessboard-squares-have-the-same-color",
+            "level": 1
+        },
+        {
             "id": 3260,
             "title": "Find the Largest Palindrome Divisible by K",
             "slug": "find-the-largest-palindrome-divisible-by-k",
+            "level": 3
+        },
+        {
+            "id": 3277,
+            "title": "Maximum XOR Score Subarray Queries",
+            "slug": "maximum-xor-score-subarray-queries",
             "level": 3
         },
         {
@@ -13,9 +49,21 @@
             "level": 3
         },
         {
+            "id": 3272,
+            "title": "Find the Count of Good Integers",
+            "slug": "find-the-count-of-good-integers",
+            "level": 3
+        },
+        {
             "id": 3261,
             "title": "Count Substrings That Satisfy K-Constraint II",
             "slug": "count-substrings-that-satisfy-k-constraint-ii",
+            "level": 3
+        },
+        {
+            "id": 3267,
+            "title": "Count Almost Equal Pairs II",
+            "slug": "count-almost-equal-pairs-ii",
             "level": 3
         },
         {
@@ -31,6 +79,12 @@
             "level": 3
         },
         {
+            "id": 3271,
+            "title": "Hash Divided String",
+            "slug": "hash-divided-string",
+            "level": 2
+        },
+        {
             "id": 3251,
             "title": "Find the Count of Monotonic Pairs II",
             "slug": "find-the-count-of-monotonic-pairs-ii",
@@ -43,6 +97,12 @@
             "level": 3
         },
         {
+            "id": 3265,
+            "title": "Count Almost Equal Pairs I",
+            "slug": "count-almost-equal-pairs-i",
+            "level": 2
+        },
+        {
             "id": 3248,
             "title": "Snake in Matrix",
             "slug": "snake-in-matrix",
@@ -52,6 +112,12 @@
             "id": 3241,
             "title": "Time Taken to Mark All Nodes",
             "slug": "time-taken-to-mark-all-nodes",
+            "level": 3
+        },
+        {
+            "id": 3273,
+            "title": "Minimum Amount of Damage Dealt to Bob",
+            "slug": "minimum-amount-of-damage-dealt-to-bob",
             "level": 3
         },
         {
@@ -160,6 +226,12 @@
             "id": 3224,
             "title": "Minimum Array Changes to Make Differences Equal",
             "slug": "minimum-array-changes-to-make-differences-equal",
+            "level": 2
+        },
+        {
+            "id": 3275,
+            "title": "K-th Nearest Obstacle Queries",
+            "slug": "k-th-nearest-obstacle-queries",
             "level": 2
         },
         {
