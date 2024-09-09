@@ -7,9 +7,21 @@
             "level": 1
         },
         {
+            "id": 3280,
+            "title": "Convert Date to Binary",
+            "slug": "convert-date-to-binary",
+            "level": 1
+        },
+        {
             "id": 3276,
             "title": "Select Cells in Grid With Maximum Score",
             "slug": "select-cells-in-grid-with-maximum-score",
+            "level": 3
+        },
+        {
+            "id": 3283,
+            "title": "Maximum Number of Moves to Kill All Pawns",
+            "slug": "maximum-number-of-moves-to-kill-all-pawns",
             "level": 3
         },
         {
@@ -124,6 +136,12 @@
             "id": 3220,
             "title": "Odd and Even Transactions",
             "slug": "odd-and-even-transactions",
+            "level": 2
+        },
+        {
+            "id": 3282,
+            "title": "Reach End of Array With Max Score",
+            "slug": "reach-end-of-array-with-max-score",
             "level": 2
         },
         {
@@ -268,6 +286,12 @@
             "id": 3249,
             "title": "Count the Number of Good Nodes",
             "slug": "count-the-number-of-good-nodes",
+            "level": 2
+        },
+        {
+            "id": 3281,
+            "title": "Maximize Score of Numbers in Ranges",
+            "slug": "maximize-score-of-numbers-in-ranges",
             "level": 2
         },
         {
