@@ -1,6 +1,30 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3300,
+            "title": "Minimum Element After Replacement With Digit Sum",
+            "slug": "minimum-element-after-replacement-with-digit-sum",
+            "level": 1
+        },
+        {
+            "id": 3307,
+            "title": "Find the K-th Character in String Game II",
+            "slug": "find-the-k-th-character-in-string-game-ii",
+            "level": 3
+        },
+        {
+            "id": 3304,
+            "title": "Find the K-th Character in String Game I",
+            "slug": "find-the-k-th-character-in-string-game-i",
+            "level": 1
+        },
+        {
+            "id": 3302,
+            "title": "Find the Lexicographically Smallest Valid Sequence",
+            "slug": "find-the-lexicographically-smallest-valid-sequence",
+            "level": 2
+        },
+        {
             "id": 3285,
             "title": "Find Indices of Stable Mountains",
             "slug": "find-indices-of-stable-mountains",
@@ -13,9 +37,27 @@
             "level": 1
         },
         {
+            "id": 3303,
+            "title": "Find the Occurrence of First Almost Equal Substring",
+            "slug": "find-the-occurrence-of-first-almost-equal-substring",
+            "level": 3
+        },
+        {
             "id": 3287,
             "title": "Find the Maximum Sequence Value of Array",
             "slug": "find-the-maximum-sequence-value-of-array",
+            "level": 3
+        },
+        {
+            "id": 3297,
+            "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+            "slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+            "level": 2
+        },
+        {
+            "id": 3298,
+            "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+            "slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
             "level": 3
         },
         {
@@ -23,6 +65,18 @@
             "title": "Length of the Longest Increasing Path",
             "slug": "length-of-the-longest-increasing-path",
             "level": 3
+        },
+        {
+            "id": 3305,
+            "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+            "slug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+            "level": 2
+        },
+        {
+            "id": 3306,
+            "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+            "slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+            "level": 2
         },
         {
             "id": 3270,
@@ -131,6 +185,12 @@
             "title": "Maximum Value Sum by Placing Three Rooks II",
             "slug": "maximum-value-sum-by-placing-three-rooks-ii",
             "level": 3
+        },
+        {
+            "id": 3295,
+            "title": "Report Spam Message",
+            "slug": "report-spam-message",
+            "level": 2
         },
         {
             "id": 3271,
@@ -265,6 +325,12 @@
             "level": 1
         },
         {
+            "id": 3301,
+            "title": "Maximize the Total Height of Unique Towers",
+            "slug": "maximize-the-total-height-of-unique-towers",
+            "level": 2
+        },
+        {
             "id": 3226,
             "title": "Number of Bit Changes to Make Two Integers Equal",
             "slug": "number-of-bit-changes-to-make-two-integers-equal",
@@ -292,6 +358,12 @@
             "id": 3224,
             "title": "Minimum Array Changes to Make Differences Equal",
             "slug": "minimum-array-changes-to-make-differences-equal",
+            "level": 2
+        },
+        {
+            "id": 3296,
+            "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+            "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
             "level": 2
         },
         {
