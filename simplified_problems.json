@@ -1,10 +1,46 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3315,
+            "title": "Construct the Minimum Bitwise Array II",
+            "slug": "construct-the-minimum-bitwise-array-ii",
+            "level": 2
+        },
+        {
+            "id": 3318,
+            "title": "Find X-Sum of All K-Long Subarrays I",
+            "slug": "find-x-sum-of-all-k-long-subarrays-i",
+            "level": 1
+        },
+        {
+            "id": 3326,
+            "title": "Minimum Division Operations to Make Array Non Decreasing",
+            "slug": "minimum-division-operations-to-make-array-non-decreasing",
+            "level": 2
+        },
+        {
             "id": 3300,
             "title": "Minimum Element After Replacement With Digit Sum",
             "slug": "minimum-element-after-replacement-with-digit-sum",
             "level": 1
+        },
+        {
+            "id": 3314,
+            "title": "Construct the Minimum Bitwise Array I",
+            "slug": "construct-the-minimum-bitwise-array-i",
+            "level": 1
+        },
+        {
+            "id": 3317,
+            "title": "Find the Number of Possible Ways for an Event",
+            "slug": "find-the-number-of-possible-ways-for-an-event",
+            "level": 3
+        },
+        {
+            "id": 3327,
+            "title": "Check if DFS Strings Are Palindromes",
+            "slug": "check-if-dfs-strings-are-palindromes",
+            "level": 3
         },
         {
             "id": 3307,
@@ -19,10 +55,28 @@
             "level": 1
         },
         {
+            "id": 3321,
+            "title": "Find X-Sum of All K-Long Subarrays II",
+            "slug": "find-x-sum-of-all-k-long-subarrays-ii",
+            "level": 3
+        },
+        {
+            "id": 3320,
+            "title": "Count The Number of Winning Sequences",
+            "slug": "count-the-number-of-winning-sequences",
+            "level": 3
+        },
+        {
             "id": 3302,
             "title": "Find the Lexicographically Smallest Valid Sequence",
             "slug": "find-the-lexicographically-smallest-valid-sequence",
             "level": 2
+        },
+        {
+            "id": 3312,
+            "title": "Sorted GCD Pair Queries",
+            "slug": "sorted-gcd-pair-queries",
+            "level": 3
         },
         {
             "id": 3285,
@@ -40,6 +94,18 @@
             "id": 3303,
             "title": "Find the Occurrence of First Almost Equal Substring",
             "slug": "find-the-occurrence-of-first-almost-equal-substring",
+            "level": 3
+        },
+        {
+            "id": 3309,
+            "title": "Maximum Possible Number by Binary Concatenation",
+            "slug": "maximum-possible-number-by-binary-concatenation",
+            "level": 2
+        },
+        {
+            "id": 3311,
+            "title": "Construct 2D Grid Matching Graph Layout",
+            "slug": "construct-2d-grid-matching-graph-layout",
             "level": 3
         },
         {
@@ -91,10 +157,22 @@
             "level": 1
         },
         {
+            "id": 3324,
+            "title": "Find the Sequence of Strings Appeared on the Screen",
+            "slug": "find-the-sequence-of-strings-appeared-on-the-screen",
+            "level": 2
+        },
+        {
             "id": 3276,
             "title": "Select Cells in Grid With Maximum Score",
             "slug": "select-cells-in-grid-with-maximum-score",
             "level": 3
+        },
+        {
+            "id": 3310,
+            "title": "Remove Methods From Project",
+            "slug": "remove-methods-from-project",
+            "level": 2
         },
         {
             "id": 3283,
@@ -331,6 +409,12 @@
             "level": 2
         },
         {
+            "id": 3319,
+            "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+            "slug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+            "level": 2
+        },
+        {
             "id": 3226,
             "title": "Number of Bit Changes to Make Two Integers Equal",
             "slug": "number-of-bit-changes-to-make-two-integers-equal",
@@ -340,6 +424,12 @@
             "id": 3233,
             "title": "Find the Count of Numbers Which Are Not Special",
             "slug": "find-the-count-of-numbers-which-are-not-special",
+            "level": 2
+        },
+        {
+            "id": 3325,
+            "title": "Count Substrings With K-Frequency Characters I",
+            "slug": "count-substrings-with-k-frequency-characters-i",
             "level": 2
         },
         {
@@ -400,6 +490,12 @@
             "id": 3201,
             "title": "Find the Maximum Length of Valid Subsequence I",
             "slug": "find-the-maximum-length-of-valid-subsequence-i",
+            "level": 2
+        },
+        {
+            "id": 3316,
+            "title": "Find Maximum Removals From Source String",
+            "slug": "find-maximum-removals-from-source-string",
             "level": 2
         },
         {
