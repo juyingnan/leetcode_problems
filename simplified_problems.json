@@ -1,6 +1,54 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3343,
+            "title": "Count Number of Balanced Permutations",
+            "slug": "count-number-of-balanced-permutations",
+            "level": 3
+        },
+        {
+            "id": 3340,
+            "title": "Check Balanced String",
+            "slug": "check-balanced-string",
+            "level": 1
+        },
+        {
+            "id": 3337,
+            "title": "Total Characters in String After Transformations II",
+            "slug": "total-characters-in-string-after-transformations-ii",
+            "level": 3
+        },
+        {
+            "id": 3335,
+            "title": "Total Characters in String After Transformations I",
+            "slug": "total-characters-in-string-after-transformations-i",
+            "level": 2
+        },
+        {
+            "id": 3342,
+            "title": "Find Minimum Time to Reach Last Room II",
+            "slug": "find-minimum-time-to-reach-last-room-ii",
+            "level": 2
+        },
+        {
+            "id": 3341,
+            "title": "Find Minimum Time to Reach Last Room I",
+            "slug": "find-minimum-time-to-reach-last-room-i",
+            "level": 2
+        },
+        {
+            "id": 3333,
+            "title": "Find the Original Typed String II",
+            "slug": "find-the-original-typed-string-ii",
+            "level": 3
+        },
+        {
+            "id": 3330,
+            "title": "Find the Original Typed String I",
+            "slug": "find-the-original-typed-string-i",
+            "level": 1
+        },
+        {
             "id": 3315,
             "title": "Construct the Minimum Bitwise Array II",
             "slug": "construct-the-minimum-bitwise-array-ii",
@@ -11,6 +59,12 @@
             "title": "Find X-Sum of All K-Long Subarrays I",
             "slug": "find-x-sum-of-all-k-long-subarrays-i",
             "level": 1
+        },
+        {
+            "id": 3336,
+            "title": "Find the Number of Subsequences With Equal GCD",
+            "slug": "find-the-number-of-subsequences-with-equal-gcd",
+            "level": 3
         },
         {
             "id": 3326,
@@ -55,6 +109,12 @@
             "level": 1
         },
         {
+            "id": 3334,
+            "title": "Find the Maximum Factor Score of Array",
+            "slug": "find-the-maximum-factor-score-of-array",
+            "level": 2
+        },
+        {
             "id": 3321,
             "title": "Find X-Sum of All K-Long Subarrays II",
             "slug": "find-x-sum-of-all-k-long-subarrays-ii",
@@ -65,6 +125,12 @@
             "title": "Count The Number of Winning Sequences",
             "slug": "count-the-number-of-winning-sequences",
             "level": 3
+        },
+        {
+            "id": 3332,
+            "title": "Maximum Points Tourist Can Earn",
+            "slug": "maximum-points-tourist-can-earn",
+            "level": 2
         },
         {
             "id": 3302,
@@ -107,6 +173,12 @@
             "title": "Construct 2D Grid Matching Graph Layout",
             "slug": "construct-2d-grid-matching-graph-layout",
             "level": 3
+        },
+        {
+            "id": 3331,
+            "title": "Find Subtree Sizes After Changes",
+            "slug": "find-subtree-sizes-after-changes",
+            "level": 2
         },
         {
             "id": 3287,
