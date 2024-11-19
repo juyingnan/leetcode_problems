@@ -1,6 +1,36 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3357,
+            "title": "Minimize the Maximum Adjacent Element Difference",
+            "slug": "minimize-the-maximum-adjacent-element-difference",
+            "level": 3
+        },
+        {
+            "id": 3351,
+            "title": "Sum of Good Subsequences",
+            "slug": "sum-of-good-subsequences",
+            "level": 3
+        },
+        {
+            "id": 3356,
+            "title": "Zero Array Transformation II",
+            "slug": "zero-array-transformation-ii",
+            "level": 2
+        },
+        {
+            "id": 3347,
+            "title": "Maximum Frequency of an Element After Performing Operations II",
+            "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+            "level": 3
+        },
+        {
+            "id": 3355,
+            "title": "Zero Array Transformation I",
+            "slug": "zero-array-transformation-i",
+            "level": 2
+        },
+        {
             "id": 3343,
             "title": "Count Number of Balanced Permutations",
             "slug": "count-number-of-balanced-permutations",
@@ -11,6 +41,18 @@
             "title": "Check Balanced String",
             "slug": "check-balanced-string",
             "level": 1
+        },
+        {
+            "id": 3348,
+            "title": "Smallest Divisible Digit Product II",
+            "slug": "smallest-divisible-digit-product-ii",
+            "level": 3
+        },
+        {
+            "id": 3352,
+            "title": "Count K-Reducible Numbers Less Than N",
+            "slug": "count-k-reducible-numbers-less-than-n",
+            "level": 3
         },
         {
             "id": 3337,
@@ -37,6 +79,24 @@
             "level": 2
         },
         {
+            "id": 3345,
+            "title": "Smallest Divisible Digit Product I",
+            "slug": "smallest-divisible-digit-product-i",
+            "level": 1
+        },
+        {
+            "id": 3346,
+            "title": "Maximum Frequency of an Element After Performing Operations I",
+            "slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+            "level": 2
+        },
+        {
+            "id": 3350,
+            "title": "Adjacent Increasing Subarrays Detection II",
+            "slug": "adjacent-increasing-subarrays-detection-ii",
+            "level": 2
+        },
+        {
             "id": 3333,
             "title": "Find the Original Typed String II",
             "slug": "find-the-original-typed-string-ii",
@@ -46,6 +106,18 @@
             "id": 3330,
             "title": "Find the Original Typed String I",
             "slug": "find-the-original-typed-string-i",
+            "level": 1
+        },
+        {
+            "id": 3354,
+            "title": "Make Array Elements Equal to Zero",
+            "slug": "make-array-elements-equal-to-zero",
+            "level": 1
+        },
+        {
+            "id": 3349,
+            "title": "Adjacent Increasing Subarrays Detection I",
+            "slug": "adjacent-increasing-subarrays-detection-i",
             "level": 1
         },
         {
