@@ -1,16 +1,64 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3374,
+            "title": "First Letter Capitalization II",
+            "slug": "first-letter-capitalization-ii",
+            "level": 3
+        },
+        {
+            "id": 3370,
+            "title": "Smallest Number With All Set Bits",
+            "slug": "smallest-number-with-all-set-bits",
+            "level": 1
+        },
+        {
+            "id": 3367,
+            "title": "Maximize Sum of Weights after Edge Removals",
+            "slug": "maximize-sum-of-weights-after-edge-removals",
+            "level": 3
+        },
+        {
             "id": 3357,
             "title": "Minimize the Maximum Adjacent Element Difference",
             "slug": "minimize-the-maximum-adjacent-element-difference",
             "level": 3
         },
         {
+            "id": 3366,
+            "title": "Minimum Array Sum",
+            "slug": "minimum-array-sum",
+            "level": 2
+        },
+        {
+            "id": 3363,
+            "title": "Find the Maximum Number of Fruits Collected",
+            "slug": "find-the-maximum-number-of-fruits-collected",
+            "level": 3
+        },
+        {
+            "id": 3362,
+            "title": "Zero Array Transformation III",
+            "slug": "zero-array-transformation-iii",
+            "level": 2
+        },
+        {
             "id": 3351,
             "title": "Sum of Good Subsequences",
             "slug": "sum-of-good-subsequences",
             "level": 3
+        },
+        {
+            "id": 3373,
+            "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+            "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+            "level": 3
+        },
+        {
+            "id": 3364,
+            "title": "Minimum Positive Sum Subarray ",
+            "slug": "minimum-positive-sum-subarray",
+            "level": 1
         },
         {
             "id": 3356,
@@ -49,6 +97,12 @@
             "level": 3
         },
         {
+            "id": 3372,
+            "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+            "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+            "level": 2
+        },
+        {
             "id": 3352,
             "title": "Count K-Reducible Numbers Less Than N",
             "slug": "count-k-reducible-numbers-less-than-n",
@@ -82,6 +136,12 @@
             "id": 3345,
             "title": "Smallest Divisible Digit Product I",
             "slug": "smallest-divisible-digit-product-i",
+            "level": 1
+        },
+        {
+            "id": 3360,
+            "title": "Stone Removal Game",
+            "slug": "stone-removal-game",
             "level": 1
         },
         {
@@ -181,6 +241,18 @@
             "level": 1
         },
         {
+            "id": 3365,
+            "title": "Rearrange K Substrings to Form Target String",
+            "slug": "rearrange-k-substrings-to-form-target-string",
+            "level": 2
+        },
+        {
+            "id": 3371,
+            "title": "Identify the Largest Outlier in an Array",
+            "slug": "identify-the-largest-outlier-in-an-array",
+            "level": 2
+        },
+        {
             "id": 3334,
             "title": "Find the Maximum Factor Score of Array",
             "slug": "find-the-maximum-factor-score-of-array",
@@ -191,6 +263,12 @@
             "title": "Find X-Sum of All K-Long Subarrays II",
             "slug": "find-x-sum-of-all-k-long-subarrays-ii",
             "level": 3
+        },
+        {
+            "id": 3361,
+            "title": "Shift Distance Between Two Strings",
+            "slug": "shift-distance-between-two-strings",
+            "level": 2
         },
         {
             "id": 3320,
