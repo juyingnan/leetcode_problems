@@ -1,10 +1,214 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3421,
+            "title": "Find Students Who Improved",
+            "slug": "find-students-who-improved",
+            "level": 2
+        },
+        {
+            "id": 3434,
+            "title": "Maximum Frequency After Subarray Operation",
+            "slug": "maximum-frequency-after-subarray-operation",
+            "level": 2
+        },
+        {
+            "id": 3423,
+            "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+            "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+            "level": 1
+        },
+        {
+            "id": 3426,
+            "title": "Manhattan Distances of All Arrangements of Pieces",
+            "slug": "manhattan-distances-of-all-arrangements-of-pieces",
+            "level": 3
+        },
+        {
+            "id": 3429,
+            "title": "Paint House IV",
+            "slug": "paint-house-iv",
+            "level": 2
+        },
+        {
+            "id": 3427,
+            "title": "Sum of Variable Length Subarrays",
+            "slug": "sum-of-variable-length-subarrays",
+            "level": 1
+        },
+        {
+            "id": 3430,
+            "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+            "slug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+            "level": 3
+        },
+        {
+            "id": 3433,
+            "title": "Count Mentions Per User",
+            "slug": "count-mentions-per-user",
+            "level": 2
+        },
+        {
+            "id": 3419,
+            "title": "Minimize the Maximum Edge Weight of Graph",
+            "slug": "minimize-the-maximum-edge-weight-of-graph",
+            "level": 2
+        },
+        {
+            "id": 3409,
+            "title": "Longest Subsequence With Decreasing Adjacent Difference",
+            "slug": "longest-subsequence-with-decreasing-adjacent-difference",
+            "level": 2
+        },
+        {
+            "id": 3413,
+            "title": "Maximum Coins From K Consecutive Bags",
+            "slug": "maximum-coins-from-k-consecutive-bags",
+            "level": 2
+        },
+        {
+            "id": 3428,
+            "title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+            "slug": "maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+            "level": 2
+        },
+        {
+            "id": 3435,
+            "title": "Frequencies of Shortest Supersequences",
+            "slug": "frequencies-of-shortest-supersequences",
+            "level": 3
+        },
+        {
+            "id": 3424,
+            "title": "Minimum Cost to Make Arrays Identical",
+            "slug": "minimum-cost-to-make-arrays-identical",
+            "level": 2
+        },
+        {
             "id": 3374,
             "title": "First Letter Capitalization II",
             "slug": "first-letter-capitalization-ii",
             "level": 3
+        },
+        {
+            "id": 3417,
+            "title": "Zigzag Grid Traversal With Skip",
+            "slug": "zigzag-grid-traversal-with-skip",
+            "level": 1
+        },
+        {
+            "id": 3399,
+            "title": "Smallest Substring With Identical Characters II",
+            "slug": "smallest-substring-with-identical-characters-ii",
+            "level": 3
+        },
+        {
+            "id": 3432,
+            "title": "Count Partitions with Even Sum Difference",
+            "slug": "count-partitions-with-even-sum-difference",
+            "level": 1
+        },
+        {
+            "id": 3411,
+            "title": "Maximum Subarray With Equal Products",
+            "slug": "maximum-subarray-with-equal-products",
+            "level": 1
+        },
+        {
+            "id": 3395,
+            "title": "Subsequences with a Unique Middle Mode I",
+            "slug": "subsequences-with-a-unique-middle-mode-i",
+            "level": 3
+        },
+        {
+            "id": 3404,
+            "title": "Count Special Subsequences",
+            "slug": "count-special-subsequences",
+            "level": 2
+        },
+        {
+            "id": 3402,
+            "title": "Minimum Operations to Make Columns Strictly Increasing",
+            "slug": "minimum-operations-to-make-columns-strictly-increasing",
+            "level": 1
+        },
+        {
+            "id": 3398,
+            "title": "Smallest Substring With Identical Characters I",
+            "slug": "smallest-substring-with-identical-characters-i",
+            "level": 3
+        },
+        {
+            "id": 3382,
+            "title": "Maximum Area Rectangle With Point Constraints II",
+            "slug": "maximum-area-rectangle-with-point-constraints-ii",
+            "level": 3
+        },
+        {
+            "id": 3410,
+            "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+            "slug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+            "level": 3
+        },
+        {
+            "id": 3425,
+            "title": "Longest Special Path",
+            "slug": "longest-special-path",
+            "level": 3
+        },
+        {
+            "id": 3388,
+            "title": "Count Beautiful Splits in an Array",
+            "slug": "count-beautiful-splits-in-an-array",
+            "level": 2
+        },
+        {
+            "id": 3392,
+            "title": "Count Subarrays of Length Three With a Condition",
+            "slug": "count-subarrays-of-length-three-with-a-condition",
+            "level": 1
+        },
+        {
+            "id": 3407,
+            "title": "Substring Matching Pattern",
+            "slug": "substring-matching-pattern",
+            "level": 1
+        },
+        {
+            "id": 3403,
+            "title": "Find the Lexicographically Largest String From the Box I",
+            "slug": "find-the-lexicographically-largest-string-from-the-box-i",
+            "level": 2
+        },
+        {
+            "id": 3405,
+            "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+            "slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+            "level": 3
+        },
+        {
+            "id": 3380,
+            "title": "Maximum Area Rectangle With Point Constraints I",
+            "slug": "maximum-area-rectangle-with-point-constraints-i",
+            "level": 2
+        },
+        {
+            "id": 3378,
+            "title": "Count Connected Components in LCM Graph",
+            "slug": "count-connected-components-in-lcm-graph",
+            "level": 3
+        },
+        {
+            "id": 3408,
+            "title": "Design Task Manager",
+            "slug": "design-task-manager",
+            "level": 2
+        },
+        {
+            "id": 3418,
+            "title": "Maximum Amount of Money Robot Can Earn",
+            "slug": "maximum-amount-of-money-robot-can-earn",
+            "level": 2
         },
         {
             "id": 3370,
@@ -19,15 +223,63 @@
             "level": 3
         },
         {
+            "id": 3420,
+            "title": "Count Non-Decreasing Subarrays After K Operations",
+            "slug": "count-non-decreasing-subarrays-after-k-operations",
+            "level": 3
+        },
+        {
+            "id": 3393,
+            "title": "Count Paths With the Given XOR Value",
+            "slug": "count-paths-with-the-given-xor-value",
+            "level": 2
+        },
+        {
             "id": 3357,
             "title": "Minimize the Maximum Adjacent Element Difference",
             "slug": "minimize-the-maximum-adjacent-element-difference",
             "level": 3
         },
         {
+            "id": 3394,
+            "title": "Check if Grid can be Cut into Sections",
+            "slug": "check-if-grid-can-be-cut-into-sections",
+            "level": 2
+        },
+        {
+            "id": 3396,
+            "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+            "slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+            "level": 1
+        },
+        {
+            "id": 3377,
+            "title": "Digit Operations to Make Two Integers Equal",
+            "slug": "digit-operations-to-make-two-integers-equal",
+            "level": 2
+        },
+        {
             "id": 3366,
             "title": "Minimum Array Sum",
             "slug": "minimum-array-sum",
+            "level": 2
+        },
+        {
+            "id": 3381,
+            "title": "Maximum Subarray Sum With Length Divisible by K",
+            "slug": "maximum-subarray-sum-with-length-divisible-by-k",
+            "level": 2
+        },
+        {
+            "id": 3379,
+            "title": "Transformed Array",
+            "slug": "transformed-array",
+            "level": 1
+        },
+        {
+            "id": 3376,
+            "title": "Minimum Time to Break Locks I",
+            "slug": "minimum-time-to-break-locks-i",
             "level": 2
         },
         {
@@ -79,6 +331,12 @@
             "level": 2
         },
         {
+            "id": 3389,
+            "title": "Minimum Operations to Make Character Frequencies Equal",
+            "slug": "minimum-operations-to-make-character-frequencies-equal",
+            "level": 3
+        },
+        {
             "id": 3343,
             "title": "Count Number of Balanced Permutations",
             "slug": "count-number-of-balanced-permutations",
@@ -97,10 +355,22 @@
             "level": 3
         },
         {
+            "id": 3412,
+            "title": "Find Mirror Score of a String",
+            "slug": "find-mirror-score-of-a-string",
+            "level": 2
+        },
+        {
             "id": 3372,
             "title": "Maximize the Number of Target Nodes After Connecting Trees I",
             "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
             "level": 2
+        },
+        {
+            "id": 3386,
+            "title": "Button with Longest Push Time",
+            "slug": "button-with-longest-push-time",
+            "level": 1
         },
         {
             "id": 3352,
@@ -151,6 +421,18 @@
             "level": 2
         },
         {
+            "id": 3375,
+            "title": "Minimum Operations to Make Array Values Equal to K",
+            "slug": "minimum-operations-to-make-array-values-equal-to-k",
+            "level": 1
+        },
+        {
+            "id": 3397,
+            "title": "Maximum Number of Distinct Elements After Operations",
+            "slug": "maximum-number-of-distinct-elements-after-operations",
+            "level": 2
+        },
+        {
             "id": 3350,
             "title": "Adjacent Increasing Subarrays Detection II",
             "slug": "adjacent-increasing-subarrays-detection-ii",
@@ -173,6 +455,12 @@
             "title": "Make Array Elements Equal to Zero",
             "slug": "make-array-elements-equal-to-zero",
             "level": 1
+        },
+        {
+            "id": 3387,
+            "title": "Maximize Amount After Two Days of Conversions",
+            "slug": "maximize-amount-after-two-days-of-conversions",
+            "level": 2
         },
         {
             "id": 3349,
@@ -388,6 +676,12 @@
             "id": 3276,
             "title": "Select Cells in Grid With Maximum Score",
             "slug": "select-cells-in-grid-with-maximum-score",
+            "level": 3
+        },
+        {
+            "id": 3414,
+            "title": "Maximum Score of Non-overlapping Intervals",
+            "slug": "maximum-score-of-non-overlapping-intervals",
             "level": 3
         },
         {
