@@ -1,10 +1,178 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3482,
+            "title": "Analyze Organization Hierarchy",
+            "slug": "analyze-organization-hierarchy",
+            "level": 3
+        },
+        {
+            "id": 3475,
+            "title": "DNA Pattern Recognition ",
+            "slug": "dna-pattern-recognition",
+            "level": 2
+        },
+        {
+            "id": 3465,
+            "title": "Find Products with Valid Serial Numbers",
+            "slug": "find-products-with-valid-serial-numbers",
+            "level": 1
+        },
+        {
+            "id": 3451,
+            "title": "Find Invalid IP Addresses",
+            "slug": "find-invalid-ip-addresses",
+            "level": 3
+        },
+        {
+            "id": 3479,
+            "title": "Fruits Into Baskets III",
+            "slug": "fruits-into-baskets-iii",
+            "level": 2
+        },
+        {
+            "id": 3477,
+            "title": "Fruits Into Baskets II",
+            "slug": "fruits-into-baskets-ii",
+            "level": 1
+        },
+        {
+            "id": 3480,
+            "title": "Maximize Subarrays After Removing One Conflicting Pair",
+            "slug": "maximize-subarrays-after-removing-one-conflicting-pair",
+            "level": 3
+        },
+        {
+            "id": 3472,
+            "title": "Longest Palindromic Subsequence After at Most K Operations",
+            "slug": "longest-palindromic-subsequence-after-at-most-k-operations",
+            "level": 2
+        },
+        {
+            "id": 3468,
+            "title": "Find the Number of Copy Arrays",
+            "slug": "find-the-number-of-copy-arrays",
+            "level": 2
+        },
+        {
+            "id": 3470,
+            "title": "Permutations IV",
+            "slug": "permutations-iv",
+            "level": 3
+        },
+        {
+            "id": 3436,
+            "title": "Find Valid Emails",
+            "slug": "find-valid-emails",
+            "level": 1
+        },
+        {
+            "id": 3464,
+            "title": "Maximize the Distance Between Points on a Square",
+            "slug": "maximize-the-distance-between-points-on-a-square",
+            "level": 3
+        },
+        {
+            "id": 3457,
+            "title": "Eat Pizzas!",
+            "slug": "eat-pizzas",
+            "level": 2
+        },
+        {
+            "id": 3467,
+            "title": "Transform Array by Parity",
+            "slug": "transform-array-by-parity",
+            "level": 1
+        },
+        {
+            "id": 3469,
+            "title": "Find Minimum Cost to Remove Array Elements",
+            "slug": "find-minimum-cost-to-remove-array-elements",
+            "level": 2
+        },
+        {
+            "id": 3454,
+            "title": "Separate Squares II",
+            "slug": "separate-squares-ii",
+            "level": 3
+        },
+        {
+            "id": 3463,
+            "title": "Check If Digits Are Equal in String After Operations II",
+            "slug": "check-if-digits-are-equal-in-string-after-operations-ii",
+            "level": 3
+        },
+        {
+            "id": 3458,
+            "title": "Select K Disjoint Special Substrings",
+            "slug": "select-k-disjoint-special-substrings",
+            "level": 2
+        },
+        {
+            "id": 3474,
+            "title": "Lexicographically Smallest Generated String",
+            "slug": "lexicographically-smallest-generated-string",
+            "level": 3
+        },
+        {
+            "id": 3461,
+            "title": "Check If Digits Are Equal in String After Operations I",
+            "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+            "level": 1
+        },
+        {
             "id": 3421,
             "title": "Find Students Who Improved",
             "slug": "find-students-who-improved",
             "level": 2
+        },
+        {
+            "id": 3462,
+            "title": "Maximum Sum With at Most K Elements",
+            "slug": "maximum-sum-with-at-most-k-elements",
+            "level": 2
+        },
+        {
+            "id": 3453,
+            "title": "Separate Squares I",
+            "slug": "separate-squares-i",
+            "level": 2
+        },
+        {
+            "id": 3449,
+            "title": "Maximize the Minimum Game Score",
+            "slug": "maximize-the-minimum-game-score",
+            "level": 3
+        },
+        {
+            "id": 3445,
+            "title": "Maximum Difference Between Even and Odd Frequency II",
+            "slug": "maximum-difference-between-even-and-odd-frequency-ii",
+            "level": 3
+        },
+        {
+            "id": 3447,
+            "title": "Assign Elements to Groups with Constraints",
+            "slug": "assign-elements-to-groups-with-constraints",
+            "level": 2
+        },
+        {
+            "id": 3478,
+            "title": "Choose K Elements With Maximum Sum",
+            "slug": "choose-k-elements-with-maximum-sum",
+            "level": 2
+        },
+        {
+            "id": 3443,
+            "title": "Maximum Manhattan Distance After K Changes",
+            "slug": "maximum-manhattan-distance-after-k-changes",
+            "level": 2
+        },
+        {
+            "id": 3442,
+            "title": "Maximum Difference Between Even and Odd Frequency I",
+            "slug": "maximum-difference-between-even-and-odd-frequency-i",
+            "level": 1
         },
         {
             "id": 3434,
@@ -13,10 +181,28 @@
             "level": 2
         },
         {
+            "id": 3446,
+            "title": "Sort Matrix by Diagonals",
+            "slug": "sort-matrix-by-diagonals",
+            "level": 2
+        },
+        {
             "id": 3423,
             "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
             "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
             "level": 1
+        },
+        {
+            "id": 3439,
+            "title": "Reschedule Meetings for Maximum Free Time I",
+            "slug": "reschedule-meetings-for-maximum-free-time-i",
+            "level": 2
+        },
+        {
+            "id": 3440,
+            "title": "Reschedule Meetings for Maximum Free Time II",
+            "slug": "reschedule-meetings-for-maximum-free-time-ii",
+            "level": 2
         },
         {
             "id": 3426,
@@ -31,6 +217,18 @@
             "level": 2
         },
         {
+            "id": 3438,
+            "title": "Find Valid Pair of Adjacent Digits in String",
+            "slug": "find-valid-pair-of-adjacent-digits-in-string",
+            "level": 1
+        },
+        {
+            "id": 3459,
+            "title": "Length of Longest V-Shaped Diagonal Segment",
+            "slug": "length-of-longest-v-shaped-diagonal-segment",
+            "level": 3
+        },
+        {
             "id": 3427,
             "title": "Sum of Variable Length Subarrays",
             "slug": "sum-of-variable-length-subarrays",
@@ -41,6 +239,18 @@
             "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
             "slug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
             "level": 3
+        },
+        {
+            "id": 3452,
+            "title": "Sum of Good Numbers",
+            "slug": "sum-of-good-numbers",
+            "level": 1
+        },
+        {
+            "id": 3473,
+            "title": "Sum of K Subarrays With Length at Least M",
+            "slug": "sum-of-k-subarrays-with-length-at-least-m",
+            "level": 2
         },
         {
             "id": 3433,
@@ -91,6 +301,12 @@
             "level": 3
         },
         {
+            "id": 3456,
+            "title": "Find Special Substring of Length K",
+            "slug": "find-special-substring-of-length-k",
+            "level": 1
+        },
+        {
             "id": 3417,
             "title": "Zigzag Grid Traversal With Skip",
             "slug": "zigzag-grid-traversal-with-skip",
@@ -101,6 +317,12 @@
             "title": "Smallest Substring With Identical Characters II",
             "slug": "smallest-substring-with-identical-characters-ii",
             "level": 3
+        },
+        {
+            "id": 3471,
+            "title": "Find the Largest Almost Missing Integer",
+            "slug": "find-the-largest-almost-missing-integer",
+            "level": 1
         },
         {
             "id": 3432,
@@ -115,6 +337,12 @@
             "level": 1
         },
         {
+            "id": 3441,
+            "title": "Minimum Cost Good Caption",
+            "slug": "minimum-cost-good-caption",
+            "level": 3
+        },
+        {
             "id": 3395,
             "title": "Subsequences with a Unique Middle Mode I",
             "slug": "subsequences-with-a-unique-middle-mode-i",
@@ -125,6 +353,24 @@
             "title": "Count Special Subsequences",
             "slug": "count-special-subsequences",
             "level": 2
+        },
+        {
+            "id": 3444,
+            "title": "Minimum Increments for Target Multiples in an Array",
+            "slug": "minimum-increments-for-target-multiples-in-an-array",
+            "level": 3
+        },
+        {
+            "id": 3448,
+            "title": "Count Substrings Divisible By Last Digit",
+            "slug": "count-substrings-divisible-by-last-digit",
+            "level": 3
+        },
+        {
+            "id": 3455,
+            "title": "Shortest Matching Substring",
+            "slug": "shortest-matching-substring",
+            "level": 3
         },
         {
             "id": 3402,
