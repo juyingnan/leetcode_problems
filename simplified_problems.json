@@ -1,10 +1,28 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3497,
+            "title": "Analyze Subscription Conversion ",
+            "slug": "analyze-subscription-conversion",
+            "level": 2
+        },
+        {
+            "id": 3502,
+            "title": "Minimum Cost to Reach Every Position",
+            "slug": "minimum-cost-to-reach-every-position",
+            "level": 1
+        },
+        {
             "id": 3482,
             "title": "Analyze Organization Hierarchy",
             "slug": "analyze-organization-hierarchy",
             "level": 3
+        },
+        {
+            "id": 3492,
+            "title": "Maximum Containers on a Ship",
+            "slug": "maximum-containers-on-a-ship",
+            "level": 1
         },
         {
             "id": 3475,
@@ -13,10 +31,82 @@
             "level": 2
         },
         {
+            "id": 3498,
+            "title": "Reverse Degree of a String",
+            "slug": "reverse-degree-of-a-string",
+            "level": 1
+        },
+        {
+            "id": 3493,
+            "title": "Properties Graph",
+            "slug": "properties-graph",
+            "level": 2
+        },
+        {
+            "id": 3504,
+            "title": "Longest Palindrome After Substring Concatenation II",
+            "slug": "longest-palindrome-after-substring-concatenation-ii",
+            "level": 3
+        },
+        {
+            "id": 3499,
+            "title": "Maximize Active Section with Trade I",
+            "slug": "maximize-active-section-with-trade-i",
+            "level": 2
+        },
+        {
+            "id": 3501,
+            "title": "Maximize Active Section with Trade II",
+            "slug": "maximize-active-section-with-trade-ii",
+            "level": 3
+        },
+        {
             "id": 3465,
             "title": "Find Products with Valid Serial Numbers",
             "slug": "find-products-with-valid-serial-numbers",
             "level": 1
+        },
+        {
+            "id": 3490,
+            "title": "Count Beautiful Numbers",
+            "slug": "count-beautiful-numbers",
+            "level": 3
+        },
+        {
+            "id": 3483,
+            "title": "Unique 3-Digit Even Numbers",
+            "slug": "unique-3-digit-even-numbers",
+            "level": 1
+        },
+        {
+            "id": 3486,
+            "title": "Longest Special Path II",
+            "slug": "longest-special-path-ii",
+            "level": 3
+        },
+        {
+            "id": 3484,
+            "title": "Design Spreadsheet",
+            "slug": "design-spreadsheet",
+            "level": 2
+        },
+        {
+            "id": 3489,
+            "title": "Zero Array Transformation IV",
+            "slug": "zero-array-transformation-iv",
+            "level": 2
+        },
+        {
+            "id": 3494,
+            "title": "Find the Minimum Amount of Time to Brew Potions",
+            "slug": "find-the-minimum-amount-of-time-to-brew-potions",
+            "level": 2
+        },
+        {
+            "id": 3503,
+            "title": "Longest Palindrome After Substring Concatenation I",
+            "slug": "longest-palindrome-after-substring-concatenation-i",
+            "level": 2
         },
         {
             "id": 3451,
@@ -43,6 +133,12 @@
             "level": 3
         },
         {
+            "id": 3487,
+            "title": "Maximum Unique Subarray Sum After Deletion",
+            "slug": "maximum-unique-subarray-sum-after-deletion",
+            "level": 1
+        },
+        {
             "id": 3472,
             "title": "Longest Palindromic Subsequence After at Most K Operations",
             "slug": "longest-palindromic-subsequence-after-at-most-k-operations",
@@ -53,6 +149,12 @@
             "title": "Find the Number of Copy Arrays",
             "slug": "find-the-number-of-copy-arrays",
             "level": 2
+        },
+        {
+            "id": 3485,
+            "title": "Longest Common Prefix of K Strings After Removal",
+            "slug": "longest-common-prefix-of-k-strings-after-removal",
+            "level": 3
         },
         {
             "id": 3470,
@@ -127,6 +229,12 @@
             "level": 2
         },
         {
+            "id": 3500,
+            "title": "Minimum Cost to Divide Array Into Subarrays",
+            "slug": "minimum-cost-to-divide-array-into-subarrays",
+            "level": 3
+        },
+        {
             "id": 3462,
             "title": "Maximum Sum With at Most K Elements",
             "slug": "maximum-sum-with-at-most-k-elements",
@@ -181,6 +289,12 @@
             "level": 2
         },
         {
+            "id": 3488,
+            "title": "Closest Equal Element Queries",
+            "slug": "closest-equal-element-queries",
+            "level": 2
+        },
+        {
             "id": 3446,
             "title": "Sort Matrix by Diagonals",
             "slug": "sort-matrix-by-diagonals",
@@ -191,6 +305,12 @@
             "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
             "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
             "level": 1
+        },
+        {
+            "id": 3495,
+            "title": "Minimum Operations to Make Array Elements Zero",
+            "slug": "minimum-operations-to-make-array-elements-zero",
+            "level": 3
         },
         {
             "id": 3439,
@@ -263,6 +383,12 @@
             "title": "Minimize the Maximum Edge Weight of Graph",
             "slug": "minimize-the-maximum-edge-weight-of-graph",
             "level": 2
+        },
+        {
+            "id": 3505,
+            "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+            "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+            "level": 3
         },
         {
             "id": 3409,
