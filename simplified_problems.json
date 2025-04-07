@@ -19,6 +19,12 @@
             "level": 3
         },
         {
+            "id": 3508,
+            "title": "Implement Router",
+            "slug": "implement-router",
+            "level": 2
+        },
+        {
             "id": 3492,
             "title": "Maximum Containers on a Ship",
             "slug": "maximum-containers-on-a-ship",
@@ -187,6 +193,12 @@
             "level": 1
         },
         {
+            "id": 3509,
+            "title": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+            "slug": "maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+            "level": 3
+        },
+        {
             "id": 3469,
             "title": "Find Minimum Cost to Remove Array Elements",
             "slug": "find-minimum-cost-to-remove-array-elements",
@@ -202,6 +214,18 @@
             "id": 3463,
             "title": "Check If Digits Are Equal in String After Operations II",
             "slug": "check-if-digits-are-equal-in-string-after-operations-ii",
+            "level": 3
+        },
+        {
+            "id": 3507,
+            "title": "Minimum Pair Removal to Sort Array I",
+            "slug": "minimum-pair-removal-to-sort-array-i",
+            "level": 1
+        },
+        {
+            "id": 3510,
+            "title": "Minimum Pair Removal to Sort Array II",
+            "slug": "minimum-pair-removal-to-sort-array-ii",
             "level": 3
         },
         {
