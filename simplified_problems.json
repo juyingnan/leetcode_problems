@@ -7,10 +7,28 @@
             "level": 2
         },
         {
+            "id": 3512,
+            "title": "Minimum Operations to Make Array Sum Divisible by K",
+            "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+            "level": 1
+        },
+        {
             "id": 3502,
             "title": "Minimum Cost to Reach Every Position",
             "slug": "minimum-cost-to-reach-every-position",
             "level": 1
+        },
+        {
+            "id": 3516,
+            "title": "Find Closest Person",
+            "slug": "find-closest-person",
+            "level": 1
+        },
+        {
+            "id": 3515,
+            "title": "Shortest Path in a Weighted Tree",
+            "slug": "shortest-path-in-a-weighted-tree",
+            "level": 3
         },
         {
             "id": 3482,
@@ -22,6 +40,18 @@
             "id": 3508,
             "title": "Implement Router",
             "slug": "implement-router",
+            "level": 2
+        },
+        {
+            "id": 3513,
+            "title": "Number of Unique XOR Triplets I",
+            "slug": "number-of-unique-xor-triplets-i",
+            "level": 2
+        },
+        {
+            "id": 3514,
+            "title": "Number of Unique XOR Triplets II",
+            "slug": "number-of-unique-xor-triplets-ii",
             "level": 2
         },
         {
@@ -37,10 +67,28 @@
             "level": 2
         },
         {
+            "id": 3518,
+            "title": "Smallest Palindromic Rearrangement II",
+            "slug": "smallest-palindromic-rearrangement-ii",
+            "level": 3
+        },
+        {
+            "id": 3517,
+            "title": "Smallest Palindromic Rearrangement I",
+            "slug": "smallest-palindromic-rearrangement-i",
+            "level": 2
+        },
+        {
             "id": 3498,
             "title": "Reverse Degree of a String",
             "slug": "reverse-degree-of-a-string",
             "level": 1
+        },
+        {
+            "id": 3519,
+            "title": "Count Numbers with Non-Decreasing Digits ",
+            "slug": "count-numbers-with-non-decreasing-digits",
+            "level": 3
         },
         {
             "id": 3493,
