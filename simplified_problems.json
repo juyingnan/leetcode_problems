@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3521,
+            "title": "Find Product Recommendation Pairs",
+            "slug": "find-product-recommendation-pairs",
+            "level": 2
+        },
+        {
             "id": 3497,
             "title": "Analyze Subscription Conversion ",
             "slug": "analyze-subscription-conversion",
