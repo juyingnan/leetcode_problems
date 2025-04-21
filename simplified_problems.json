@@ -19,10 +19,22 @@
             "level": 1
         },
         {
+            "id": 3525,
+            "title": "Find X Value of Array II",
+            "slug": "find-x-value-of-array-ii",
+            "level": 3
+        },
+        {
             "id": 3502,
             "title": "Minimum Cost to Reach Every Position",
             "slug": "minimum-cost-to-reach-every-position",
             "level": 1
+        },
+        {
+            "id": 3524,
+            "title": "Find X Value of Array I",
+            "slug": "find-x-value-of-array-i",
+            "level": 2
         },
         {
             "id": 3516,
@@ -409,6 +421,12 @@
             "level": 3
         },
         {
+            "id": 3523,
+            "title": "Make Array Non-decreasing",
+            "slug": "make-array-non-decreasing",
+            "level": 2
+        },
+        {
             "id": 3429,
             "title": "Paint House IV",
             "slug": "paint-house-iv",
@@ -425,6 +443,12 @@
             "title": "Length of Longest V-Shaped Diagonal Segment",
             "slug": "length-of-longest-v-shaped-diagonal-segment",
             "level": 3
+        },
+        {
+            "id": 3522,
+            "title": "Calculate Score After Performing Instructions",
+            "slug": "calculate-score-after-performing-instructions",
+            "level": 2
         },
         {
             "id": 3427,
