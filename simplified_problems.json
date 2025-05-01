@@ -7,6 +7,12 @@
             "level": 2
         },
         {
+            "id": 3534,
+            "title": "Path Existence Queries in a Graph II",
+            "slug": "path-existence-queries-in-a-graph-ii",
+            "level": 3
+        },
+        {
             "id": 3497,
             "title": "Analyze Subscription Conversion ",
             "slug": "analyze-subscription-conversion",
@@ -19,10 +25,22 @@
             "level": 1
         },
         {
+            "id": 3533,
+            "title": "Concatenated Divisibility",
+            "slug": "concatenated-divisibility",
+            "level": 3
+        },
+        {
             "id": 3525,
             "title": "Find X Value of Array II",
             "slug": "find-x-value-of-array-ii",
             "level": 3
+        },
+        {
+            "id": 3532,
+            "title": "Path Existence Queries in a Graph I",
+            "slug": "path-existence-queries-in-a-graph-i",
+            "level": 2
         },
         {
             "id": 3502,
@@ -61,15 +79,33 @@
             "level": 2
         },
         {
+            "id": 3530,
+            "title": "Maximum Profit from Valid Topological Order in DAG",
+            "slug": "maximum-profit-from-valid-topological-order-in-dag",
+            "level": 3
+        },
+        {
             "id": 3513,
             "title": "Number of Unique XOR Triplets I",
             "slug": "number-of-unique-xor-triplets-i",
             "level": 2
         },
         {
+            "id": 3529,
+            "title": "Count Cells in Overlapping Horizontal and Vertical Substrings",
+            "slug": "count-cells-in-overlapping-horizontal-and-vertical-substrings",
+            "level": 2
+        },
+        {
             "id": 3514,
             "title": "Number of Unique XOR Triplets II",
             "slug": "number-of-unique-xor-triplets-ii",
+            "level": 2
+        },
+        {
+            "id": 3531,
+            "title": "Count Covered Buildings",
+            "slug": "count-covered-buildings",
             "level": 2
         },
         {
@@ -457,6 +493,12 @@
             "level": 1
         },
         {
+            "id": 3528,
+            "title": "Unit Conversion I",
+            "slug": "unit-conversion-i",
+            "level": 2
+        },
+        {
             "id": 3430,
             "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
             "slug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
@@ -539,6 +581,12 @@
             "title": "Zigzag Grid Traversal With Skip",
             "slug": "zigzag-grid-traversal-with-skip",
             "level": 1
+        },
+        {
+            "id": 3527,
+            "title": "Find the Most Common Response",
+            "slug": "find-the-most-common-response",
+            "level": 2
         },
         {
             "id": 3399,
