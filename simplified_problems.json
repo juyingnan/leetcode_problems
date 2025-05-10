@@ -7,9 +7,21 @@
             "level": 2
         },
         {
+            "id": 3536,
+            "title": "Maximum Product of Two Digits",
+            "slug": "maximum-product-of-two-digits",
+            "level": 1
+        },
+        {
             "id": 3534,
             "title": "Path Existence Queries in a Graph II",
             "slug": "path-existence-queries-in-a-graph-ii",
+            "level": 3
+        },
+        {
+            "id": 3539,
+            "title": "Find Sum of Array Product of Magical Sequences",
+            "slug": "find-sum-of-array-product-of-magical-sequences",
             "level": 3
         },
         {
@@ -41,6 +53,12 @@
             "title": "Path Existence Queries in a Graph I",
             "slug": "path-existence-queries-in-a-graph-i",
             "level": 2
+        },
+        {
+            "id": 3538,
+            "title": "Merge Operations for Minimum Travel Time",
+            "slug": "merge-operations-for-minimum-travel-time",
+            "level": 3
         },
         {
             "id": 3502,
@@ -88,6 +106,12 @@
             "id": 3513,
             "title": "Number of Unique XOR Triplets I",
             "slug": "number-of-unique-xor-triplets-i",
+            "level": 2
+        },
+        {
+            "id": 3537,
+            "title": "Fill a Special Grid",
+            "slug": "fill-a-special-grid",
             "level": 2
         },
         {
