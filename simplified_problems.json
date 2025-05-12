@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3541,
+            "title": "Find Most Frequent Vowel and Consonant",
+            "slug": "find-most-frequent-vowel-and-consonant",
+            "level": 1
+        },
+        {
+            "id": 3545,
+            "title": "Minimum Deletions for At Most K Distinct Characters",
+            "slug": "minimum-deletions-for-at-most-k-distinct-characters",
+            "level": 1
+        },
+        {
             "id": 3521,
             "title": "Find Product Recommendation Pairs",
             "slug": "find-product-recommendation-pairs",
@@ -11,6 +23,18 @@
             "title": "Maximum Product of Two Digits",
             "slug": "maximum-product-of-two-digits",
             "level": 1
+        },
+        {
+            "id": 3544,
+            "title": "Subtree Inversion Sum",
+            "slug": "subtree-inversion-sum",
+            "level": 3
+        },
+        {
+            "id": 3543,
+            "title": "Maximum Weighted K-Edge Path",
+            "slug": "maximum-weighted-k-edge-path",
+            "level": 2
         },
         {
             "id": 3534,
@@ -25,6 +49,18 @@
             "level": 3
         },
         {
+            "id": 3548,
+            "title": "Equal Sum Grid Partition II",
+            "slug": "equal-sum-grid-partition-ii",
+            "level": 3
+        },
+        {
+            "id": 3546,
+            "title": "Equal Sum Grid Partition I",
+            "slug": "equal-sum-grid-partition-i",
+            "level": 2
+        },
+        {
             "id": 3497,
             "title": "Analyze Subscription Conversion ",
             "slug": "analyze-subscription-conversion",
@@ -35,6 +71,12 @@
             "title": "Minimum Operations to Make Array Sum Divisible by K",
             "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
             "level": 1
+        },
+        {
+            "id": 3547,
+            "title": "Maximum Sum of Edge Values in a Graph",
+            "slug": "maximum-sum-of-edge-values-in-a-graph",
+            "level": 3
         },
         {
             "id": 3533,
@@ -52,6 +94,12 @@
             "id": 3532,
             "title": "Path Existence Queries in a Graph I",
             "slug": "path-existence-queries-in-a-graph-i",
+            "level": 2
+        },
+        {
+            "id": 3542,
+            "title": "Minimum Operations to Convert All Elements to Zero",
+            "slug": "minimum-operations-to-convert-all-elements-to-zero",
             "level": 2
         },
         {
