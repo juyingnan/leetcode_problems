@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3554,
+            "title": "Find Category Recommendation Pairs",
+            "slug": "find-category-recommendation-pairs",
+            "level": 3
+        },
+        {
             "id": 3541,
             "title": "Find Most Frequent Vowel and Consonant",
             "slug": "find-most-frequent-vowel-and-consonant",
@@ -10,6 +16,12 @@
             "id": 3545,
             "title": "Minimum Deletions for At Most K Distinct Characters",
             "slug": "minimum-deletions-for-at-most-k-distinct-characters",
+            "level": 1
+        },
+        {
+            "id": 3550,
+            "title": "Smallest Index With Digit Sum Equal to Index",
+            "slug": "smallest-index-with-digit-sum-equal-to-index",
             "level": 1
         },
         {
@@ -35,6 +47,12 @@
             "title": "Maximum Weighted K-Edge Path",
             "slug": "maximum-weighted-k-edge-path",
             "level": 2
+        },
+        {
+            "id": 3553,
+            "title": "Minimum Weighted Subgraph With the Required Paths II",
+            "slug": "minimum-weighted-subgraph-with-the-required-paths-ii",
+            "level": 3
         },
         {
             "id": 3534,
@@ -67,6 +85,12 @@
             "level": 2
         },
         {
+            "id": 3551,
+            "title": "Minimum Swaps to Sort by Digit Sum",
+            "slug": "minimum-swaps-to-sort-by-digit-sum",
+            "level": 2
+        },
+        {
             "id": 3512,
             "title": "Minimum Operations to Make Array Sum Divisible by K",
             "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
@@ -94,6 +118,12 @@
             "id": 3532,
             "title": "Path Existence Queries in a Graph I",
             "slug": "path-existence-queries-in-a-graph-i",
+            "level": 2
+        },
+        {
+            "id": 3552,
+            "title": "Grid Teleportation Traversal",
+            "slug": "grid-teleportation-traversal",
             "level": 2
         },
         {
