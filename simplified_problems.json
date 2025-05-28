@@ -1,10 +1,22 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3564,
+            "title": "Seasonal Sales Analysis",
+            "slug": "seasonal-sales-analysis",
+            "level": 2
+        },
+        {
             "id": 3554,
             "title": "Find Category Recommendation Pairs",
             "slug": "find-category-recommendation-pairs",
             "level": 3
+        },
+        {
+            "id": 3560,
+            "title": "Find Minimum Log Transportation Cost",
+            "slug": "find-minimum-log-transportation-cost",
+            "level": 1
         },
         {
             "id": 3541,
@@ -25,9 +37,21 @@
             "level": 1
         },
         {
+            "id": 3563,
+            "title": "Lexicographically Smallest String After Adjacent Removals",
+            "slug": "lexicographically-smallest-string-after-adjacent-removals",
+            "level": 3
+        },
+        {
             "id": 3521,
             "title": "Find Product Recommendation Pairs",
             "slug": "find-product-recommendation-pairs",
+            "level": 2
+        },
+        {
+            "id": 3561,
+            "title": "Resulting String After Adjacent Removals",
+            "slug": "resulting-string-after-adjacent-removals",
             "level": 2
         },
         {
@@ -43,10 +67,22 @@
             "level": 3
         },
         {
+            "id": 3557,
+            "title": "Find Maximum Number of Non Intersecting Substrings",
+            "slug": "find-maximum-number-of-non-intersecting-substrings",
+            "level": 2
+        },
+        {
             "id": 3543,
             "title": "Maximum Weighted K-Edge Path",
             "slug": "maximum-weighted-k-edge-path",
             "level": 2
+        },
+        {
+            "id": 3562,
+            "title": "Maximum Profit from Trading Stocks with Discounts",
+            "slug": "maximum-profit-from-trading-stocks-with-discounts",
+            "level": 3
         },
         {
             "id": 3553,
@@ -100,6 +136,18 @@
             "id": 3547,
             "title": "Maximum Sum of Edge Values in a Graph",
             "slug": "maximum-sum-of-edge-values-in-a-graph",
+            "level": 3
+        },
+        {
+            "id": 3558,
+            "title": "Number of Ways to Assign Edge Weights I",
+            "slug": "number-of-ways-to-assign-edge-weights-i",
+            "level": 2
+        },
+        {
+            "id": 3559,
+            "title": "Number of Ways to Assign Edge Weights II",
+            "slug": "number-of-ways-to-assign-edge-weights-ii",
             "level": 3
         },
         {
@@ -220,6 +268,12 @@
             "id": 3475,
             "title": "DNA Pattern Recognition ",
             "slug": "dna-pattern-recognition",
+            "level": 2
+        },
+        {
+            "id": 3556,
+            "title": "Sum of Largest Prime Substrings",
+            "slug": "sum-of-largest-prime-substrings",
             "level": 2
         },
         {
