@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3570,
+            "title": "Find Books with No Available Copies",
+            "slug": "find-books-with-no-available-copies",
+            "level": 1
+        },
+        {
             "id": 3564,
             "title": "Seasonal Sales Analysis",
             "slug": "seasonal-sales-analysis",
@@ -13,10 +19,22 @@
             "level": 3
         },
         {
+            "id": 3567,
+            "title": "Minimum Absolute Difference in Sliding Submatrix",
+            "slug": "minimum-absolute-difference-in-sliding-submatrix",
+            "level": 2
+        },
+        {
             "id": 3560,
             "title": "Find Minimum Log Transportation Cost",
             "slug": "find-minimum-log-transportation-cost",
             "level": 1
+        },
+        {
+            "id": 3569,
+            "title": "Maximize Count of Distinct Primes After Split",
+            "slug": "maximize-count-of-distinct-primes-after-split",
+            "level": 3
         },
         {
             "id": 3541,
@@ -29,6 +47,12 @@
             "title": "Minimum Deletions for At Most K Distinct Characters",
             "slug": "minimum-deletions-for-at-most-k-distinct-characters",
             "level": 1
+        },
+        {
+            "id": 3568,
+            "title": "Minimum Moves to Clean the Classroom",
+            "slug": "minimum-moves-to-clean-the-classroom",
+            "level": 2
         },
         {
             "id": 3550,
@@ -142,6 +166,12 @@
             "id": 3558,
             "title": "Number of Ways to Assign Edge Weights I",
             "slug": "number-of-ways-to-assign-edge-weights-i",
+            "level": 2
+        },
+        {
+            "id": 3566,
+            "title": "Partition Array into Two Equal Product Subsets",
+            "slug": "partition-array-into-two-equal-product-subsets",
             "level": 2
         },
         {
@@ -14258,8 +14288,8 @@
         },
         {
             "id": 596,
-            "title": "Classes More Than 5 Students",
-            "slug": "classes-more-than-5-students",
+            "title": "Classes With at Least 5 Students",
+            "slug": "classes-with-at-least-5-students",
             "level": 1
         },
         {
