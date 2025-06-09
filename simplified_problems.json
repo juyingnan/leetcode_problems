@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3580,
+            "title": "Find Consistently Improving Employees",
+            "slug": "find-consistently-improving-employees",
+            "level": 2
+        },
+        {
             "id": 3570,
             "title": "Find Books with No Available Copies",
             "slug": "find-books-with-no-available-copies",
@@ -13,9 +19,27 @@
             "level": 2
         },
         {
+            "id": 3572,
+            "title": "Maximize Y\u2011Sum by Picking a Triplet of Distinct X\u2011Values",
+            "slug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+            "level": 2
+        },
+        {
+            "id": 3573,
+            "title": "Best Time to Buy and Sell Stock V",
+            "slug": "best-time-to-buy-and-sell-stock-v",
+            "level": 2
+        },
+        {
             "id": 3554,
             "title": "Find Category Recommendation Pairs",
             "slug": "find-category-recommendation-pairs",
+            "level": 3
+        },
+        {
+            "id": 3574,
+            "title": "Maximize Subarray GCD Score",
+            "slug": "maximize-subarray-gcd-score",
             "level": 3
         },
         {
@@ -34,6 +58,18 @@
             "id": 3569,
             "title": "Maximize Count of Distinct Primes After Split",
             "slug": "maximize-count-of-distinct-primes-after-split",
+            "level": 3
+        },
+        {
+            "id": 3576,
+            "title": "Transform Array to All Equal Elements",
+            "slug": "transform-array-to-all-equal-elements",
+            "level": 2
+        },
+        {
+            "id": 3575,
+            "title": "Maximum Good Subtree Score",
+            "slug": "maximum-good-subtree-score",
             "level": 3
         },
         {
@@ -67,9 +103,21 @@
             "level": 3
         },
         {
+            "id": 3579,
+            "title": "Minimum Steps to Convert String with Operations",
+            "slug": "minimum-steps-to-convert-string-with-operations",
+            "level": 3
+        },
+        {
             "id": 3521,
             "title": "Find Product Recommendation Pairs",
             "slug": "find-product-recommendation-pairs",
+            "level": 2
+        },
+        {
+            "id": 3577,
+            "title": "Count the Number of Computer Unlocking Permutations",
+            "slug": "count-the-number-of-computer-unlocking-permutations",
             "level": 2
         },
         {
@@ -202,6 +250,12 @@
             "id": 3552,
             "title": "Grid Teleportation Traversal",
             "slug": "grid-teleportation-traversal",
+            "level": 2
+        },
+        {
+            "id": 3578,
+            "title": "Count Partitions With Max-Min Difference at Most K",
+            "slug": "count-partitions-with-max-min-difference-at-most-k",
             "level": 2
         },
         {
