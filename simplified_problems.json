@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3586,
+            "title": "Find COVID Recovery Patients",
+            "slug": "find-covid-recovery-patients",
+            "level": 2
+        },
+        {
             "id": 3580,
             "title": "Find Consistently Improving Employees",
             "slug": "find-consistently-improving-employees",
@@ -13,6 +19,12 @@
             "level": 1
         },
         {
+            "id": 3585,
+            "title": "Find Weighted Median Node in Tree",
+            "slug": "find-weighted-median-node-in-tree",
+            "level": 3
+        },
+        {
             "id": 3564,
             "title": "Seasonal Sales Analysis",
             "slug": "seasonal-sales-analysis",
@@ -23,6 +35,12 @@
             "title": "Maximize Y\u2011Sum by Picking a Triplet of Distinct X\u2011Values",
             "slug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
             "level": 2
+        },
+        {
+            "id": 3582,
+            "title": "Generate Tag for Video Caption",
+            "slug": "generate-tag-for-video-caption",
+            "level": 1
         },
         {
             "id": 3573,
@@ -41,6 +59,12 @@
             "title": "Maximize Subarray GCD Score",
             "slug": "maximize-subarray-gcd-score",
             "level": 3
+        },
+        {
+            "id": 3583,
+            "title": "Count Special Triplets",
+            "slug": "count-special-triplets",
+            "level": 2
         },
         {
             "id": 3567,
@@ -634,6 +658,12 @@
             "id": 3478,
             "title": "Choose K Elements With Maximum Sum",
             "slug": "choose-k-elements-with-maximum-sum",
+            "level": 2
+        },
+        {
+            "id": 3584,
+            "title": "Maximum Product of First and Last Elements of a Subsequence",
+            "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence",
             "level": 2
         },
         {
