@@ -13,10 +13,46 @@
             "level": 2
         },
         {
+            "id": 3591,
+            "title": "Check if Any Element Has Prime Frequency",
+            "slug": "check-if-any-element-has-prime-frequency",
+            "level": 1
+        },
+        {
             "id": 3570,
             "title": "Find Books with No Available Copies",
             "slug": "find-books-with-no-available-copies",
             "level": 1
+        },
+        {
+            "id": 3593,
+            "title": "Minimum Increments to Equalize Leaf Paths",
+            "slug": "minimum-increments-to-equalize-leaf-paths",
+            "level": 2
+        },
+        {
+            "id": 3589,
+            "title": "Count Prime-Gap Balanced Subarrays",
+            "slug": "count-prime-gap-balanced-subarrays",
+            "level": 2
+        },
+        {
+            "id": 3590,
+            "title": "Kth Smallest Path XOR Sum",
+            "slug": "kth-smallest-path-xor-sum",
+            "level": 3
+        },
+        {
+            "id": 3587,
+            "title": "Minimum Adjacent Swaps to Alternate Parity",
+            "slug": "minimum-adjacent-swaps-to-alternate-parity",
+            "level": 2
+        },
+        {
+            "id": 3592,
+            "title": "Inverse Coin Change",
+            "slug": "inverse-coin-change",
+            "level": 2
         },
         {
             "id": 3585,
@@ -29,6 +65,12 @@
             "title": "Seasonal Sales Analysis",
             "slug": "seasonal-sales-analysis",
             "level": 2
+        },
+        {
+            "id": 3594,
+            "title": "Minimum Time to Transport All Individuals",
+            "slug": "minimum-time-to-transport-all-individuals",
+            "level": 3
         },
         {
             "id": 3572,
@@ -119,6 +161,12 @@
             "title": "Smallest Index With Digit Sum Equal to Index",
             "slug": "smallest-index-with-digit-sum-equal-to-index",
             "level": 1
+        },
+        {
+            "id": 3588,
+            "title": "Find Maximum Area of a Triangle",
+            "slug": "find-maximum-area-of-a-triangle",
+            "level": 2
         },
         {
             "id": 3563,
