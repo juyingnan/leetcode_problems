@@ -1,10 +1,40 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3611,
+            "title": "Find Overbooked Employees",
+            "slug": "find-overbooked-employees",
+            "level": 2
+        },
+        {
+            "id": 3601,
+            "title": "Find Drivers with Improved Fuel Efficiency",
+            "slug": "find-drivers-with-improved-fuel-efficiency",
+            "level": 2
+        },
+        {
+            "id": 3606,
+            "title": "Coupon Code Validator",
+            "slug": "coupon-code-validator",
+            "level": 1
+        },
+        {
             "id": 3586,
             "title": "Find COVID Recovery Patients",
             "slug": "find-covid-recovery-patients",
             "level": 2
+        },
+        {
+            "id": 3603,
+            "title": "Minimum Cost Path with Alternating Directions II",
+            "slug": "minimum-cost-path-with-alternating-directions-ii",
+            "level": 2
+        },
+        {
+            "id": 3609,
+            "title": "Minimum Moves to Reach Target in Grid",
+            "slug": "minimum-moves-to-reach-target-in-grid",
+            "level": 3
         },
         {
             "id": 3580,
@@ -13,9 +43,33 @@
             "level": 2
         },
         {
+            "id": 3605,
+            "title": "Minimum Stability Factor of Array",
+            "slug": "minimum-stability-factor-of-array",
+            "level": 3
+        },
+        {
+            "id": 3604,
+            "title": "Minimum Time to Reach Destination in Directed Graph",
+            "slug": "minimum-time-to-reach-destination-in-directed-graph",
+            "level": 2
+        },
+        {
             "id": 3591,
             "title": "Check if Any Element Has Prime Frequency",
             "slug": "check-if-any-element-has-prime-frequency",
+            "level": 1
+        },
+        {
+            "id": 3599,
+            "title": "Partition Array to Minimize XOR",
+            "slug": "partition-array-to-minimize-xor",
+            "level": 2
+        },
+        {
+            "id": 3602,
+            "title": "Hexadecimal and Hexatrigesimal Conversion",
+            "slug": "hexadecimal-and-hexatrigesimal-conversion",
             "level": 1
         },
         {
@@ -31,6 +85,12 @@
             "level": 2
         },
         {
+            "id": 3608,
+            "title": "Minimum Time for K Connected Components",
+            "slug": "minimum-time-for-k-connected-components",
+            "level": 2
+        },
+        {
             "id": 3589,
             "title": "Count Prime-Gap Balanced Subarrays",
             "slug": "count-prime-gap-balanced-subarrays",
@@ -43,6 +103,12 @@
             "level": 3
         },
         {
+            "id": 3597,
+            "title": "Partition String ",
+            "slug": "partition-string",
+            "level": 2
+        },
+        {
             "id": 3587,
             "title": "Minimum Adjacent Swaps to Alternate Parity",
             "slug": "minimum-adjacent-swaps-to-alternate-parity",
@@ -53,6 +119,12 @@
             "title": "Inverse Coin Change",
             "slug": "inverse-coin-change",
             "level": 2
+        },
+        {
+            "id": 3600,
+            "title": "Maximize Spanning Tree Stability with Upgrades",
+            "slug": "maximize-spanning-tree-stability-with-upgrades",
+            "level": 3
         },
         {
             "id": 3585,
@@ -190,6 +262,12 @@
             "id": 3577,
             "title": "Count the Number of Computer Unlocking Permutations",
             "slug": "count-the-number-of-computer-unlocking-permutations",
+            "level": 2
+        },
+        {
+            "id": 3607,
+            "title": "Power Grid Maintenance",
+            "slug": "power-grid-maintenance",
             "level": 2
         },
         {
@@ -491,6 +569,12 @@
             "title": "Count Beautiful Numbers",
             "slug": "count-beautiful-numbers",
             "level": 3
+        },
+        {
+            "id": 3598,
+            "title": "Longest Common Prefix Between Adjacent Strings After Removals",
+            "slug": "longest-common-prefix-between-adjacent-strings-after-removals",
+            "level": 2
         },
         {
             "id": 3483,
