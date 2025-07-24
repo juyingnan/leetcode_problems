@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3626,
+            "title": "Find Stores with Inventory Imbalance",
+            "slug": "find-stores-with-inventory-imbalance",
+            "level": 2
+        },
+        {
+            "id": 3617,
+            "title": "Find Students with Study Spiral Pattern",
+            "slug": "find-students-with-study-spiral-pattern",
+            "level": 3
+        },
+        {
             "id": 3611,
             "title": "Find Overbooked Employees",
             "slug": "find-overbooked-employees",
@@ -10,6 +22,30 @@
             "id": 3601,
             "title": "Find Drivers with Improved Fuel Efficiency",
             "slug": "find-drivers-with-improved-fuel-efficiency",
+            "level": 2
+        },
+        {
+            "id": 3624,
+            "title": "Number of Integers With Popcount-Depth Equal to K II",
+            "slug": "number-of-integers-with-popcount-depth-equal-to-k-ii",
+            "level": 3
+        },
+        {
+            "id": 3614,
+            "title": "Process String with Special Operations II",
+            "slug": "process-string-with-special-operations-ii",
+            "level": 3
+        },
+        {
+            "id": 3621,
+            "title": "Number of Integers With Popcount-Depth Equal to K I",
+            "slug": "number-of-integers-with-popcount-depth-equal-to-k-i",
+            "level": 3
+        },
+        {
+            "id": 3618,
+            "title": "Split Array by Prime Indices",
+            "slug": "split-array-by-prime-indices",
             "level": 2
         },
         {
@@ -23,6 +59,18 @@
             "title": "Find COVID Recovery Patients",
             "slug": "find-covid-recovery-patients",
             "level": 2
+        },
+        {
+            "id": 3612,
+            "title": "Process String with Special Operations I",
+            "slug": "process-string-with-special-operations-i",
+            "level": 2
+        },
+        {
+            "id": 3615,
+            "title": "Longest Palindromic Path in Graph",
+            "slug": "longest-palindromic-path-in-graph",
+            "level": 3
         },
         {
             "id": 3603,
@@ -47,6 +95,18 @@
             "title": "Minimum Stability Factor of Array",
             "slug": "minimum-stability-factor-of-array",
             "level": 3
+        },
+        {
+            "id": 3620,
+            "title": "Network Recovery Pathways",
+            "slug": "network-recovery-pathways",
+            "level": 3
+        },
+        {
+            "id": 3622,
+            "title": "Check Divisibility by Digit Sum and Product",
+            "slug": "check-divisibility-by-digit-sum-and-product",
+            "level": 1
         },
         {
             "id": 3604,
@@ -139,6 +199,12 @@
             "level": 2
         },
         {
+            "id": 3625,
+            "title": "Count Number of Trapezoids II",
+            "slug": "count-number-of-trapezoids-ii",
+            "level": 3
+        },
+        {
             "id": 3594,
             "title": "Minimum Time to Transport All Individuals",
             "slug": "minimum-time-to-transport-all-individuals",
@@ -175,6 +241,12 @@
             "level": 3
         },
         {
+            "id": 3623,
+            "title": "Count Number of Trapezoids I",
+            "slug": "count-number-of-trapezoids-i",
+            "level": 2
+        },
+        {
             "id": 3583,
             "title": "Count Special Triplets",
             "slug": "count-special-triplets",
@@ -184,6 +256,12 @@
             "id": 3567,
             "title": "Minimum Absolute Difference in Sliding Submatrix",
             "slug": "minimum-absolute-difference-in-sliding-submatrix",
+            "level": 2
+        },
+        {
+            "id": 3613,
+            "title": "Minimize Maximum Component Cost",
+            "slug": "minimize-maximum-component-cost",
             "level": 2
         },
         {
@@ -466,6 +544,12 @@
             "id": 3513,
             "title": "Number of Unique XOR Triplets I",
             "slug": "number-of-unique-xor-triplets-i",
+            "level": 2
+        },
+        {
+            "id": 3619,
+            "title": "Count Islands With Total Value Divisible by K",
+            "slug": "count-islands-with-total-value-divisible-by-k",
             "level": 2
         },
         {
