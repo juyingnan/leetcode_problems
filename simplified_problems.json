@@ -13,6 +13,12 @@
             "level": 3
         },
         {
+            "id": 3628,
+            "title": "Maximum Number of Subsequences After One Inserting",
+            "slug": "maximum-number-of-subsequences-after-one-inserting",
+            "level": 2
+        },
+        {
             "id": 3611,
             "title": "Find Overbooked Employees",
             "slug": "find-overbooked-employees",
@@ -53,6 +59,12 @@
             "title": "Coupon Code Validator",
             "slug": "coupon-code-validator",
             "level": 1
+        },
+        {
+            "id": 3629,
+            "title": "Minimum Jumps to Reach End via Prime Teleportation",
+            "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+            "level": 2
         },
         {
             "id": 3586,
@@ -257,6 +269,12 @@
             "title": "Minimum Absolute Difference in Sliding Submatrix",
             "slug": "minimum-absolute-difference-in-sliding-submatrix",
             "level": 2
+        },
+        {
+            "id": 3630,
+            "title": "Partition Array for Maximum XOR and AND",
+            "slug": "partition-array-for-maximum-xor-and-and",
+            "level": 3
         },
         {
             "id": 3613,
@@ -832,6 +850,12 @@
             "id": 3421,
             "title": "Find Students Who Improved",
             "slug": "find-students-who-improved",
+            "level": 2
+        },
+        {
+            "id": 3627,
+            "title": "Maximum Median Sum of Subsequences of Size 3",
+            "slug": "maximum-median-sum-of-subsequences-of-size-3",
             "level": 2
         },
         {
