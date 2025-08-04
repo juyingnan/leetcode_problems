@@ -7,15 +7,63 @@
             "level": 2
         },
         {
+            "id": 3635,
+            "title": "Earliest Finish Time for Land and Water Rides II",
+            "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+            "level": 2
+        },
+        {
+            "id": 3633,
+            "title": "Earliest Finish Time for Land and Water Rides I",
+            "slug": "earliest-finish-time-for-land-and-water-rides-i",
+            "level": 1
+        },
+        {
             "id": 3617,
             "title": "Find Students with Study Spiral Pattern",
             "slug": "find-students-with-study-spiral-pattern",
             "level": 3
         },
         {
+            "id": 3634,
+            "title": "Minimum Removals to Balance Array",
+            "slug": "minimum-removals-to-balance-array",
+            "level": 2
+        },
+        {
+            "id": 3640,
+            "title": "Trionic Array II",
+            "slug": "trionic-array-ii",
+            "level": 3
+        },
+        {
+            "id": 3636,
+            "title": "Threshold Majority Queries",
+            "slug": "threshold-majority-queries",
+            "level": 3
+        },
+        {
+            "id": 3638,
+            "title": "Maximum Balanced Shipments",
+            "slug": "maximum-balanced-shipments",
+            "level": 2
+        },
+        {
+            "id": 3637,
+            "title": "Trionic Array I",
+            "slug": "trionic-array-i",
+            "level": 1
+        },
+        {
             "id": 3628,
             "title": "Maximum Number of Subsequences After One Inserting",
             "slug": "maximum-number-of-subsequences-after-one-inserting",
+            "level": 2
+        },
+        {
+            "id": 3639,
+            "title": "Minimum Time to Activate String",
+            "slug": "minimum-time-to-activate-string",
             "level": 2
         },
         {
