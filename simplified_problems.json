@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3642,
+            "title": "Find Books with Polarized Opinions",
+            "slug": "find-books-with-polarized-opinions",
+            "level": 1
+        },
+        {
+            "id": 3643,
+            "title": "Flip Square Submatrix Vertically",
+            "slug": "flip-square-submatrix-vertically",
+            "level": 1
+        },
+        {
             "id": 3626,
             "title": "Find Stores with Inventory Imbalance",
             "slug": "find-stores-with-inventory-imbalance",
@@ -23,6 +35,12 @@
             "title": "Find Students with Study Spiral Pattern",
             "slug": "find-students-with-study-spiral-pattern",
             "level": 3
+        },
+        {
+            "id": 3645,
+            "title": "Maximum Total from Optimal Activation Order",
+            "slug": "maximum-total-from-optimal-activation-order",
+            "level": 2
         },
         {
             "id": 3634,
@@ -53,6 +71,18 @@
             "title": "Trionic Array I",
             "slug": "trionic-array-i",
             "level": 1
+        },
+        {
+            "id": 3646,
+            "title": "Next Special Palindrome Number",
+            "slug": "next-special-palindrome-number",
+            "level": 3
+        },
+        {
+            "id": 3644,
+            "title": "Maximum K to Sort a Permutation",
+            "slug": "maximum-k-to-sort-a-permutation",
+            "level": 2
         },
         {
             "id": 3628,
