@@ -7,6 +7,24 @@
             "level": 1
         },
         {
+            "id": 3652,
+            "title": "Best Time to Buy and Sell Stock using Strategy",
+            "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+            "level": 2
+        },
+        {
+            "id": 3655,
+            "title": "XOR After Range Multiplication Queries II",
+            "slug": "xor-after-range-multiplication-queries-ii",
+            "level": 3
+        },
+        {
+            "id": 3653,
+            "title": "XOR After Range Multiplication Queries I",
+            "slug": "xor-after-range-multiplication-queries-i",
+            "level": 2
+        },
+        {
             "id": 3643,
             "title": "Flip Square Submatrix Vertically",
             "slug": "flip-square-submatrix-vertically",
@@ -25,10 +43,22 @@
             "level": 2
         },
         {
+            "id": 3654,
+            "title": "Minimum Sum After Divisible Sum Deletions",
+            "slug": "minimum-sum-after-divisible-sum-deletions",
+            "level": 2
+        },
+        {
             "id": 3633,
             "title": "Earliest Finish Time for Land and Water Rides I",
             "slug": "earliest-finish-time-for-land-and-water-rides-i",
             "level": 1
+        },
+        {
+            "id": 3649,
+            "title": "Number of Perfect Pairs",
+            "slug": "number-of-perfect-pairs",
+            "level": 2
         },
         {
             "id": 3617,
@@ -88,6 +118,12 @@
             "id": 3628,
             "title": "Maximum Number of Subsequences After One Inserting",
             "slug": "maximum-number-of-subsequences-after-one-inserting",
+            "level": 2
+        },
+        {
+            "id": 3648,
+            "title": "Minimum Sensors to Cover Grid",
+            "slug": "minimum-sensors-to-cover-grid",
             "level": 2
         },
         {
@@ -325,10 +361,22 @@
             "level": 3
         },
         {
+            "id": 3651,
+            "title": "Minimum Cost Path with Teleportations",
+            "slug": "minimum-cost-path-with-teleportations",
+            "level": 3
+        },
+        {
             "id": 3574,
             "title": "Maximize Subarray GCD Score",
             "slug": "maximize-subarray-gcd-score",
             "level": 3
+        },
+        {
+            "id": 3650,
+            "title": "Minimum Cost Path with Edge Reversals",
+            "slug": "minimum-cost-path-with-edge-reversals",
+            "level": 2
         },
         {
             "id": 3623,
