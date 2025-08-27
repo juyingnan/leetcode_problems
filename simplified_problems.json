@@ -1,15 +1,45 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3657,
+            "title": "Find Loyal Customers",
+            "slug": "find-loyal-customers",
+            "level": 2
+        },
+        {
             "id": 3642,
             "title": "Find Books with Polarized Opinions",
             "slug": "find-books-with-polarized-opinions",
             "level": 1
         },
         {
+            "id": 3658,
+            "title": "GCD of Odd and Even Sums",
+            "slug": "gcd-of-odd-and-even-sums",
+            "level": 1
+        },
+        {
+            "id": 3661,
+            "title": "Maximum Walls Destroyed by Robots",
+            "slug": "maximum-walls-destroyed-by-robots",
+            "level": 3
+        },
+        {
+            "id": 3660,
+            "title": "Jump Game IX",
+            "slug": "jump-game-ix",
+            "level": 2
+        },
+        {
             "id": 3652,
             "title": "Best Time to Buy and Sell Stock using Strategy",
             "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+            "level": 2
+        },
+        {
+            "id": 3659,
+            "title": "Partition Array Into K-Distinct Groups",
+            "slug": "partition-array-into-k-distinct-groups",
             "level": 2
         },
         {
