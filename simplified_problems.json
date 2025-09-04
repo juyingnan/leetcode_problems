@@ -7,6 +7,12 @@
             "level": 2
         },
         {
+            "id": 3668,
+            "title": "Restore Finishing Order",
+            "slug": "restore-finishing-order",
+            "level": 1
+        },
+        {
             "id": 3642,
             "title": "Find Books with Polarized Opinions",
             "slug": "find-books-with-polarized-opinions",
@@ -17,6 +23,24 @@
             "title": "GCD of Odd and Even Sums",
             "slug": "gcd-of-odd-and-even-sums",
             "level": 1
+        },
+        {
+            "id": 3663,
+            "title": "Find The Least Frequent Digit",
+            "slug": "find-the-least-frequent-digit",
+            "level": 1
+        },
+        {
+            "id": 3671,
+            "title": "Sum of Beautiful Subsequences",
+            "slug": "sum-of-beautiful-subsequences",
+            "level": 3
+        },
+        {
+            "id": 3666,
+            "title": "Minimum Operations to Equalize Binary String",
+            "slug": "minimum-operations-to-equalize-binary-string",
+            "level": 3
         },
         {
             "id": 3661,
@@ -151,6 +175,12 @@
             "level": 2
         },
         {
+            "id": 3669,
+            "title": "Balanced K-Factor Decomposition",
+            "slug": "balanced-k-factor-decomposition",
+            "level": 2
+        },
+        {
             "id": 3648,
             "title": "Minimum Sensors to Cover Grid",
             "slug": "minimum-sensors-to-cover-grid",
@@ -185,6 +215,12 @@
             "title": "Process String with Special Operations II",
             "slug": "process-string-with-special-operations-ii",
             "level": 3
+        },
+        {
+            "id": 3665,
+            "title": "Twisted Mirror Path Count",
+            "slug": "twisted-mirror-path-count",
+            "level": 2
         },
         {
             "id": 3621,
@@ -268,6 +304,12 @@
             "id": 3604,
             "title": "Minimum Time to Reach Destination in Directed Graph",
             "slug": "minimum-time-to-reach-destination-in-directed-graph",
+            "level": 2
+        },
+        {
+            "id": 3670,
+            "title": "Maximum Product of Two Integers With No Common Bits",
+            "slug": "maximum-product-of-two-integers-with-no-common-bits",
             "level": 2
         },
         {
@@ -449,6 +491,12 @@
             "title": "Maximize Count of Distinct Primes After Split",
             "slug": "maximize-count-of-distinct-primes-after-split",
             "level": 3
+        },
+        {
+            "id": 3664,
+            "title": "Two-Letter Card Game",
+            "slug": "two-letter-card-game",
+            "level": 2
         },
         {
             "id": 3576,
