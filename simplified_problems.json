@@ -1,15 +1,45 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3673,
+            "title": "Find Zombie Sessions",
+            "slug": "find-zombie-sessions",
+            "level": 3
+        },
+        {
             "id": 3657,
             "title": "Find Loyal Customers",
             "slug": "find-loyal-customers",
             "level": 2
         },
         {
+            "id": 3677,
+            "title": "Count Binary Palindromic Numbers",
+            "slug": "count-binary-palindromic-numbers",
+            "level": 3
+        },
+        {
             "id": 3668,
             "title": "Restore Finishing Order",
             "slug": "restore-finishing-order",
+            "level": 1
+        },
+        {
+            "id": 3676,
+            "title": "Count Bowl Subarrays",
+            "slug": "count-bowl-subarrays",
+            "level": 2
+        },
+        {
+            "id": 3675,
+            "title": "Minimum Operations to Transform String",
+            "slug": "minimum-operations-to-transform-string",
+            "level": 2
+        },
+        {
+            "id": 3674,
+            "title": "Minimum Operations to Equalize Array",
+            "slug": "minimum-operations-to-equalize-array",
             "level": 1
         },
         {
