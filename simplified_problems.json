@@ -7,6 +7,12 @@
             "level": 3
         },
         {
+            "id": 3686,
+            "title": "Number of Stable Subsequences",
+            "slug": "number-of-stable-subsequences",
+            "level": 3
+        },
+        {
             "id": 3657,
             "title": "Find Loyal Customers",
             "slug": "find-loyal-customers",
@@ -17,6 +23,18 @@
             "title": "Count Binary Palindromic Numbers",
             "slug": "count-binary-palindromic-numbers",
             "level": 3
+        },
+        {
+            "id": 3683,
+            "title": "Earliest Time to Finish One Task",
+            "slug": "earliest-time-to-finish-one-task",
+            "level": 1
+        },
+        {
+            "id": 3678,
+            "title": "Smallest Absent Positive Greater Than Average",
+            "slug": "smallest-absent-positive-greater-than-average",
+            "level": 1
         },
         {
             "id": 3668,
@@ -43,6 +61,12 @@
             "level": 1
         },
         {
+            "id": 3684,
+            "title": "Maximize Sum of At Most K Distinct Elements",
+            "slug": "maximize-sum-of-at-most-k-distinct-elements",
+            "level": 1
+        },
+        {
             "id": 3642,
             "title": "Find Books with Polarized Opinions",
             "slug": "find-books-with-polarized-opinions",
@@ -59,6 +83,18 @@
             "title": "Find The Least Frequent Digit",
             "slug": "find-the-least-frequent-digit",
             "level": 1
+        },
+        {
+            "id": 3680,
+            "title": "Generate Schedule",
+            "slug": "generate-schedule",
+            "level": 2
+        },
+        {
+            "id": 3681,
+            "title": "Maximum XOR of Subsequences",
+            "slug": "maximum-xor-of-subsequences",
+            "level": 3
         },
         {
             "id": 3671,
@@ -178,6 +214,12 @@
             "id": 3638,
             "title": "Maximum Balanced Shipments",
             "slug": "maximum-balanced-shipments",
+            "level": 2
+        },
+        {
+            "id": 3679,
+            "title": " Minimum Discards to Balance Inventory",
+            "slug": "minimum-discards-to-balance-inventory",
             "level": 2
         },
         {
@@ -539,6 +581,12 @@
             "title": "Maximum Good Subtree Score",
             "slug": "maximum-good-subtree-score",
             "level": 3
+        },
+        {
+            "id": 3685,
+            "title": "Subsequence Sum After Capping Elements",
+            "slug": "subsequence-sum-after-capping-elements",
+            "level": 2
         },
         {
             "id": 3541,
