@@ -37,10 +37,28 @@
             "level": 1
         },
         {
+            "id": 3688,
+            "title": "Bitwise OR of Even Numbers in an Array",
+            "slug": "bitwise-or-of-even-numbers-in-an-array",
+            "level": 1
+        },
+        {
             "id": 3668,
             "title": "Restore Finishing Order",
             "slug": "restore-finishing-order",
             "level": 1
+        },
+        {
+            "id": 3691,
+            "title": "Maximum Total Subarray Value II",
+            "slug": "maximum-total-subarray-value-ii",
+            "level": 3
+        },
+        {
+            "id": 3689,
+            "title": "Maximum Total Subarray Value I",
+            "slug": "maximum-total-subarray-value-i",
+            "level": 2
         },
         {
             "id": 3676,
@@ -335,6 +353,12 @@
             "title": "Longest Palindromic Path in Graph",
             "slug": "longest-palindromic-path-in-graph",
             "level": 3
+        },
+        {
+            "id": 3690,
+            "title": "Split and Merge Array Transformation",
+            "slug": "split-and-merge-array-transformation",
+            "level": 2
         },
         {
             "id": 3603,
