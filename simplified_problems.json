@@ -1,10 +1,28 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3692,
+            "title": "Majority Frequency Characters",
+            "slug": "majority-frequency-characters",
+            "level": 1
+        },
+        {
             "id": 3673,
             "title": "Find Zombie Sessions",
             "slug": "find-zombie-sessions",
             "level": 3
+        },
+        {
+            "id": 3693,
+            "title": "Climbing Stairs II",
+            "slug": "climbing-stairs-ii",
+            "level": 2
+        },
+        {
+            "id": 3697,
+            "title": "Compute Decimal Representation",
+            "slug": "compute-decimal-representation",
+            "level": 1
         },
         {
             "id": 3686,
@@ -25,6 +43,18 @@
             "level": 3
         },
         {
+            "id": 3694,
+            "title": "Distinct Points Reachable After Substring Removal",
+            "slug": "distinct-points-reachable-after-substring-removal",
+            "level": 2
+        },
+        {
+            "id": 3698,
+            "title": "Split Array With Minimum Difference",
+            "slug": "split-array-with-minimum-difference",
+            "level": 2
+        },
+        {
             "id": 3683,
             "title": "Earliest Time to Finish One Task",
             "slug": "earliest-time-to-finish-one-task",
@@ -35,6 +65,12 @@
             "title": "Smallest Absent Positive Greater Than Average",
             "slug": "smallest-absent-positive-greater-than-average",
             "level": 1
+        },
+        {
+            "id": 3695,
+            "title": "Maximize Alternating Sum Using Swaps",
+            "slug": "maximize-alternating-sum-using-swaps",
+            "level": 3
         },
         {
             "id": 3688,
@@ -193,10 +229,22 @@
             "level": 1
         },
         {
+            "id": 3700,
+            "title": "Number of ZigZag Arrays II",
+            "slug": "number-of-zigzag-arrays-ii",
+            "level": 3
+        },
+        {
             "id": 3649,
             "title": "Number of Perfect Pairs",
             "slug": "number-of-perfect-pairs",
             "level": 2
+        },
+        {
+            "id": 3699,
+            "title": "Number of ZigZag Arrays I",
+            "slug": "number-of-zigzag-arrays-i",
+            "level": 3
         },
         {
             "id": 3617,
