@@ -1,10 +1,28 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3705,
+            "title": "Find Golden Hour Customers",
+            "slug": "find-golden-hour-customers",
+            "level": 2
+        },
+        {
+            "id": 3701,
+            "title": "Compute Alternating Sum",
+            "slug": "compute-alternating-sum",
+            "level": 1
+        },
+        {
             "id": 3692,
             "title": "Majority Frequency Characters",
             "slug": "majority-frequency-characters",
             "level": 1
+        },
+        {
+            "id": 3704,
+            "title": "Count No-Zero Pairs That Sum to N",
+            "slug": "count-no-zero-pairs-that-sum-to-n",
+            "level": 3
         },
         {
             "id": 3673,
@@ -23,6 +41,12 @@
             "title": "Compute Decimal Representation",
             "slug": "compute-decimal-representation",
             "level": 1
+        },
+        {
+            "id": 3702,
+            "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+            "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+            "level": 2
         },
         {
             "id": 3686,
@@ -46,6 +70,12 @@
             "id": 3694,
             "title": "Distinct Points Reachable After Substring Removal",
             "slug": "distinct-points-reachable-after-substring-removal",
+            "level": 2
+        },
+        {
+            "id": 3703,
+            "title": "Remove K-Balanced Substrings",
+            "slug": "remove-k-balanced-substrings",
             "level": 2
         },
         {
