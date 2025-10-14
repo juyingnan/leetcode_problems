@@ -1,9 +1,27 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3716,
+            "title": "Find Churn Risk Customers",
+            "slug": "find-churn-risk-customers",
+            "level": 2
+        },
+        {
             "id": 3705,
             "title": "Find Golden Hour Customers",
             "slug": "find-golden-hour-customers",
+            "level": 2
+        },
+        {
+            "id": 3712,
+            "title": "Sum of Elements With Frequency Divisible by K",
+            "slug": "sum-of-elements-with-frequency-divisible-by-k",
+            "level": 1
+        },
+        {
+            "id": 3709,
+            "title": "Design Exam Scores Tracker",
+            "slug": "design-exam-scores-tracker",
             "level": 2
         },
         {
@@ -13,9 +31,27 @@
             "level": 1
         },
         {
+            "id": 3714,
+            "title": "Longest Balanced Substring II",
+            "slug": "longest-balanced-substring-ii",
+            "level": 2
+        },
+        {
+            "id": 3713,
+            "title": "Longest Balanced Substring I",
+            "slug": "longest-balanced-substring-i",
+            "level": 2
+        },
+        {
             "id": 3692,
             "title": "Majority Frequency Characters",
             "slug": "majority-frequency-characters",
+            "level": 1
+        },
+        {
+            "id": 3707,
+            "title": "Equal Score Substrings",
+            "slug": "equal-score-substrings",
             "level": 1
         },
         {
@@ -41,6 +77,12 @@
             "title": "Compute Decimal Representation",
             "slug": "compute-decimal-representation",
             "level": 1
+        },
+        {
+            "id": 3710,
+            "title": "Maximum Partition Factor",
+            "slug": "maximum-partition-factor",
+            "level": 3
         },
         {
             "id": 3702,
@@ -124,6 +166,12 @@
             "id": 3689,
             "title": "Maximum Total Subarray Value I",
             "slug": "maximum-total-subarray-value-i",
+            "level": 2
+        },
+        {
+            "id": 3708,
+            "title": "Longest Fibonacci Subarray",
+            "slug": "longest-fibonacci-subarray",
             "level": 2
         },
         {
@@ -293,6 +341,12 @@
             "title": "Minimum Removals to Balance Array",
             "slug": "minimum-removals-to-balance-array",
             "level": 2
+        },
+        {
+            "id": 3715,
+            "title": "Sum of Perfect Square Ancestors",
+            "slug": "sum-of-perfect-square-ancestors",
+            "level": 3
         },
         {
             "id": 3640,
