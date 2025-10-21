@@ -13,6 +13,12 @@
             "level": 2
         },
         {
+            "id": 3718,
+            "title": "Smallest Missing Multiple of K",
+            "slug": "smallest-missing-multiple-of-k",
+            "level": 1
+        },
+        {
             "id": 3712,
             "title": "Sum of Elements With Frequency Divisible by K",
             "slug": "sum-of-elements-with-frequency-divisible-by-k",
@@ -59,6 +65,18 @@
             "title": "Count No-Zero Pairs That Sum to N",
             "slug": "count-no-zero-pairs-that-sum-to-n",
             "level": 3
+        },
+        {
+            "id": 3721,
+            "title": "Longest Balanced Subarray II",
+            "slug": "longest-balanced-subarray-ii",
+            "level": 3
+        },
+        {
+            "id": 3719,
+            "title": "Longest Balanced Subarray I",
+            "slug": "longest-balanced-subarray-i",
+            "level": 2
         },
         {
             "id": 3673,
@@ -112,6 +130,12 @@
             "id": 3694,
             "title": "Distinct Points Reachable After Substring Removal",
             "slug": "distinct-points-reachable-after-substring-removal",
+            "level": 2
+        },
+        {
+            "id": 3720,
+            "title": "Lexicographically Smallest Permutation Greater Than Target",
+            "slug": "lexicographically-smallest-permutation-greater-than-target",
             "level": 2
         },
         {
