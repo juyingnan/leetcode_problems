@@ -13,16 +13,52 @@
             "level": 2
         },
         {
+            "id": 3723,
+            "title": "Maximize Sum of Squares of Digits",
+            "slug": "maximize-sum-of-squares-of-digits",
+            "level": 2
+        },
+        {
+            "id": 3728,
+            "title": "Stable Subarrays With Equal Boundary and Interior Sum",
+            "slug": "stable-subarrays-with-equal-boundary-and-interior-sum",
+            "level": 2
+        },
+        {
             "id": 3718,
             "title": "Smallest Missing Multiple of K",
             "slug": "smallest-missing-multiple-of-k",
             "level": 1
         },
         {
+            "id": 3727,
+            "title": "Maximum Alternating Sum of Squares",
+            "slug": "maximum-alternating-sum-of-squares",
+            "level": 2
+        },
+        {
+            "id": 3722,
+            "title": "Lexicographically Smallest String After Reverse",
+            "slug": "lexicographically-smallest-string-after-reverse",
+            "level": 2
+        },
+        {
+            "id": 3725,
+            "title": "Count Ways to Choose Coprime Integers from Rows",
+            "slug": "count-ways-to-choose-coprime-integers-from-rows",
+            "level": 3
+        },
+        {
             "id": 3712,
             "title": "Sum of Elements With Frequency Divisible by K",
             "slug": "sum-of-elements-with-frequency-divisible-by-k",
             "level": 1
+        },
+        {
+            "id": 3729,
+            "title": "Count Distinct Subarrays Divisible by K in Sorted Array",
+            "slug": "count-distinct-subarrays-divisible-by-k-in-sorted-array",
+            "level": 3
         },
         {
             "id": 3709,
@@ -61,6 +97,12 @@
             "level": 1
         },
         {
+            "id": 3726,
+            "title": "Remove Zeros in Decimal Representation",
+            "slug": "remove-zeros-in-decimal-representation",
+            "level": 1
+        },
+        {
             "id": 3704,
             "title": "Count No-Zero Pairs That Sum to N",
             "slug": "count-no-zero-pairs-that-sum-to-n",
@@ -83,6 +125,12 @@
             "title": "Find Zombie Sessions",
             "slug": "find-zombie-sessions",
             "level": 3
+        },
+        {
+            "id": 3724,
+            "title": "Minimum Operations to Transform Array",
+            "slug": "minimum-operations-to-transform-array",
+            "level": 2
         },
         {
             "id": 3693,
