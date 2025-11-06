@@ -1,9 +1,21 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3731,
+            "title": "Find Missing Elements",
+            "slug": "find-missing-elements",
+            "level": 1
+        },
+        {
             "id": 3716,
             "title": "Find Churn Risk Customers",
             "slug": "find-churn-risk-customers",
+            "level": 2
+        },
+        {
+            "id": 3732,
+            "title": "Maximum Product of Three Elements After One Replacement",
+            "slug": "maximum-product-of-three-elements-after-one-replacement",
             "level": 2
         },
         {
@@ -109,6 +121,12 @@
             "level": 3
         },
         {
+            "id": 3733,
+            "title": "Minimum Time to Complete All Deliveries",
+            "slug": "minimum-time-to-complete-all-deliveries",
+            "level": 2
+        },
+        {
             "id": 3721,
             "title": "Longest Balanced Subarray II",
             "slug": "longest-balanced-subarray-ii",
@@ -143,6 +161,12 @@
             "title": "Compute Decimal Representation",
             "slug": "compute-decimal-representation",
             "level": 1
+        },
+        {
+            "id": 3734,
+            "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+            "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+            "level": 3
         },
         {
             "id": 3710,
