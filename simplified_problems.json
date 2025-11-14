@@ -1,6 +1,24 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3741,
+            "title": "Minimum Distance Between Three Equal Elements II",
+            "slug": "minimum-distance-between-three-equal-elements-ii",
+            "level": 2
+        },
+        {
+            "id": 3736,
+            "title": "Minimum Moves to Equal Array Elements III",
+            "slug": "minimum-moves-to-equal-array-elements-iii",
+            "level": 1
+        },
+        {
+            "id": 3740,
+            "title": "Minimum Distance Between Three Equal Elements I",
+            "slug": "minimum-distance-between-three-equal-elements-i",
+            "level": 1
+        },
+        {
             "id": 3731,
             "title": "Find Missing Elements",
             "slug": "find-missing-elements",
@@ -16,6 +34,12 @@
             "id": 3732,
             "title": "Maximum Product of Three Elements After One Replacement",
             "slug": "maximum-product-of-three-elements-after-one-replacement",
+            "level": 2
+        },
+        {
+            "id": 3738,
+            "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
+            "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element",
             "level": 2
         },
         {
@@ -46,6 +70,18 @@
             "id": 3727,
             "title": "Maximum Alternating Sum of Squares",
             "slug": "maximum-alternating-sum-of-squares",
+            "level": 2
+        },
+        {
+            "id": 3739,
+            "title": "Count Subarrays With Majority Element II",
+            "slug": "count-subarrays-with-majority-element-ii",
+            "level": 3
+        },
+        {
+            "id": 3737,
+            "title": "Count Subarrays With Majority Element I",
+            "slug": "count-subarrays-with-majority-element-i",
             "level": 2
         },
         {
@@ -179,6 +215,12 @@
             "title": "Longest Subsequence With Non-Zero Bitwise XOR",
             "slug": "longest-subsequence-with-non-zero-bitwise-xor",
             "level": 2
+        },
+        {
+            "id": 3743,
+            "title": "Maximize Cyclic Partition Score",
+            "slug": "maximize-cyclic-partition-score",
+            "level": 3
         },
         {
             "id": 3686,
@@ -329,6 +371,12 @@
             "title": "Sum of Beautiful Subsequences",
             "slug": "sum-of-beautiful-subsequences",
             "level": 3
+        },
+        {
+            "id": 3742,
+            "title": "Maximum Path Score in a Grid",
+            "slug": "maximum-path-score-in-a-grid",
+            "level": 2
         },
         {
             "id": 3666,
@@ -15026,8 +15074,8 @@
         },
         {
             "id": 627,
-            "title": "Swap Salary",
-            "slug": "swap-salary",
+            "title": "Swap Sex of Employees",
+            "slug": "swap-sex-of-employees",
             "level": 1
         },
         {
