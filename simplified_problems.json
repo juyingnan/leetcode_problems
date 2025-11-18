@@ -19,6 +19,18 @@
             "level": 1
         },
         {
+            "id": 3745,
+            "title": "Maximize Expression of Three Elements",
+            "slug": "maximize-expression-of-three-elements",
+            "level": 1
+        },
+        {
+            "id": 3748,
+            "title": "Count Stable Subarrays",
+            "slug": "count-stable-subarrays",
+            "level": 3
+        },
+        {
             "id": 3731,
             "title": "Find Missing Elements",
             "slug": "find-missing-elements",
@@ -46,6 +58,12 @@
             "id": 3705,
             "title": "Find Golden Hour Customers",
             "slug": "find-golden-hour-customers",
+            "level": 2
+        },
+        {
+            "id": 3746,
+            "title": "Minimum String Length After Balanced Removals",
+            "slug": "minimum-string-length-after-balanced-removals",
             "level": 2
         },
         {
@@ -130,6 +148,12 @@
             "id": 3713,
             "title": "Longest Balanced Substring I",
             "slug": "longest-balanced-substring-i",
+            "level": 2
+        },
+        {
+            "id": 3747,
+            "title": "Count Distinct Integers After Removing Zeros",
+            "slug": "count-distinct-integers-after-removing-zeros",
             "level": 2
         },
         {
