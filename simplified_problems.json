@@ -1,6 +1,48 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3759,
+            "title": "Count Elements With at Least K Greater Values",
+            "slug": "count-elements-with-at-least-k-greater-values",
+            "level": 2
+        },
+        {
+            "id": 3761,
+            "title": "Minimum Absolute Distance Between Mirror Pairs",
+            "slug": "minimum-absolute-distance-between-mirror-pairs",
+            "level": 2
+        },
+        {
+            "id": 3756,
+            "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+            "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+            "level": 2
+        },
+        {
+            "id": 3754,
+            "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+            "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+            "level": 1
+        },
+        {
+            "id": 3757,
+            "title": "Number of Effective Subsequences",
+            "slug": "number-of-effective-subsequences",
+            "level": 3
+        },
+        {
+            "id": 3753,
+            "title": "Total Waviness of Numbers in Range II",
+            "slug": "total-waviness-of-numbers-in-range-ii",
+            "level": 3
+        },
+        {
+            "id": 3750,
+            "title": "Minimum Number of Flips to Reverse Binary String",
+            "slug": "minimum-number-of-flips-to-reverse-binary-string",
+            "level": 1
+        },
+        {
             "id": 3741,
             "title": "Minimum Distance Between Three Equal Elements II",
             "slug": "minimum-distance-between-three-equal-elements-ii",
@@ -67,6 +109,12 @@
             "level": 2
         },
         {
+            "id": 3760,
+            "title": "Maximum Substrings With Distinct Start",
+            "slug": "maximum-substrings-with-distinct-start",
+            "level": 2
+        },
+        {
             "id": 3723,
             "title": "Maximize Sum of Squares of Digits",
             "slug": "maximize-sum-of-squares-of-digits",
@@ -88,6 +136,12 @@
             "id": 3727,
             "title": "Maximum Alternating Sum of Squares",
             "slug": "maximum-alternating-sum-of-squares",
+            "level": 2
+        },
+        {
+            "id": 3752,
+            "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
+            "slug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
             "level": 2
         },
         {
@@ -137,6 +191,12 @@
             "title": "Compute Alternating Sum",
             "slug": "compute-alternating-sum",
             "level": 1
+        },
+        {
+            "id": 3751,
+            "title": "Total Waviness of Numbers in Range I",
+            "slug": "total-waviness-of-numbers-in-range-i",
+            "level": 2
         },
         {
             "id": 3714,
@@ -262,6 +322,12 @@
             "id": 3677,
             "title": "Count Binary Palindromic Numbers",
             "slug": "count-binary-palindromic-numbers",
+            "level": 3
+        },
+        {
+            "id": 3762,
+            "title": "Minimum Operations to Equalize Subarrays",
+            "slug": "minimum-operations-to-equalize-subarrays",
             "level": 3
         },
         {
@@ -568,6 +634,12 @@
             "id": 3669,
             "title": "Balanced K-Factor Decomposition",
             "slug": "balanced-k-factor-decomposition",
+            "level": 2
+        },
+        {
+            "id": 3755,
+            "title": "Find Maximum Balanced XOR Subarray Length",
+            "slug": "find-maximum-balanced-xor-subarray-length",
             "level": 2
         },
         {
