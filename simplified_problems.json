@@ -1,6 +1,36 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3764,
+            "title": "Most Common Course Pairs",
+            "slug": "most-common-course-pairs",
+            "level": 3
+        },
+        {
+            "id": 3772,
+            "title": "Maximum Subgraph Score in a Tree",
+            "slug": "maximum-subgraph-score-in-a-tree",
+            "level": 3
+        },
+        {
+            "id": 3769,
+            "title": "Sort Integers by Binary Reflection",
+            "slug": "sort-integers-by-binary-reflection",
+            "level": 1
+        },
+        {
+            "id": 3771,
+            "title": "Total Score of Dungeon Runs",
+            "slug": "total-score-of-dungeon-runs",
+            "level": 2
+        },
+        {
+            "id": 3768,
+            "title": "Minimum Inversion Count in Subarrays of Fixed Length",
+            "slug": "minimum-inversion-count-in-subarrays-of-fixed-length",
+            "level": 3
+        },
+        {
             "id": 3759,
             "title": "Count Elements With at Least K Greater Values",
             "slug": "count-elements-with-at-least-k-greater-values",
@@ -91,6 +121,18 @@
             "level": 2
         },
         {
+            "id": 3765,
+            "title": "Complete Prime Number",
+            "slug": "complete-prime-number",
+            "level": 2
+        },
+        {
+            "id": 3766,
+            "title": "Minimum Operations to Make Binary Palindrome",
+            "slug": "minimum-operations-to-make-binary-palindrome",
+            "level": 2
+        },
+        {
             "id": 3738,
             "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
             "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element",
@@ -109,9 +151,21 @@
             "level": 2
         },
         {
+            "id": 3767,
+            "title": "Maximize Points After Choosing K Tasks",
+            "slug": "maximize-points-after-choosing-k-tasks",
+            "level": 2
+        },
+        {
             "id": 3760,
             "title": "Maximum Substrings With Distinct Start",
             "slug": "maximum-substrings-with-distinct-start",
+            "level": 2
+        },
+        {
+            "id": 3770,
+            "title": "Largest Prime from Consecutive Prime Sum",
+            "slug": "largest-prime-from-consecutive-prime-sum",
             "level": 2
         },
         {
