@@ -7,6 +7,42 @@
             "level": 3
         },
         {
+            "id": 3783,
+            "title": "Mirror Distance of an Integer",
+            "slug": "mirror-distance-of-an-integer",
+            "level": 1
+        },
+        {
+            "id": 3782,
+            "title": "Last Remaining Integer After Alternating Deletion Operations",
+            "slug": "last-remaining-integer-after-alternating-deletion-operations",
+            "level": 3
+        },
+        {
+            "id": 3779,
+            "title": "Minimum Number of Operations to Have Distinct Elements",
+            "slug": "minimum-number-of-operations-to-have-distinct-elements",
+            "level": 2
+        },
+        {
+            "id": 3780,
+            "title": "Maximum Sum of Three Numbers Divisible by Three",
+            "slug": "maximum-sum-of-three-numbers-divisible-by-three",
+            "level": 2
+        },
+        {
+            "id": 3774,
+            "title": "Absolute Difference Between Maximum and Minimum K Elements",
+            "slug": "absolute-difference-between-maximum-and-minimum-k-elements",
+            "level": 1
+        },
+        {
+            "id": 3775,
+            "title": "Reverse Words With Same Vowel Count",
+            "slug": "reverse-words-with-same-vowel-count",
+            "level": 2
+        },
+        {
             "id": 3772,
             "title": "Maximum Subgraph Score in a Tree",
             "slug": "maximum-subgraph-score-in-a-tree",
@@ -43,6 +79,12 @@
             "level": 2
         },
         {
+            "id": 3784,
+            "title": "Minimum Deletion Cost to Make All Characters Equal",
+            "slug": "minimum-deletion-cost-to-make-all-characters-equal",
+            "level": 2
+        },
+        {
             "id": 3756,
             "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
             "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
@@ -59,6 +101,12 @@
             "title": "Number of Effective Subsequences",
             "slug": "number-of-effective-subsequences",
             "level": 3
+        },
+        {
+            "id": 3781,
+            "title": "Maximum Score After Binary Swaps",
+            "slug": "maximum-score-after-binary-swaps",
+            "level": 2
         },
         {
             "id": 3753,
@@ -217,6 +265,12 @@
             "level": 2
         },
         {
+            "id": 3786,
+            "title": "Total Sum of Interaction Cost in Tree Groups",
+            "slug": "total-sum-of-interaction-cost-in-tree-groups",
+            "level": 3
+        },
+        {
             "id": 3725,
             "title": "Count Ways to Choose Coprime Integers from Rows",
             "slug": "count-ways-to-choose-coprime-integers-from-rows",
@@ -229,9 +283,21 @@
             "level": 1
         },
         {
+            "id": 3777,
+            "title": "Minimum Deletions to Make Alternating Substring",
+            "slug": "minimum-deletions-to-make-alternating-substring",
+            "level": 3
+        },
+        {
             "id": 3729,
             "title": "Count Distinct Subarrays Divisible by K in Sorted Array",
             "slug": "count-distinct-subarrays-divisible-by-k-in-sorted-array",
+            "level": 3
+        },
+        {
+            "id": 3785,
+            "title": "Minimum Swaps to Avoid Forbidden Values",
+            "slug": "minimum-swaps-to-avoid-forbidden-values",
             "level": 3
         },
         {
@@ -400,6 +466,12 @@
             "id": 3703,
             "title": "Remove K-Balanced Substrings",
             "slug": "remove-k-balanced-substrings",
+            "level": 2
+        },
+        {
+            "id": 3776,
+            "title": "Minimum Moves to Balance Circular Array",
+            "slug": "minimum-moves-to-balance-circular-array",
             "level": 2
         },
         {
