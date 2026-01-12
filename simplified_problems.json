@@ -1,6 +1,48 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3793,
+            "title": "Find Users with High Token Usage",
+            "slug": "find-users-with-high-token-usage",
+            "level": 1
+        },
+        {
+            "id": 3803,
+            "title": "Count Residue Prefixes",
+            "slug": "count-residue-prefixes",
+            "level": 1
+        },
+        {
+            "id": 3805,
+            "title": "Count Caesar Cipher Pairs",
+            "slug": "count-caesar-cipher-pairs",
+            "level": 2
+        },
+        {
+            "id": 3798,
+            "title": "Largest Even Number",
+            "slug": "largest-even-number",
+            "level": 1
+        },
+        {
+            "id": 3794,
+            "title": "Reverse String Prefix",
+            "slug": "reverse-string-prefix",
+            "level": 1
+        },
+        {
+            "id": 3790,
+            "title": "Smallest All-Ones Multiple",
+            "slug": "smallest-all-ones-multiple",
+            "level": 2
+        },
+        {
+            "id": 3788,
+            "title": "Maximum Score of a Split",
+            "slug": "maximum-score-of-a-split",
+            "level": 2
+        },
+        {
             "id": 3764,
             "title": "Most Common Course Pairs",
             "slug": "most-common-course-pairs",
@@ -43,6 +85,30 @@
             "level": 2
         },
         {
+            "id": 3800,
+            "title": "Minimum Cost to Make Two Binary Strings Equal",
+            "slug": "minimum-cost-to-make-two-binary-strings-equal",
+            "level": 2
+        },
+        {
+            "id": 3806,
+            "title": "Maximum Bitwise AND After Increment Operations",
+            "slug": "maximum-bitwise-and-after-increment-operations",
+            "level": 3
+        },
+        {
+            "id": 3797,
+            "title": "Count Routes to Climb a Rectangular Grid",
+            "slug": "count-routes-to-climb-a-rectangular-grid",
+            "level": 3
+        },
+        {
+            "id": 3795,
+            "title": "Minimum Subarray Length With Distinct Sum At Least K",
+            "slug": "minimum-subarray-length-with-distinct-sum-at-least-k",
+            "level": 2
+        },
+        {
             "id": 3772,
             "title": "Maximum Subgraph Score in a Tree",
             "slug": "maximum-subgraph-score-in-a-tree",
@@ -55,6 +121,12 @@
             "level": 1
         },
         {
+            "id": 3789,
+            "title": "Minimum Cost to Acquire Required Items",
+            "slug": "minimum-cost-to-acquire-required-items",
+            "level": 2
+        },
+        {
             "id": 3771,
             "title": "Total Score of Dungeon Runs",
             "slug": "total-score-of-dungeon-runs",
@@ -64,6 +136,12 @@
             "id": 3768,
             "title": "Minimum Inversion Count in Subarrays of Fixed Length",
             "slug": "minimum-inversion-count-in-subarrays-of-fixed-length",
+            "level": 3
+        },
+        {
+            "id": 3801,
+            "title": "Minimum Cost to Merge Sorted Lists",
+            "slug": "minimum-cost-to-merge-sorted-lists",
             "level": 3
         },
         {
@@ -106,6 +184,12 @@
             "id": 3781,
             "title": "Maximum Score After Binary Swaps",
             "slug": "maximum-score-after-binary-swaps",
+            "level": 2
+        },
+        {
+            "id": 3804,
+            "title": "Number of Centered Subarrays",
+            "slug": "number-of-centered-subarrays",
             "level": 2
         },
         {
@@ -185,6 +269,12 @@
             "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
             "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element",
             "level": 2
+        },
+        {
+            "id": 3791,
+            "title": "Number of Balanced Integers in a Range",
+            "slug": "number-of-balanced-integers-in-a-range",
+            "level": 3
         },
         {
             "id": 3705,
@@ -269,6 +359,12 @@
             "title": "Total Sum of Interaction Cost in Tree Groups",
             "slug": "total-sum-of-interaction-cost-in-tree-groups",
             "level": 3
+        },
+        {
+            "id": 3799,
+            "title": "Word Squares II",
+            "slug": "word-squares-ii",
+            "level": 2
         },
         {
             "id": 3725,
@@ -1451,6 +1547,12 @@
             "title": "Longest Palindrome After Substring Concatenation II",
             "slug": "longest-palindrome-after-substring-concatenation-ii",
             "level": 3
+        },
+        {
+            "id": 3796,
+            "title": "Find Maximum Value in a Constrained Sequence",
+            "slug": "find-maximum-value-in-a-constrained-sequence",
+            "level": 2
         },
         {
             "id": 3499,
