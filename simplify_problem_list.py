@@ -1,5 +1,24 @@
 import json
+import urllib.request
+from urllib.error import URLError, HTTPError
+
 import problem_json_formatter
+
+
+def fetch_json(url, output_file):
+    # Use urllib to avoid extra dependencies.
+    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urllib.request.urlopen(request) as response:
+            data = response.read()
+    except HTTPError as e:
+        raise RuntimeError(f"HTTP error {e.code} while fetching {url}") from e
+    except URLError as e:
+        raise RuntimeError(f"Failed to reach {url}: {e.reason}") from e
+
+    with open(output_file, 'wb') as file:
+        file.write(data)
+
 
 def simplify_json(input_file, output_file):
     with open(input_file, 'r') as file:
@@ -28,5 +47,6 @@ if __name__ == "__main__":
 
     input_file = 'raw.json'  # replace with the path to your input JSON file
     output_file = 'simplified_problems.json'  # replace with the desired output file path
+    fetch_json('https://leetcode.com/api/problems/all/', input_file)
     problem_json_formatter.format_json_file(input_file, silent=True)
     simplify_json(input_file, output_file)
