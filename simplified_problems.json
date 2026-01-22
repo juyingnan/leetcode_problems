@@ -1,10 +1,28 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3808,
+            "title": "Find Emotionally Consistent Users",
+            "slug": "find-emotionally-consistent-users",
+            "level": 2
+        },
+        {
             "id": 3793,
             "title": "Find Users with High Token Usage",
             "slug": "find-users-with-high-token-usage",
             "level": 1
+        },
+        {
+            "id": 3810,
+            "title": "Minimum Operations to Reach Target Array",
+            "slug": "minimum-operations-to-reach-target-array",
+            "level": 2
+        },
+        {
+            "id": 3809,
+            "title": "Best Reachable Tower",
+            "slug": "best-reachable-tower",
+            "level": 2
         },
         {
             "id": 3803,
@@ -19,9 +37,21 @@
             "level": 2
         },
         {
+            "id": 3812,
+            "title": "Minimum Edge Toggles on a Tree",
+            "slug": "minimum-edge-toggles-on-a-tree",
+            "level": 3
+        },
+        {
             "id": 3798,
             "title": "Largest Even Number",
             "slug": "largest-even-number",
+            "level": 1
+        },
+        {
+            "id": 3813,
+            "title": "Vowel-Consonant Score",
+            "slug": "vowel-consonant-score",
             "level": 1
         },
         {
@@ -143,6 +173,12 @@
             "title": "Minimum Cost to Merge Sorted Lists",
             "slug": "minimum-cost-to-merge-sorted-lists",
             "level": 3
+        },
+        {
+            "id": 3811,
+            "title": "Number of Alternating XOR Partitions",
+            "slug": "number-of-alternating-xor-partitions",
+            "level": 2
         },
         {
             "id": 3759,
@@ -301,6 +337,12 @@
             "level": 2
         },
         {
+            "id": 3816,
+            "title": "Lexicographically Smallest String After Deleting Duplicate Characters",
+            "slug": "lexicographically-smallest-string-after-deleting-duplicate-characters",
+            "level": 3
+        },
+        {
             "id": 3770,
             "title": "Largest Prime from Consecutive Prime Sum",
             "slug": "largest-prime-from-consecutive-prime-sum",
@@ -323,6 +365,12 @@
             "title": "Smallest Missing Multiple of K",
             "slug": "smallest-missing-multiple-of-k",
             "level": 1
+        },
+        {
+            "id": 3814,
+            "title": "Maximum Capacity Within Budget",
+            "slug": "maximum-capacity-within-budget",
+            "level": 2
         },
         {
             "id": 3727,
@@ -377,6 +425,12 @@
             "title": "Sum of Elements With Frequency Divisible by K",
             "slug": "sum-of-elements-with-frequency-divisible-by-k",
             "level": 1
+        },
+        {
+            "id": 3815,
+            "title": "Design Auction System",
+            "slug": "design-auction-system",
+            "level": 2
         },
         {
             "id": 3777,
@@ -652,7 +706,7 @@
             "id": 3642,
             "title": "Find Books with Polarized Opinions",
             "slug": "find-books-with-polarized-opinions",
-            "level": 1
+            "level": 2
         },
         {
             "id": 3658,
