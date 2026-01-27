@@ -7,6 +7,12 @@
             "level": 2
         },
         {
+            "id": 3818,
+            "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
+            "slug": "minimum-prefix-removal-to-make-array-strictly-increasing",
+            "level": 2
+        },
+        {
             "id": 3793,
             "title": "Find Users with High Token Usage",
             "slug": "find-users-with-high-token-usage",
@@ -17,6 +23,12 @@
             "title": "Minimum Operations to Reach Target Array",
             "slug": "minimum-operations-to-reach-target-array",
             "level": 2
+        },
+        {
+            "id": 3821,
+            "title": "Find Nth Smallest Integer With K One Bits",
+            "slug": "find-nth-smallest-integer-with-k-one-bits",
+            "level": 3
         },
         {
             "id": 3809,
@@ -41,6 +53,12 @@
             "title": "Minimum Edge Toggles on a Tree",
             "slug": "minimum-edge-toggles-on-a-tree",
             "level": 3
+        },
+        {
+            "id": 3820,
+            "title": "Pythagorean Distance Nodes in a Tree",
+            "slug": "pythagorean-distance-nodes-in-a-tree",
+            "level": 2
         },
         {
             "id": 3798,
@@ -70,6 +88,12 @@
             "id": 3788,
             "title": "Maximum Score of a Split",
             "slug": "maximum-score-of-a-split",
+            "level": 2
+        },
+        {
+            "id": 3819,
+            "title": "Rotate Non Negative Elements",
+            "slug": "rotate-non-negative-elements",
             "level": 2
         },
         {
