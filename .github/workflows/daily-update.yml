@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "juyingnan"
+          git config user.email "4323145+juyingnan@users.noreply.github.com"
           git add simplified_problems.json
           git diff --staged --quiet || git commit -m "updated $(date +%Y%m%d) auto"
           git push
