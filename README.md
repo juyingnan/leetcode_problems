@@ -1,5 +1,7 @@
 # leetcode_problems
 
+[![Daily Update](https://github.com/juyingnan/leetcode_problems/actions/workflows/daily-update.yml/badge.svg)](https://github.com/juyingnan/leetcode_problems/actions/workflows/daily-update.yml)
+
 A tool that fetches and simplifies LeetCode problem data.
 
 ## Features
