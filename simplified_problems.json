@@ -7,6 +7,12 @@
             "level": 2
         },
         {
+            "id": 3823,
+            "title": "Reverse Letters Then Special Characters in a String",
+            "slug": "reverse-letters-then-special-characters-in-a-string",
+            "level": 1
+        },
+        {
             "id": 3818,
             "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
             "slug": "minimum-prefix-removal-to-make-array-strictly-increasing",
@@ -77,6 +83,12 @@
             "title": "Reverse String Prefix",
             "slug": "reverse-string-prefix",
             "level": 1
+        },
+        {
+            "id": 3824,
+            "title": "Minimum K to Reduce Array Within Limit",
+            "slug": "minimum-k-to-reduce-array-within-limit",
+            "level": 2
         },
         {
             "id": 3790,
@@ -263,6 +275,12 @@
             "title": "Minimum Number of Flips to Reverse Binary String",
             "slug": "minimum-number-of-flips-to-reverse-binary-string",
             "level": 1
+        },
+        {
+            "id": 3826,
+            "title": "Minimum Partition Score",
+            "slug": "minimum-partition-score",
+            "level": 3
         },
         {
             "id": 3741,
@@ -592,6 +610,12 @@
             "id": 3702,
             "title": "Longest Subsequence With Non-Zero Bitwise XOR",
             "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+            "level": 2
+        },
+        {
+            "id": 3825,
+            "title": "Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
+            "slug": "longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
             "level": 2
         },
         {
