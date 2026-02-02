@@ -19,9 +19,21 @@
             "level": 2
         },
         {
+            "id": 3830,
+            "title": "Longest Alternating Subarray After Removing At Most One Element",
+            "slug": "longest-alternating-subarray-after-removing-at-most-one-element",
+            "level": 3
+        },
+        {
             "id": 3793,
             "title": "Find Users with High Token Usage",
             "slug": "find-users-with-high-token-usage",
+            "level": 1
+        },
+        {
+            "id": 3827,
+            "title": "Count Monobit Integers",
+            "slug": "count-monobit-integers",
             "level": 1
         },
         {
@@ -277,6 +289,12 @@
             "level": 1
         },
         {
+            "id": 3828,
+            "title": "Final Element After Subarray Deletions",
+            "slug": "final-element-after-subarray-deletions",
+            "level": 2
+        },
+        {
             "id": 3826,
             "title": "Minimum Partition Score",
             "slug": "minimum-partition-score",
@@ -286,6 +304,12 @@
             "id": 3741,
             "title": "Minimum Distance Between Three Equal Elements II",
             "slug": "minimum-distance-between-three-equal-elements-ii",
+            "level": 2
+        },
+        {
+            "id": 3829,
+            "title": "Design Ride Sharing System",
+            "slug": "design-ride-sharing-system",
             "level": 2
         },
         {
