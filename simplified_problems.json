@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3832,
+            "title": "Find Users with Persistent Behavior Patterns",
+            "slug": "find-users-with-persistent-behavior-patterns",
+            "level": 3
+        },
+        {
             "id": 3808,
             "title": "Find Emotionally Consistent Users",
             "slug": "find-emotionally-consistent-users",
