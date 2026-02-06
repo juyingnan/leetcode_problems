@@ -1,40 +1,32 @@
 import json
-import os
+from pathlib import Path
 
 
 def format_json_file(filepath, silent=True):
-    # Check if the file exists
-    if not os.path.exists(filepath):
+    path = Path(filepath)
+
+    if not path.exists():
         print(f"No file found at {filepath}")
         return
 
     try:
-        # Open and read the file
-        with open(filepath, 'r') as file:
-            data = file.read()
-
-        # Try to parse the JSON data
+        data = path.read_text()
         json_data = json.loads(data)
-
-        # Check if the JSON data contains newlines, suggesting it is already formatted
-        if '\n' in data:
-            if not silent:
-                print("JSON file is already formatted.")
-        else:
-            # It's a single-line JSON, let's format it
-            with open(filepath, 'w') as file:
-                json.dump(json_data, file, indent=4)
-            print(f"Formatted the JSON file at {filepath}")
-
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON: {e}")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+        return
+    except OSError as e:
+        print(f"Error reading file: {e}")
+        return
+
+    if '\n' in data:
+        if not silent:
+            print("JSON file is already formatted.")
+        return
+
+    path.write_text(json.dumps(json_data, indent=4))
+    print(f"Formatted the JSON file at {filepath}")
 
 
 if __name__ == '__main__':
-    # Path to the JSON file
-    json_file_path = 'raw.json'
-
-    # Call the function with the path to the JSON file
-    format_json_file(json_file_path, silent=False)
+    format_json_file('raw.json', silent=False)
