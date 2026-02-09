@@ -7,10 +7,34 @@
             "level": 3
         },
         {
+            "id": 3833,
+            "title": "Count Dominant Indices",
+            "slug": "count-dominant-indices",
+            "level": 1
+        },
+        {
+            "id": 3834,
+            "title": "Merge Adjacent Equal Elements",
+            "slug": "merge-adjacent-equal-elements",
+            "level": 2
+        },
+        {
+            "id": 3835,
+            "title": "Count Subarrays With Cost Less Than or Equal to K",
+            "slug": "count-subarrays-with-cost-less-than-or-equal-to-k",
+            "level": 2
+        },
+        {
             "id": 3808,
             "title": "Find Emotionally Consistent Users",
             "slug": "find-emotionally-consistent-users",
             "level": 2
+        },
+        {
+            "id": 3836,
+            "title": "Maximum Score Using Exactly K Pairs",
+            "slug": "maximum-score-using-exactly-k-pairs",
+            "level": 3
         },
         {
             "id": 3823,
