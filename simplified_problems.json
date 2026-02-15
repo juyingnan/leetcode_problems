@@ -7,6 +7,12 @@
             "level": 3
         },
         {
+            "id": 3838,
+            "title": "Weighted Word Mapping",
+            "slug": "weighted-word-mapping",
+            "level": 1
+        },
+        {
             "id": 3833,
             "title": "Count Dominant Indices",
             "slug": "count-dominant-indices",
@@ -23,6 +29,12 @@
             "title": "Count Subarrays With Cost Less Than or Equal to K",
             "slug": "count-subarrays-with-cost-less-than-or-equal-to-k",
             "level": 2
+        },
+        {
+            "id": 3841,
+            "title": "Palindromic Path Queries in a Tree",
+            "slug": "palindromic-path-queries-in-a-tree",
+            "level": 3
         },
         {
             "id": 3808,
@@ -274,6 +286,12 @@
             "id": 3784,
             "title": "Minimum Deletion Cost to Make All Characters Equal",
             "slug": "minimum-deletion-cost-to-make-all-characters-equal",
+            "level": 2
+        },
+        {
+            "id": 3839,
+            "title": "Number of Prefix Connected Groups",
+            "slug": "number-of-prefix-connected-groups",
             "level": 2
         },
         {
@@ -539,6 +557,12 @@
             "title": "Count Distinct Subarrays Divisible by K in Sorted Array",
             "slug": "count-distinct-subarrays-divisible-by-k-in-sorted-array",
             "level": 3
+        },
+        {
+            "id": 3840,
+            "title": "House Robber V",
+            "slug": "house-robber-v",
+            "level": 2
         },
         {
             "id": 3785,
