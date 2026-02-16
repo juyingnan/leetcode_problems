@@ -7,6 +7,18 @@
             "level": 3
         },
         {
+            "id": 3844,
+            "title": "Longest Almost-Palindromic Substring",
+            "slug": "longest-almost-palindromic-substring",
+            "level": 2
+        },
+        {
+            "id": 3843,
+            "title": "First Element with Unique Frequency",
+            "slug": "first-element-with-unique-frequency",
+            "level": 2
+        },
+        {
             "id": 3838,
             "title": "Weighted Word Mapping",
             "slug": "weighted-word-mapping",
@@ -25,6 +37,12 @@
             "level": 2
         },
         {
+            "id": 3842,
+            "title": "Toggle Light Bulbs",
+            "slug": "toggle-light-bulbs",
+            "level": 1
+        },
+        {
             "id": 3835,
             "title": "Count Subarrays With Cost Less Than or Equal to K",
             "slug": "count-subarrays-with-cost-less-than-or-equal-to-k",
@@ -41,6 +59,12 @@
             "title": "Find Emotionally Consistent Users",
             "slug": "find-emotionally-consistent-users",
             "level": 2
+        },
+        {
+            "id": 3845,
+            "title": "Maximum Subarray XOR with Bounded Range",
+            "slug": "maximum-subarray-xor-with-bounded-range",
+            "level": 3
         },
         {
             "id": 3836,
