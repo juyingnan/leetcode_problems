@@ -7,6 +7,18 @@
             "level": 3
         },
         {
+            "id": 3848,
+            "title": "Check Digitorial Permutation",
+            "slug": "check-digitorial-permutation",
+            "level": 2
+        },
+        {
+            "id": 3847,
+            "title": "Find the Score Difference in a Game",
+            "slug": "find-the-score-difference-in-a-game",
+            "level": 2
+        },
+        {
             "id": 3844,
             "title": "Longest Almost-Palindromic Substring",
             "slug": "longest-almost-palindromic-substring",
@@ -571,6 +583,12 @@
             "level": 2
         },
         {
+            "id": 3850,
+            "title": "Count Sequences to K",
+            "slug": "count-sequences-to-k",
+            "level": 3
+        },
+        {
             "id": 3777,
             "title": "Minimum Deletions to Make Alternating Substring",
             "slug": "minimum-deletions-to-make-alternating-substring",
@@ -670,6 +688,12 @@
             "id": 3719,
             "title": "Longest Balanced Subarray I",
             "slug": "longest-balanced-subarray-i",
+            "level": 2
+        },
+        {
+            "id": 3849,
+            "title": "Maximum Bitwise XOR After Rearrangement",
+            "slug": "maximum-bitwise-xor-after-rearrangement",
             "level": 2
         },
         {
