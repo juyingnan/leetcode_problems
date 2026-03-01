@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3855,
+            "title": "Sum of K-Digit Numbers in a Range",
+            "slug": "sum-of-k-digit-numbers-in-a-range",
+            "level": 3
+        },
+        {
+            "id": 3852,
+            "title": "Smallest Pair With Different Frequencies",
+            "slug": "smallest-pair-with-different-frequencies",
+            "level": 1
+        },
+        {
             "id": 3832,
             "title": "Find Users with Persistent Behavior Patterns",
             "slug": "find-users-with-persistent-behavior-patterns",
@@ -22,6 +34,12 @@
             "id": 3844,
             "title": "Longest Almost-Palindromic Substring",
             "slug": "longest-almost-palindromic-substring",
+            "level": 2
+        },
+        {
+            "id": 3854,
+            "title": "Minimum Operations to Make Array Parity Alternating",
+            "slug": "minimum-operations-to-make-array-parity-alternating",
             "level": 2
         },
         {
@@ -802,6 +820,12 @@
             "id": 3698,
             "title": "Split Array With Minimum Difference",
             "slug": "split-array-with-minimum-difference",
+            "level": 2
+        },
+        {
+            "id": 3853,
+            "title": "Merge Close Characters",
+            "slug": "merge-close-characters",
             "level": 2
         },
         {
