@@ -13,6 +13,12 @@
             "level": 1
         },
         {
+            "id": 3856,
+            "title": "Trim Trailing Vowels",
+            "slug": "trim-trailing-vowels",
+            "level": 1
+        },
+        {
             "id": 3832,
             "title": "Find Users with Persistent Behavior Patterns",
             "slug": "find-users-with-persistent-behavior-patterns",
@@ -238,6 +244,12 @@
             "id": 3779,
             "title": "Minimum Number of Operations to Have Distinct Elements",
             "slug": "minimum-number-of-operations-to-have-distinct-elements",
+            "level": 2
+        },
+        {
+            "id": 3858,
+            "title": "Minimum Bitwise OR From Grid",
+            "slug": "minimum-bitwise-or-from-grid",
             "level": 2
         },
         {
@@ -781,6 +793,12 @@
             "level": 2
         },
         {
+            "id": 3857,
+            "title": "Minimum Cost to Split into Ones",
+            "slug": "minimum-cost-to-split-into-ones",
+            "level": 2
+        },
+        {
             "id": 3677,
             "title": "Count Binary Palindromic Numbers",
             "slug": "count-binary-palindromic-numbers",
@@ -875,6 +893,12 @@
             "title": "Longest Fibonacci Subarray",
             "slug": "longest-fibonacci-subarray",
             "level": 2
+        },
+        {
+            "id": 3859,
+            "title": "Count Subarrays With K Distinct Integers",
+            "slug": "count-subarrays-with-k-distinct-integers",
+            "level": 3
         },
         {
             "id": 3676,
