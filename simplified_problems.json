@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3861,
+            "title": "Minimum Capacity Box",
+            "slug": "minimum-capacity-box",
+            "level": 1
+        },
+        {
+            "id": 3862,
+            "title": "Find the Smallest Balanced Index",
+            "slug": "find-the-smallest-balanced-index",
+            "level": 2
+        },
+        {
             "id": 3855,
             "title": "Sum of K-Digit Numbers in a Range",
             "slug": "sum-of-k-digit-numbers-in-a-range",
@@ -40,6 +52,12 @@
             "id": 3844,
             "title": "Longest Almost-Palindromic Substring",
             "slug": "longest-almost-palindromic-substring",
+            "level": 2
+        },
+        {
+            "id": 3863,
+            "title": "Minimum Operations to Sort a String",
+            "slug": "minimum-operations-to-sort-a-string",
             "level": 2
         },
         {
@@ -137,6 +155,12 @@
             "title": "Count Monobit Integers",
             "slug": "count-monobit-integers",
             "level": 1
+        },
+        {
+            "id": 3864,
+            "title": "Minimum Cost to Partition a Binary String",
+            "slug": "minimum-cost-to-partition-a-binary-string",
+            "level": 3
         },
         {
             "id": 3810,
