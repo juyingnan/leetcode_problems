@@ -1,10 +1,28 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3868,
+            "title": "Minimum Cost to Equalize Arrays Using Swaps",
+            "slug": "minimum-cost-to-equalize-arrays-using-swaps",
+            "level": 2
+        },
+        {
+            "id": 3866,
+            "title": "First Unique Even Element",
+            "slug": "first-unique-even-element",
+            "level": 1
+        },
+        {
             "id": 3861,
             "title": "Minimum Capacity Box",
             "slug": "minimum-capacity-box",
             "level": 1
+        },
+        {
+            "id": 3867,
+            "title": "Sum of GCD of Formed Pairs",
+            "slug": "sum-of-gcd-of-formed-pairs",
+            "level": 2
         },
         {
             "id": 3862,
@@ -281,6 +299,12 @@
             "title": "Maximum Sum of Three Numbers Divisible by Three",
             "slug": "maximum-sum-of-three-numbers-divisible-by-three",
             "level": 2
+        },
+        {
+            "id": 3869,
+            "title": "Count Fancy Numbers in a Range",
+            "slug": "count-fancy-numbers-in-a-range",
+            "level": 3
         },
         {
             "id": 3774,
