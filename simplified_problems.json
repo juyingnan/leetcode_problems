@@ -13,9 +13,27 @@
             "level": 1
         },
         {
+            "id": 3873,
+            "title": "Maximum Points Activated with One Addition",
+            "slug": "maximum-points-activated-with-one-addition",
+            "level": 3
+        },
+        {
+            "id": 3871,
+            "title": "Count Commas in Range II",
+            "slug": "count-commas-in-range-ii",
+            "level": 2
+        },
+        {
             "id": 3861,
             "title": "Minimum Capacity Box",
             "slug": "minimum-capacity-box",
+            "level": 1
+        },
+        {
+            "id": 3870,
+            "title": "Count Commas in Range",
+            "slug": "count-commas-in-range",
             "level": 1
         },
         {
@@ -41,6 +59,12 @@
             "title": "Smallest Pair With Different Frequencies",
             "slug": "smallest-pair-with-different-frequencies",
             "level": 1
+        },
+        {
+            "id": 3872,
+            "title": "Longest Arithmetic Sequence After Changing At Most One Element",
+            "slug": "longest-arithmetic-sequence-after-changing-at-most-one-element",
+            "level": 2
         },
         {
             "id": 3856,
