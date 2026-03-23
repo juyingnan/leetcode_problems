@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3876,
+            "title": "Construct Uniform Parity Array II",
+            "slug": "construct-uniform-parity-array-ii",
+            "level": 2
+        },
+        {
+            "id": 3875,
+            "title": "Construct Uniform Parity Array I",
+            "slug": "construct-uniform-parity-array-i",
+            "level": 1
+        },
+        {
             "id": 3868,
             "title": "Minimum Cost to Equalize Arrays Using Swaps",
             "slug": "minimum-cost-to-equalize-arrays-using-swaps",
@@ -89,6 +101,12 @@
             "title": "Find the Score Difference in a Game",
             "slug": "find-the-score-difference-in-a-game",
             "level": 2
+        },
+        {
+            "id": 3878,
+            "title": "Count Good Subarrays",
+            "slug": "count-good-subarrays",
+            "level": 3
         },
         {
             "id": 3844,
@@ -556,6 +574,12 @@
             "id": 3738,
             "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
             "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element",
+            "level": 2
+        },
+        {
+            "id": 3877,
+            "title": "Minimum Removals to Achieve Target XOR",
+            "slug": "minimum-removals-to-achieve-target-xor",
             "level": 2
         },
         {
