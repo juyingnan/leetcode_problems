@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3889,
+            "title": "Mirror Frequency Distance",
+            "slug": "mirror-frequency-distance",
+            "level": 2
+        },
+        {
+            "id": 3890,
+            "title": "Integers With Multiple Sum of Two Cubes",
+            "slug": "integers-with-multiple-sum-of-two-cubes",
+            "level": 2
+        },
+        {
             "id": 3885,
             "title": "Design Event Manager",
             "slug": "design-event-manager",
@@ -11,6 +23,12 @@
             "title": "First Matching Character From Both Ends",
             "slug": "first-matching-character-from-both-ends",
             "level": 1
+        },
+        {
+            "id": 3892,
+            "title": "Minimum Operations to Achieve At Least K Peaks",
+            "slug": "minimum-operations-to-achieve-at-least-k-peaks",
+            "level": 3
         },
         {
             "id": 3883,
@@ -437,6 +455,12 @@
             "title": "Sort Integers by Binary Reflection",
             "slug": "sort-integers-by-binary-reflection",
             "level": 1
+        },
+        {
+            "id": 3891,
+            "title": "Minimum Increase to Maximize Special Indices",
+            "slug": "minimum-increase-to-maximize-special-indices",
+            "level": 2
         },
         {
             "id": 3789,
