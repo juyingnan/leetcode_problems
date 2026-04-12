@@ -1,6 +1,30 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3895,
+            "title": "Count Digit Appearances",
+            "slug": "count-digit-appearances",
+            "level": 2
+        },
+        {
+            "id": 3897,
+            "title": "Maximum Value of Concatenated Binary Segments",
+            "slug": "maximum-value-of-concatenated-binary-segments",
+            "level": 3
+        },
+        {
+            "id": 3896,
+            "title": "Minimum Operations to Transform Array into Alternating Prime",
+            "slug": "minimum-operations-to-transform-array-into-alternating-prime",
+            "level": 2
+        },
+        {
+            "id": 3894,
+            "title": "Traffic Signal Color",
+            "slug": "traffic-signal-color",
+            "level": 1
+        },
+        {
             "id": 3889,
             "title": "Mirror Frequency Distance",
             "slug": "mirror-frequency-distance",
