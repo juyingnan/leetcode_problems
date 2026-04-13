@@ -31,6 +31,12 @@
             "level": 2
         },
         {
+            "id": 3898,
+            "title": "Find the Degree of Each Vertex",
+            "slug": "find-the-degree-of-each-vertex",
+            "level": 1
+        },
+        {
             "id": 3890,
             "title": "Integers With Multiple Sum of Two Cubes",
             "slug": "integers-with-multiple-sum-of-two-cubes",
@@ -40,6 +46,18 @@
             "id": 3885,
             "title": "Design Event Manager",
             "slug": "design-event-manager",
+            "level": 2
+        },
+        {
+            "id": 3899,
+            "title": "Angles of a Triangle",
+            "slug": "angles-of-a-triangle",
+            "level": 2
+        },
+        {
+            "id": 3900,
+            "title": "Longest Balanced Substring After One Swap",
+            "slug": "longest-balanced-substring-after-one-swap",
             "level": 2
         },
         {
@@ -215,6 +233,12 @@
             "title": "Weighted Word Mapping",
             "slug": "weighted-word-mapping",
             "level": 1
+        },
+        {
+            "id": 3901,
+            "title": "Good Subsequence Queries",
+            "slug": "good-subsequence-queries",
+            "level": 3
         },
         {
             "id": 3833,
