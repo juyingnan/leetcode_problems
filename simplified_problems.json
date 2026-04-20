@@ -1,6 +1,24 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3904,
+            "title": "Smallest Stable Index II",
+            "slug": "smallest-stable-index-ii",
+            "level": 2
+        },
+        {
+            "id": 3903,
+            "title": "Smallest Stable Index I",
+            "slug": "smallest-stable-index-i",
+            "level": 1
+        },
+        {
+            "id": 3905,
+            "title": "Multi Source Flood Fill",
+            "slug": "multi-source-flood-fill",
+            "level": 2
+        },
+        {
             "id": 3895,
             "title": "Count Digit Appearances",
             "slug": "count-digit-appearances",
@@ -605,6 +623,12 @@
             "title": "Minimum Number of Flips to Reverse Binary String",
             "slug": "minimum-number-of-flips-to-reverse-binary-string",
             "level": 1
+        },
+        {
+            "id": 3906,
+            "title": "Count Good Integers on a Grid Path",
+            "slug": "count-good-integers-on-a-grid-path",
+            "level": 3
         },
         {
             "id": 3828,
