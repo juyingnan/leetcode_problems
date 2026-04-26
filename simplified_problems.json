@@ -1,6 +1,24 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3909,
+            "title": "Compare Sums of Bitonic Parts",
+            "slug": "compare-sums-of-bitonic-parts",
+            "level": 2
+        },
+        {
+            "id": 3911,
+            "title": "K-th Smallest Remaining Even Integer in Subarray Queries",
+            "slug": "k-th-smallest-remaining-even-integer-in-subarray-queries",
+            "level": 3
+        },
+        {
+            "id": 3908,
+            "title": "Valid Digit Number",
+            "slug": "valid-digit-number",
+            "level": 1
+        },
+        {
             "id": 3904,
             "title": "Smallest Stable Index II",
             "slug": "smallest-stable-index-ii",
@@ -23,6 +41,12 @@
             "title": "Count Digit Appearances",
             "slug": "count-digit-appearances",
             "level": 2
+        },
+        {
+            "id": 3910,
+            "title": "Count Connected Subgraphs with Even Node Sum",
+            "slug": "count-connected-subgraphs-with-even-node-sum",
+            "level": 3
         },
         {
             "id": 3897,
