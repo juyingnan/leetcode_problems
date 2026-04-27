@@ -7,6 +7,12 @@
             "level": 2
         },
         {
+            "id": 3912,
+            "title": "Valid Elements in an Array",
+            "slug": "valid-elements-in-an-array",
+            "level": 1
+        },
+        {
             "id": 3911,
             "title": "K-th Smallest Remaining Even Integer in Subarray Queries",
             "slug": "k-th-smallest-remaining-even-integer-in-subarray-queries",
@@ -34,6 +40,12 @@
             "id": 3905,
             "title": "Multi Source Flood Fill",
             "slug": "multi-source-flood-fill",
+            "level": 2
+        },
+        {
+            "id": 3913,
+            "title": "Sort Vowels by Frequency",
+            "slug": "sort-vowels-by-frequency",
             "level": 2
         },
         {
@@ -79,6 +91,12 @@
             "level": 1
         },
         {
+            "id": 3914,
+            "title": "Minimum Operations to Make Array Non Decreasing",
+            "slug": "minimum-operations-to-make-array-non-decreasing",
+            "level": 2
+        },
+        {
             "id": 3890,
             "title": "Integers With Multiple Sum of Two Cubes",
             "slug": "integers-with-multiple-sum-of-two-cubes",
@@ -112,6 +130,12 @@
             "id": 3892,
             "title": "Minimum Operations to Achieve At Least K Peaks",
             "slug": "minimum-operations-to-achieve-at-least-k-peaks",
+            "level": 3
+        },
+        {
+            "id": 3915,
+            "title": "Maximum Sum of Alternating Subsequence With Distance at Least K",
+            "slug": "maximum-sum-of-alternating-subsequence-with-distance-at-least-k",
             "level": 3
         },
         {
