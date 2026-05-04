@@ -1,9 +1,33 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3918,
+            "title": "Sum of Primes Between Number and Its Reverse",
+            "slug": "sum-of-primes-between-number-and-its-reverse",
+            "level": 2
+        },
+        {
+            "id": 3917,
+            "title": "Count Indices With Opposite Parity",
+            "slug": "count-indices-with-opposite-parity",
+            "level": 1
+        },
+        {
+            "id": 3920,
+            "title": "Maximize Fixed Points After Deletions",
+            "slug": "maximize-fixed-points-after-deletions",
+            "level": 3
+        },
+        {
             "id": 3909,
             "title": "Compare Sums of Bitonic Parts",
             "slug": "compare-sums-of-bitonic-parts",
+            "level": 2
+        },
+        {
+            "id": 3919,
+            "title": "Minimum Cost to Move Between Indices",
+            "slug": "minimum-cost-to-move-between-indices",
             "level": 2
         },
         {
