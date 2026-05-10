@@ -73,6 +73,12 @@
             "level": 2
         },
         {
+            "id": 3921,
+            "title": "Score Validator",
+            "slug": "score-validator",
+            "level": 1
+        },
+        {
             "id": 3895,
             "title": "Count Digit Appearances",
             "slug": "count-digit-appearances",
@@ -673,6 +679,18 @@
             "level": 3
         },
         {
+            "id": 3923,
+            "title": "Minimum Generations to Target Point",
+            "slug": "minimum-generations-to-target-point",
+            "level": 2
+        },
+        {
+            "id": 3922,
+            "title": "Minimum Flips to Make Binary String Coherent",
+            "slug": "minimum-flips-to-make-binary-string-coherent",
+            "level": 2
+        },
+        {
             "id": 3781,
             "title": "Maximum Score After Binary Swaps",
             "slug": "maximum-score-after-binary-swaps",
@@ -767,6 +785,12 @@
             "title": "Find Churn Risk Customers",
             "slug": "find-churn-risk-customers",
             "level": 2
+        },
+        {
+            "id": 3924,
+            "title": "Minimum Threshold Path With Limited Heavy Edges",
+            "slug": "minimum-threshold-path-with-limited-heavy-edges",
+            "level": 3
         },
         {
             "id": 3732,
