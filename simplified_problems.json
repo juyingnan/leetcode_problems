@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3927,
+            "title": "Minimize Array Sum Using Divisible Replacements",
+            "slug": "minimize-array-sum-using-divisible-replacements",
+            "level": 2
+        },
+        {
+            "id": 3925,
+            "title": "Concatenate Array With Reverse",
+            "slug": "concatenate-array-with-reverse",
+            "level": 1
+        },
+        {
             "id": 3918,
             "title": "Sum of Primes Between Number and Its Reverse",
             "slug": "sum-of-primes-between-number-and-its-reverse",
@@ -17,6 +29,12 @@
             "title": "Maximize Fixed Points After Deletions",
             "slug": "maximize-fixed-points-after-deletions",
             "level": 3
+        },
+        {
+            "id": 3926,
+            "title": "Count Valid Word Occurrences",
+            "slug": "count-valid-word-occurrences",
+            "level": 2
         },
         {
             "id": 3909,
@@ -1331,6 +1349,12 @@
             "title": "Partition Array Into K-Distinct Groups",
             "slug": "partition-array-into-k-distinct-groups",
             "level": 2
+        },
+        {
+            "id": 3928,
+            "title": "Minimum Cost to Buy Apples II",
+            "slug": "minimum-cost-to-buy-apples-ii",
+            "level": 3
         },
         {
             "id": 3655,
