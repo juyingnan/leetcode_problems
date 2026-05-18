@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3931,
+            "title": "Check Adjacent Digit Differences",
+            "slug": "check-adjacent-digit-differences",
+            "level": 1
+        },
+        {
+            "id": 3932,
+            "title": "Count K-th Roots in a Range",
+            "slug": "count-k-th-roots-in-a-range",
+            "level": 2
+        },
+        {
             "id": 3927,
             "title": "Minimize Array Sum Using Divisible Replacements",
             "slug": "minimize-array-sum-using-divisible-replacements",
@@ -797,6 +809,12 @@
             "title": "Find Missing Elements",
             "slug": "find-missing-elements",
             "level": 1
+        },
+        {
+            "id": 3934,
+            "title": "Smallest Unique Subarray",
+            "slug": "smallest-unique-subarray",
+            "level": 3
         },
         {
             "id": 3716,
@@ -2207,6 +2225,12 @@
             "title": "Find Products with Valid Serial Numbers",
             "slug": "find-products-with-valid-serial-numbers",
             "level": 1
+        },
+        {
+            "id": 3933,
+            "title": "Largest Local Values in a Matrix II",
+            "slug": "largest-local-values-in-a-matrix-ii",
+            "level": 2
         },
         {
             "id": 3490,
