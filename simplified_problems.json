@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3936,
+            "title": "Minimum Swaps to Move Zeros to End",
+            "slug": "minimum-swaps-to-move-zeros-to-end",
+            "level": 1
+        },
+        {
             "id": 3931,
             "title": "Check Adjacent Digit Differences",
             "slug": "check-adjacent-digit-differences",
@@ -16,6 +22,12 @@
             "id": 3927,
             "title": "Minimize Array Sum Using Divisible Replacements",
             "slug": "minimize-array-sum-using-divisible-replacements",
+            "level": 2
+        },
+        {
+            "id": 3937,
+            "title": "Minimum Operations to Make Array Modulo Alternating I",
+            "slug": "minimum-operations-to-make-array-modulo-alternating-i",
             "level": 2
         },
         {
@@ -1369,6 +1381,12 @@
             "level": 2
         },
         {
+            "id": 3939,
+            "title": "Count Non Adjacent Subsets in a Rooted Tree",
+            "slug": "count-non-adjacent-subsets-in-a-rooted-tree",
+            "level": 3
+        },
+        {
             "id": 3928,
             "title": "Minimum Cost to Buy Apples II",
             "slug": "minimum-cost-to-buy-apples-ii",
@@ -1727,6 +1745,12 @@
             "title": "Maximize Spanning Tree Stability with Upgrades",
             "slug": "maximize-spanning-tree-stability-with-upgrades",
             "level": 3
+        },
+        {
+            "id": 3938,
+            "title": "Maximum Path Intersection Sum in a Grid",
+            "slug": "maximum-path-intersection-sum-in-a-grid",
+            "level": 2
         },
         {
             "id": 3585,
