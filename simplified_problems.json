@@ -7,6 +7,18 @@
             "level": 1
         },
         {
+            "id": 3941,
+            "title": "Password Strength",
+            "slug": "password-strength",
+            "level": 2
+        },
+        {
+            "id": 3940,
+            "title": "Limit Occurrences in Sorted Array",
+            "slug": "limit-occurrences-in-sorted-array",
+            "level": 1
+        },
+        {
             "id": 3931,
             "title": "Check Adjacent Digit Differences",
             "slug": "check-adjacent-digit-differences",
@@ -493,6 +505,12 @@
             "level": 1
         },
         {
+            "id": 3942,
+            "title": "Minimum Operations to Sort a Permutation",
+            "slug": "minimum-operations-to-sort-a-permutation",
+            "level": 2
+        },
+        {
             "id": 3805,
             "title": "Count Caesar Cipher Pairs",
             "slug": "count-caesar-cipher-pairs",
@@ -947,6 +965,12 @@
             "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
             "slug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
             "level": 2
+        },
+        {
+            "id": 3943,
+            "title": "Number of Pairs After Increment",
+            "slug": "number-of-pairs-after-increment",
+            "level": 3
         },
         {
             "id": 3739,
