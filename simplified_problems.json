@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3945,
+            "title": "Digit Frequency Score",
+            "slug": "digit-frequency-score",
+            "level": 1
+        },
+        {
             "id": 3936,
             "title": "Minimum Swaps to Move Zeros to End",
             "slug": "minimum-swaps-to-move-zeros-to-end",
@@ -557,6 +563,12 @@
             "title": "Smallest All-Ones Multiple",
             "slug": "smallest-all-ones-multiple",
             "level": 2
+        },
+        {
+            "id": 3948,
+            "title": "Lexicographically Maximum MEX Array",
+            "slug": "lexicographically-maximum-mex-array",
+            "level": 3
         },
         {
             "id": 3788,
@@ -2557,6 +2569,12 @@
             "level": 1
         },
         {
+            "id": 3947,
+            "title": "Maximum Number of Items From Sale II",
+            "slug": "maximum-number-of-items-from-sale-ii",
+            "level": 2
+        },
+        {
             "id": 3495,
             "title": "Minimum Operations to Make Array Elements Zero",
             "slug": "minimum-operations-to-make-array-elements-zero",
@@ -2566,6 +2584,12 @@
             "id": 3439,
             "title": "Reschedule Meetings for Maximum Free Time I",
             "slug": "reschedule-meetings-for-maximum-free-time-i",
+            "level": 2
+        },
+        {
+            "id": 3946,
+            "title": "Maximum Number of Items From Sale I",
+            "slug": "maximum-number-of-items-from-sale-i",
             "level": 2
         },
         {
