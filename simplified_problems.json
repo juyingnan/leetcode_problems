@@ -25,6 +25,18 @@
             "level": 1
         },
         {
+            "id": 3950,
+            "title": "Exactly One Consecutive Set Bits Pair",
+            "slug": "exactly-one-consecutive-set-bits-pair",
+            "level": 1
+        },
+        {
+            "id": 3951,
+            "title": "Minimum Energy to Maintain Brightness",
+            "slug": "minimum-energy-to-maintain-brightness",
+            "level": 2
+        },
+        {
             "id": 3931,
             "title": "Check Adjacent Digit Differences",
             "slug": "check-adjacent-digit-differences",
@@ -523,6 +535,12 @@
             "level": 2
         },
         {
+            "id": 3953,
+            "title": "Maximum Score with Co-Prime Element",
+            "slug": "maximum-score-with-co-prime-element",
+            "level": 3
+        },
+        {
             "id": 3812,
             "title": "Minimum Edge Toggles on a Tree",
             "slug": "minimum-edge-toggles-on-a-tree",
@@ -706,6 +724,12 @@
             "id": 3811,
             "title": "Number of Alternating XOR Partitions",
             "slug": "number-of-alternating-xor-partitions",
+            "level": 2
+        },
+        {
+            "id": 3952,
+            "title": "Maximum Total Value of Covered Indices",
+            "slug": "maximum-total-value-of-covered-indices",
             "level": 2
         },
         {
