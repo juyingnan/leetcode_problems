@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3959,
+            "title": "Check Good Integer",
+            "slug": "check-good-integer",
+            "level": 1
+        },
+        {
+            "id": 3960,
+            "title": "Frequency Balance Subarray",
+            "slug": "frequency-balance-subarray",
+            "level": 2
+        },
+        {
             "id": 3945,
             "title": "Digit Frequency Score",
             "slug": "digit-frequency-score",
@@ -317,6 +329,12 @@
             "title": "Minimum Capacity Box",
             "slug": "minimum-capacity-box",
             "level": 1
+        },
+        {
+            "id": 3962,
+            "title": "Maximum Subarray Sum After at Most K Swaps",
+            "slug": "maximum-subarray-sum-after-at-most-k-swaps",
+            "level": 3
         },
         {
             "id": 3870,
@@ -1354,6 +1372,12 @@
             "id": 3689,
             "title": "Maximum Total Subarray Value I",
             "slug": "maximum-total-subarray-value-i",
+            "level": 2
+        },
+        {
+            "id": 3961,
+            "title": "Maximize Sum of Device Ratings",
+            "slug": "maximize-sum-of-device-ratings",
             "level": 2
         },
         {
