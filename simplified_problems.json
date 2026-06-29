@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3974,
+            "title": "Maximum Total Sum of K Selected Elements",
+            "slug": "maximum-total-sum-of-k-selected-elements",
+            "level": 2
+        },
+        {
             "id": 3963,
             "title": "Create Grid With Exactly One Path",
             "slug": "create-grid-with-exactly-one-path",
@@ -509,6 +515,12 @@
             "title": "Find Emotionally Consistent Users",
             "slug": "find-emotionally-consistent-users",
             "level": 2
+        },
+        {
+            "id": 3977,
+            "title": "Minimum Time to Reach Target With Limited Power",
+            "slug": "minimum-time-to-reach-target-with-limited-power",
+            "level": 3
         },
         {
             "id": 3882,
@@ -2761,6 +2773,12 @@
             "level": 1
         },
         {
+            "id": 3976,
+            "title": "Maximum Subarray Sum After Multiplier",
+            "slug": "maximum-subarray-sum-after-multiplier",
+            "level": 2
+        },
+        {
             "id": 3528,
             "title": "Unit Conversion I",
             "slug": "unit-conversion-i",
@@ -2771,6 +2789,12 @@
             "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
             "slug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
             "level": 3
+        },
+        {
+            "id": 3975,
+            "title": "Filter Occupied Intervals",
+            "slug": "filter-occupied-intervals",
+            "level": 2
         },
         {
             "id": 3452,
