@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3978,
+            "title": "Unique Middle Element",
+            "slug": "unique-middle-element",
+            "level": 1
+        },
+        {
             "id": 3974,
             "title": "Maximum Total Sum of K Selected Elements",
             "slug": "maximum-total-sum-of-k-selected-elements",
@@ -13,9 +19,21 @@
             "level": 1
         },
         {
+            "id": 3979,
+            "title": "Maximum Valid Pair Sum",
+            "slug": "maximum-valid-pair-sum",
+            "level": 2
+        },
+        {
             "id": 3968,
             "title": "Maximum Manhattan Distance After All Moves",
             "slug": "maximum-manhattan-distance-after-all-moves",
+            "level": 2
+        },
+        {
+            "id": 3980,
+            "title": "Minimum Operations to Transform Binary String",
+            "slug": "minimum-operations-to-transform-binary-string",
             "level": 2
         },
         {
@@ -1079,6 +1097,12 @@
             "title": "Stable Subarrays With Equal Boundary and Interior Sum",
             "slug": "stable-subarrays-with-equal-boundary-and-interior-sum",
             "level": 2
+        },
+        {
+            "id": 3981,
+            "title": "Count Distinct Ways to Form Target from Two Strings",
+            "slug": "count-distinct-ways-to-form-target-from-two-strings",
+            "level": 3
         },
         {
             "id": 3718,
