@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3982,
+            "title": "Sum of Integers with Maximum Digit Range",
+            "slug": "sum-of-integers-with-maximum-digit-range",
+            "level": 1
+        },
+        {
             "id": 3978,
             "title": "Unique Middle Element",
             "slug": "unique-middle-element",
@@ -10,6 +16,12 @@
             "id": 3974,
             "title": "Maximum Total Sum of K Selected Elements",
             "slug": "maximum-total-sum-of-k-selected-elements",
+            "level": 2
+        },
+        {
+            "id": 3983,
+            "title": "Subsequence After One Replacement",
+            "slug": "subsequence-after-one-replacement",
             "level": 2
         },
         {
@@ -605,6 +617,12 @@
             "title": "Find Nth Smallest Integer With K One Bits",
             "slug": "find-nth-smallest-integer-with-k-one-bits",
             "level": 3
+        },
+        {
+            "id": 3984,
+            "title": "Divisible Game",
+            "slug": "divisible-game",
+            "level": 2
         },
         {
             "id": 3809,
@@ -1343,6 +1361,12 @@
             "title": "Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
             "slug": "longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
             "level": 2
+        },
+        {
+            "id": 3985,
+            "title": "Palindromic Subarray Sum",
+            "slug": "palindromic-subarray-sum",
+            "level": 3
         },
         {
             "id": 3743,
