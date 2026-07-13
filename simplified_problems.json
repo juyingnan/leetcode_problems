@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3986,
+            "title": "Number of Elapsed Seconds Between Two Times",
+            "slug": "number-of-elapsed-seconds-between-two-times",
+            "level": 1
+        },
+        {
             "id": 3982,
             "title": "Sum of Integers with Maximum Digit Range",
             "slug": "sum-of-integers-with-maximum-digit-range",
@@ -13,6 +19,12 @@
             "level": 1
         },
         {
+            "id": 3987,
+            "title": "Minimum Total Cost to Process All Elements",
+            "slug": "minimum-total-cost-to-process-all-elements",
+            "level": 2
+        },
+        {
             "id": 3974,
             "title": "Maximum Total Sum of K Selected Elements",
             "slug": "maximum-total-sum-of-k-selected-elements",
@@ -22,6 +34,12 @@
             "id": 3983,
             "title": "Subsequence After One Replacement",
             "slug": "subsequence-after-one-replacement",
+            "level": 2
+        },
+        {
+            "id": 3988,
+            "title": "Create Grid With Exactly K Paths I",
+            "slug": "create-grid-with-exactly-k-paths-i",
             "level": 2
         },
         {
@@ -461,6 +479,12 @@
             "title": "Check Digitorial Permutation",
             "slug": "check-digitorial-permutation",
             "level": 2
+        },
+        {
+            "id": 3989,
+            "title": "Maximum Consistent Columns in a Grid",
+            "slug": "maximum-consistent-columns-in-a-grid",
+            "level": 3
         },
         {
             "id": 3847,
