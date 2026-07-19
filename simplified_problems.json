@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3993,
+            "title": "Maximum Value of an Alternating Sequence",
+            "slug": "maximum-value-of-an-alternating-sequence",
+            "level": 2
+        },
+        {
             "id": 3986,
             "title": "Number of Elapsed Seconds Between Two Times",
             "slug": "number-of-elapsed-seconds-between-two-times",
@@ -10,6 +16,12 @@
             "id": 3982,
             "title": "Sum of Integers with Maximum Digit Range",
             "slug": "sum-of-integers-with-maximum-digit-range",
+            "level": 1
+        },
+        {
+            "id": 3992,
+            "title": "Rearrange String to Avoid Character Pair",
+            "slug": "rearrange-string-to-avoid-character-pair",
             "level": 1
         },
         {
@@ -58,6 +70,12 @@
             "id": 3968,
             "title": "Maximum Manhattan Distance After All Moves",
             "slug": "maximum-manhattan-distance-after-all-moves",
+            "level": 2
+        },
+        {
+            "id": 3994,
+            "title": "Minimum Adjacent Swaps to Partition Array",
+            "slug": "minimum-adjacent-swaps-to-partition-array",
             "level": 2
         },
         {
@@ -1109,6 +1127,12 @@
             "title": "Maximize Points After Choosing K Tasks",
             "slug": "maximize-points-after-choosing-k-tasks",
             "level": 2
+        },
+        {
+            "id": 3995,
+            "title": "Minimum Cost to Convert String III",
+            "slug": "minimum-cost-to-convert-string-iii",
+            "level": 3
         },
         {
             "id": 3760,
