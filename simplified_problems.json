@@ -1,9 +1,21 @@
 {
     "stat_status_pairs": [
         {
+            "id": 3996,
+            "title": "Even Number of Knight Moves",
+            "slug": "even-number-of-knight-moves",
+            "level": 1
+        },
+        {
             "id": 3993,
             "title": "Maximum Value of an Alternating Sequence",
             "slug": "maximum-value-of-an-alternating-sequence",
+            "level": 2
+        },
+        {
+            "id": 3997,
+            "title": "Count Dominant Nodes in a Binary Tree",
+            "slug": "count-dominant-nodes-in-a-binary-tree",
             "level": 2
         },
         {
@@ -1591,6 +1603,12 @@
             "level": 1
         },
         {
+            "id": 3998,
+            "title": "Transform Binary String Using Subsequence Sort",
+            "slug": "transform-binary-string-using-subsequence-sort",
+            "level": 2
+        },
+        {
             "id": 3680,
             "title": "Generate Schedule",
             "slug": "generate-schedule",
@@ -2038,6 +2056,12 @@
             "id": 3594,
             "title": "Minimum Time to Transport All Individuals",
             "slug": "minimum-time-to-transport-all-individuals",
+            "level": 3
+        },
+        {
+            "id": 3999,
+            "title": "Minimum Number of String Groups Through Transformations",
+            "slug": "minimum-number-of-string-groups-through-transformations",
             "level": 3
         },
         {
