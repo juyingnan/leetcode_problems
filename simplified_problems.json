@@ -7435,6 +7435,12 @@
             "level": 1
         },
         {
+            "id": 2408,
+            "title": "Design SQL",
+            "slug": "design-sql",
+            "level": 2
+        },
+        {
             "id": 2463,
             "title": "Minimum Total Distance Traveled",
             "slug": "minimum-total-distance-traveled",
