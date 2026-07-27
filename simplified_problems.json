@@ -43,6 +43,12 @@
             "level": 1
         },
         {
+            "id": 4000,
+            "title": "Largest Integer With Given Digit Sum",
+            "slug": "largest-integer-with-given-digit-sum",
+            "level": 1
+        },
+        {
             "id": 3987,
             "title": "Minimum Total Cost to Process All Elements",
             "slug": "minimum-total-cost-to-process-all-elements",
@@ -58,6 +64,12 @@
             "id": 3983,
             "title": "Subsequence After One Replacement",
             "slug": "subsequence-after-one-replacement",
+            "level": 2
+        },
+        {
+            "id": 4002,
+            "title": "Count Valid Sequences",
+            "slug": "count-valid-sequences",
             "level": 2
         },
         {
@@ -82,6 +94,12 @@
             "id": 3968,
             "title": "Maximum Manhattan Distance After All Moves",
             "slug": "maximum-manhattan-distance-after-all-moves",
+            "level": 2
+        },
+        {
+            "id": 4001,
+            "title": "Aggregate Two Time Series",
+            "slug": "aggregate-two-time-series",
             "level": 2
         },
         {
@@ -1913,6 +1931,12 @@
             "title": "Minimum Cost Path with Alternating Directions II",
             "slug": "minimum-cost-path-with-alternating-directions-ii",
             "level": 2
+        },
+        {
+            "id": 4003,
+            "title": "Minimum Cost Path with Alternating Directions III",
+            "slug": "minimum-cost-path-with-alternating-directions-iii",
+            "level": 3
         },
         {
             "id": 3609,
