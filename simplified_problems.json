@@ -7,9 +7,21 @@
             "level": 1
         },
         {
+            "id": 4006,
+            "title": "Count Valid Prefixes",
+            "slug": "count-valid-prefixes",
+            "level": 1
+        },
+        {
             "id": 3993,
             "title": "Maximum Value of an Alternating Sequence",
             "slug": "maximum-value-of-an-alternating-sequence",
+            "level": 2
+        },
+        {
+            "id": 4007,
+            "title": "Widest Possible Fence",
+            "slug": "widest-possible-fence",
             "level": 2
         },
         {
@@ -52,6 +64,12 @@
             "id": 3987,
             "title": "Minimum Total Cost to Process All Elements",
             "slug": "minimum-total-cost-to-process-all-elements",
+            "level": 2
+        },
+        {
+            "id": 4008,
+            "title": "Minimum Initial Strength to Defeat All Monsters",
+            "slug": "minimum-initial-strength-to-defeat-all-monsters",
             "level": 2
         },
         {
@@ -479,6 +497,12 @@
             "title": "Count Commas in Range",
             "slug": "count-commas-in-range",
             "level": 1
+        },
+        {
+            "id": 4009,
+            "title": "Minimum Possible Maximum Waiting Time",
+            "slug": "minimum-possible-maximum-waiting-time",
+            "level": 3
         },
         {
             "id": 3867,
