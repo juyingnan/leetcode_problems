@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4010,
+            "title": "Maximize Pair Strength Using GCD",
+            "slug": "maximize-pair-strength-using-gcd",
+            "level": 1
+        },
+        {
             "id": 3996,
             "title": "Even Number of Knight Moves",
             "slug": "even-number-of-knight-moves",
@@ -142,6 +148,18 @@
             "id": 3964,
             "title": "Minimum Lights to Illuminate a Road",
             "slug": "minimum-lights-to-illuminate-a-road",
+            "level": 2
+        },
+        {
+            "id": 4013,
+            "title": "Count Subarrays With Even Odd Ratio II",
+            "slug": "count-subarrays-with-even-odd-ratio-ii",
+            "level": 3
+        },
+        {
+            "id": 4011,
+            "title": "Count Subarrays With Even Odd Ratio I",
+            "slug": "count-subarrays-with-even-odd-ratio-i",
             "level": 2
         },
         {
@@ -659,6 +677,12 @@
             "title": "Maximum Subarray XOR with Bounded Range",
             "slug": "maximum-subarray-xor-with-bounded-range",
             "level": 3
+        },
+        {
+            "id": 4012,
+            "title": "Count of Unfinished Tasks After Each Shift",
+            "slug": "count-of-unfinished-tasks-after-each-shift",
+            "level": 2
         },
         {
             "id": 3836,
