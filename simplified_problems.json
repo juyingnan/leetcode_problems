@@ -25,6 +25,12 @@
             "level": 2
         },
         {
+            "id": 4014,
+            "title": "Minimum Total Price After Applying Discounts",
+            "slug": "minimum-total-price-after-applying-discounts",
+            "level": 2
+        },
+        {
             "id": 4007,
             "title": "Widest Possible Fence",
             "slug": "widest-possible-fence",
@@ -65,6 +71,12 @@
             "title": "Largest Integer With Given Digit Sum",
             "slug": "largest-integer-with-given-digit-sum",
             "level": 1
+        },
+        {
+            "id": 4015,
+            "title": "Weighted Sum of a Tree",
+            "slug": "weighted-sum-of-a-tree",
+            "level": 2
         },
         {
             "id": 3987,
@@ -125,6 +137,12 @@
             "title": "Aggregate Two Time Series",
             "slug": "aggregate-two-time-series",
             "level": 2
+        },
+        {
+            "id": 4017,
+            "title": "Peaks in Array II",
+            "slug": "peaks-in-array-ii",
+            "level": 3
         },
         {
             "id": 3994,
@@ -1073,6 +1091,12 @@
             "title": "Minimum Partition Score",
             "slug": "minimum-partition-score",
             "level": 3
+        },
+        {
+            "id": 4016,
+            "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
+            "slug": "maximum-area-of-two-non-overlapping-square-submatrices",
+            "level": 2
         },
         {
             "id": 3741,
