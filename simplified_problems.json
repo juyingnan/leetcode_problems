@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4023,
+            "title": "Elevator Requests II",
+            "slug": "elevator-requests-ii",
+            "level": 3
+        },
+        {
+            "id": 4020,
+            "title": "Elevator Requests I",
+            "slug": "elevator-requests-i",
+            "level": 1
+        },
+        {
             "id": 4010,
             "title": "Maximize Pair Strength Using GCD",
             "slug": "maximize-pair-strength-using-gcd",
@@ -85,6 +97,12 @@
             "level": 2
         },
         {
+            "id": 4021,
+            "title": "Minimum Operations to Make a Rotated Palindrome I",
+            "slug": "minimum-operations-to-make-a-rotated-palindrome-i",
+            "level": 2
+        },
+        {
             "id": 4008,
             "title": "Minimum Initial Strength to Defeat All Monsters",
             "slug": "minimum-initial-strength-to-defeat-all-monsters",
@@ -161,6 +179,12 @@
             "title": "Check Good Integer",
             "slug": "check-good-integer",
             "level": 1
+        },
+        {
+            "id": 4022,
+            "title": "K-th Digit in Infinite String",
+            "slug": "k-th-digit-in-infinite-string",
+            "level": 2
         },
         {
             "id": 3964,
