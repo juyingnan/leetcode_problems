@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4027,
+            "title": "Elevator Requests III",
+            "slug": "elevator-requests-iii",
+            "level": 3
+        },
+        {
             "id": 4023,
             "title": "Elevator Requests II",
             "slug": "elevator-requests-ii",
@@ -11,6 +17,18 @@
             "title": "Elevator Requests I",
             "slug": "elevator-requests-i",
             "level": 1
+        },
+        {
+            "id": 4024,
+            "title": "Nearest Available Drone",
+            "slug": "nearest-available-drone",
+            "level": 1
+        },
+        {
+            "id": 4025,
+            "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
+            "slug": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
+            "level": 2
         },
         {
             "id": 4010,
@@ -1523,6 +1541,12 @@
             "title": "Maximum Partition Factor",
             "slug": "maximum-partition-factor",
             "level": 3
+        },
+        {
+            "id": 4026,
+            "title": "Maximum Gap Between Stations",
+            "slug": "maximum-gap-between-stations",
+            "level": 2
         },
         {
             "id": 3702,
