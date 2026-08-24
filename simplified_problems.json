@@ -19,6 +19,18 @@
             "level": 1
         },
         {
+            "id": 4031,
+            "title": "Find All Numbers Disappeared in an Array II",
+            "slug": "find-all-numbers-disappeared-in-an-array-ii",
+            "level": 2
+        },
+        {
+            "id": 4030,
+            "title": "Check ASCII Palindromic",
+            "slug": "check-ascii-palindromic",
+            "level": 1
+        },
+        {
             "id": 4024,
             "title": "Nearest Available Drone",
             "slug": "nearest-available-drone",
@@ -35,6 +47,12 @@
             "title": "Maximize Pair Strength Using GCD",
             "slug": "maximize-pair-strength-using-gcd",
             "level": 1
+        },
+        {
+            "id": 4032,
+            "title": "Longest Subarray With at Most K Distinct Prime Factors",
+            "slug": "longest-subarray-with-at-most-k-distinct-prime-factors",
+            "level": 2
         },
         {
             "id": 3996,
@@ -1762,6 +1780,12 @@
             "id": 3671,
             "title": "Sum of Beautiful Subsequences",
             "slug": "sum-of-beautiful-subsequences",
+            "level": 3
+        },
+        {
+            "id": 4033,
+            "title": "Valid K-Unique Subarrays I",
+            "slug": "valid-k-unique-subarrays-i",
             "level": 3
         },
         {
