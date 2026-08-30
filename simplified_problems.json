@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4034,
+            "title": "Minimum Bishop Moves to Reach Target",
+            "slug": "minimum-bishop-moves-to-reach-target",
+            "level": 2
+        },
+        {
+            "id": 4037,
+            "title": "Maximum Valid Split Positions II",
+            "slug": "maximum-valid-split-positions-ii",
+            "level": 3
+        },
+        {
             "id": 4027,
             "title": "Elevator Requests III",
             "slug": "elevator-requests-iii",
@@ -43,6 +55,12 @@
             "level": 2
         },
         {
+            "id": 4035,
+            "title": "Maximum Valid Split Positions I",
+            "slug": "maximum-valid-split-positions-i",
+            "level": 2
+        },
+        {
             "id": 4010,
             "title": "Maximize Pair Strength Using GCD",
             "slug": "maximize-pair-strength-using-gcd",
@@ -59,6 +77,12 @@
             "title": "Even Number of Knight Moves",
             "slug": "even-number-of-knight-moves",
             "level": 1
+        },
+        {
+            "id": 4036,
+            "title": "Lexicographically Largest String After Pair Transformations",
+            "slug": "lexicographically-largest-string-after-pair-transformations",
+            "level": 2
         },
         {
             "id": 4006,
@@ -82,7 +106,7 @@
             "id": 4007,
             "title": "Widest Possible Fence",
             "slug": "widest-possible-fence",
-            "level": 2
+            "level": 3
         },
         {
             "id": 3997,
