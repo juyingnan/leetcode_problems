@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4038,
+            "title": "Count Integers Appearing in a Single Block",
+            "slug": "count-integers-appearing-in-a-single-block",
+            "level": 1
+        },
+        {
+            "id": 4039,
+            "title": "Sum of Decoded Numbers",
+            "slug": "sum-of-decoded-numbers",
+            "level": 2
+        },
+        {
             "id": 4034,
             "title": "Minimum Bishop Moves to Reach Target",
             "slug": "minimum-bishop-moves-to-reach-target",
@@ -41,6 +53,18 @@
             "title": "Check ASCII Palindromic",
             "slug": "check-ascii-palindromic",
             "level": 1
+        },
+        {
+            "id": 4041,
+            "title": "Minimum Operations to Form Subset Sum II",
+            "slug": "minimum-operations-to-form-subset-sum-ii",
+            "level": 3
+        },
+        {
+            "id": 4040,
+            "title": "Minimum Operations to Form Subset Sum I",
+            "slug": "minimum-operations-to-form-subset-sum-i",
+            "level": 2
         },
         {
             "id": 4024,
