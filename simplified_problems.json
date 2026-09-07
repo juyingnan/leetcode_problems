@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4044,
+            "title": "Count Good Cyclic Rotations",
+            "slug": "count-good-cyclic-rotations",
+            "level": 2
+        },
+        {
+            "id": 4043,
+            "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+            "slug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+            "level": 1
+        },
+        {
             "id": 4038,
             "title": "Count Integers Appearing in a Single Block",
             "slug": "count-integers-appearing-in-a-single-block",
@@ -46,6 +58,12 @@
             "id": 4031,
             "title": "Find All Numbers Disappeared in an Array II",
             "slug": "find-all-numbers-disappeared-in-an-array-ii",
+            "level": 2
+        },
+        {
+            "id": 4045,
+            "title": "Count Robot Groups",
+            "slug": "count-robot-groups",
             "level": 2
         },
         {
@@ -101,6 +119,12 @@
             "title": "Even Number of Knight Moves",
             "slug": "even-number-of-knight-moves",
             "level": 1
+        },
+        {
+            "id": 4046,
+            "title": "Minimum Cost Path With At Most K Turns",
+            "slug": "minimum-cost-path-with-at-most-k-turns",
+            "level": 3
         },
         {
             "id": 4036,
