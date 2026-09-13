@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4048,
+            "title": "Count Values With Equally Spaced Occurrences I",
+            "slug": "count-values-with-equally-spaced-occurrences-i",
+            "level": 1
+        },
+        {
+            "id": 4049,
+            "title": "Count Values With Equally Spaced Occurrences II",
+            "slug": "count-values-with-equally-spaced-occurrences-ii",
+            "level": 2
+        },
+        {
             "id": 4044,
             "title": "Count Good Cyclic Rotations",
             "slug": "count-good-cyclic-rotations",
@@ -17,6 +29,12 @@
             "title": "Count Integers Appearing in a Single Block",
             "slug": "count-integers-appearing-in-a-single-block",
             "level": 1
+        },
+        {
+            "id": 4050,
+            "title": "Minimum Days to Score Exactly N Points",
+            "slug": "minimum-days-to-score-exactly-n-points",
+            "level": 2
         },
         {
             "id": 4039,
@@ -335,6 +353,12 @@
             "title": "Valid Subarrays With Matching Sum Digits I",
             "slug": "valid-subarrays-with-matching-sum-digits-i",
             "level": 2
+        },
+        {
+            "id": 4051,
+            "title": "Count Subarrays with Distant Sums",
+            "slug": "count-subarrays-with-distant-sums",
+            "level": 3
         },
         {
             "id": 3936,
