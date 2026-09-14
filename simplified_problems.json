@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4052,
+            "title": "Cyclically Shift Rows and Columns",
+            "slug": "cyclically-shift-rows-and-columns",
+            "level": 1
+        },
+        {
             "id": 4048,
             "title": "Count Values With Equally Spaced Occurrences I",
             "slug": "count-values-with-equally-spaced-occurrences-i",
@@ -253,6 +259,12 @@
             "level": 2
         },
         {
+            "id": 4053,
+            "title": "Minimum Operations to Make Every Element Palindromic",
+            "slug": "minimum-operations-to-make-every-element-palindromic",
+            "level": 2
+        },
+        {
             "id": 3988,
             "title": "Create Grid With Exactly K Paths I",
             "slug": "create-grid-with-exactly-k-paths-i",
@@ -317,6 +329,18 @@
             "title": "Minimum Lights to Illuminate a Road",
             "slug": "minimum-lights-to-illuminate-a-road",
             "level": 2
+        },
+        {
+            "id": 4054,
+            "title": "Count Shadow Pairs I",
+            "slug": "count-shadow-pairs-i",
+            "level": 2
+        },
+        {
+            "id": 4055,
+            "title": "Count Shadow Pairs II",
+            "slug": "count-shadow-pairs-ii",
+            "level": 3
         },
         {
             "id": 4013,
