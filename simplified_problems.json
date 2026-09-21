@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4056,
+            "title": "Number of Intersecting Interval Pairs I",
+            "slug": "number-of-intersecting-interval-pairs-i",
+            "level": 1
+        },
+        {
+            "id": 4057,
+            "title": "Number of Intersecting Interval Pairs II",
+            "slug": "number-of-intersecting-interval-pairs-ii",
+            "level": 2
+        },
+        {
             "id": 4052,
             "title": "Cyclically Shift Rows and Columns",
             "slug": "cyclically-shift-rows-and-columns",
@@ -907,6 +919,12 @@
             "level": 3
         },
         {
+            "id": 4058,
+            "title": "Maximum Pulse Value After One Subarray Rotation",
+            "slug": "maximum-pulse-value-after-one-subarray-rotation",
+            "level": 2
+        },
+        {
             "id": 3793,
             "title": "Find Users with High Token Usage",
             "slug": "find-users-with-high-token-usage",
@@ -1708,6 +1726,12 @@
             "id": 3743,
             "title": "Maximize Cyclic Partition Score",
             "slug": "maximize-cyclic-partition-score",
+            "level": 3
+        },
+        {
+            "id": 4059,
+            "title": "Lexicographically Largest Power Array",
+            "slug": "lexicographically-largest-power-array",
             "level": 3
         },
         {
