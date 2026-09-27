@@ -1,6 +1,18 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4064,
+            "title": "Longest Subarray Divisible by K with At Most One Negation II",
+            "slug": "longest-subarray-divisible-by-k-with-at-most-one-negation-ii",
+            "level": 3
+        },
+        {
+            "id": 4061,
+            "title": "Minimum Queen Moves to Reach Target",
+            "slug": "minimum-queen-moves-to-reach-target",
+            "level": 1
+        },
+        {
             "id": 4056,
             "title": "Number of Intersecting Interval Pairs I",
             "slug": "number-of-intersecting-interval-pairs-i",
@@ -58,6 +70,12 @@
             "id": 4039,
             "title": "Sum of Decoded Numbers",
             "slug": "sum-of-decoded-numbers",
+            "level": 2
+        },
+        {
+            "id": 4062,
+            "title": "Transform Array Using Pair Operations",
+            "slug": "transform-array-using-pair-operations",
             "level": 2
         },
         {
@@ -130,6 +148,12 @@
             "id": 4025,
             "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
             "slug": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
+            "level": 2
+        },
+        {
+            "id": 4063,
+            "title": "Longest Subarray Divisible by K with At Most One Negation I",
+            "slug": "longest-subarray-divisible-by-k-with-at-most-one-negation-i",
             "level": 2
         },
         {
