@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4065,
+            "title": "Rearrange Array by Removing Distinct Values",
+            "slug": "rearrange-array-by-removing-distinct-values",
+            "level": 1
+        },
+        {
             "id": 4064,
             "title": "Longest Subarray Divisible by K with At Most One Negation II",
             "slug": "longest-subarray-divisible-by-k-with-at-most-one-negation-ii",
@@ -11,6 +17,12 @@
             "title": "Minimum Queen Moves to Reach Target",
             "slug": "minimum-queen-moves-to-reach-target",
             "level": 1
+        },
+        {
+            "id": 4066,
+            "title": "Maximum Equal Adjacent Pairs After at Most One Replacement",
+            "slug": "maximum-equal-adjacent-pairs-after-at-most-one-replacement",
+            "level": 2
         },
         {
             "id": 4056,
@@ -425,6 +437,12 @@
             "title": "Minimum Swaps to Move Zeros to End",
             "slug": "minimum-swaps-to-move-zeros-to-end",
             "level": 1
+        },
+        {
+            "id": 4068,
+            "title": "Maximize Meeting Earnings with Idle Gaps",
+            "slug": "maximize-meeting-earnings-with-idle-gaps",
+            "level": 3
         },
         {
             "id": 3941,
@@ -1960,6 +1978,12 @@
             "id": 3742,
             "title": "Maximum Path Score in a Grid",
             "slug": "maximum-path-score-in-a-grid",
+            "level": 2
+        },
+        {
+            "id": 4067,
+            "title": "Longest Subarray With Restricted Pair Sums",
+            "slug": "longest-subarray-with-restricted-pair-sums",
             "level": 2
         },
         {
