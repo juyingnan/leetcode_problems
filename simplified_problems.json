@@ -1,6 +1,42 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4078,
+            "title": "Three Fibonacci Sum",
+            "slug": "three-fibonacci-sum",
+            "level": 1
+        },
+        {
+            "id": 4074,
+            "title": "Maximum Product Pair With Target Sum",
+            "slug": "maximum-product-pair-with-target-sum",
+            "level": 1
+        },
+        {
+            "id": 4076,
+            "title": "Longest Resilient Subarray II",
+            "slug": "longest-resilient-subarray-ii",
+            "level": 2
+        },
+        {
+            "id": 4075,
+            "title": "Longest Resilient Subarray I",
+            "slug": "longest-resilient-subarray-i",
+            "level": 2
+        },
+        {
+            "id": 4081,
+            "title": "Prime Subset Selection II",
+            "slug": "prime-subset-selection-ii",
+            "level": 3
+        },
+        {
+            "id": 4079,
+            "title": "Prime Subset Selection I",
+            "slug": "prime-subset-selection-i",
+            "level": 2
+        },
+        {
             "id": 4065,
             "title": "Rearrange Array by Removing Distinct Values",
             "slug": "rearrange-array-by-removing-distinct-values",
@@ -173,6 +209,12 @@
             "title": "Nearest Available Drone",
             "slug": "nearest-available-drone",
             "level": 1
+        },
+        {
+            "id": 4080,
+            "title": "Design Bus Seat Booking System",
+            "slug": "design-bus-seat-booking-system",
+            "level": 2
         },
         {
             "id": 4025,
@@ -743,6 +785,12 @@
             "title": "Minimum Absolute Difference Between Two Values",
             "slug": "minimum-absolute-difference-between-two-values",
             "level": 1
+        },
+        {
+            "id": 4077,
+            "title": "Minimize Inversions in a Prefix Tree",
+            "slug": "minimize-inversions-in-a-prefix-tree",
+            "level": 3
         },
         {
             "id": 3868,
