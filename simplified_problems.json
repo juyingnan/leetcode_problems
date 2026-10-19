@@ -1,6 +1,12 @@
 {
     "stat_status_pairs": [
         {
+            "id": 4084,
+            "title": "Last Visited Cell in a Directional Grid",
+            "slug": "last-visited-cell-in-a-directional-grid",
+            "level": 2
+        },
+        {
             "id": 4078,
             "title": "Three Fibonacci Sum",
             "slug": "three-fibonacci-sum",
@@ -35,6 +41,12 @@
             "title": "Prime Subset Selection I",
             "slug": "prime-subset-selection-i",
             "level": 2
+        },
+        {
+            "id": 4083,
+            "title": "Minimum Deletions to Make Array Sharp",
+            "slug": "minimum-deletions-to-make-array-sharp",
+            "level": 1
         },
         {
             "id": 4065,
@@ -2125,6 +2137,12 @@
             "level": 2
         },
         {
+            "id": 4085,
+            "title": "Find Root of a Colored Tree",
+            "slug": "find-root-of-a-colored-tree",
+            "level": 2
+        },
+        {
             "id": 3635,
             "title": "Earliest Finish Time for Land and Water Rides II",
             "slug": "earliest-finish-time-for-land-and-water-rides-ii",
@@ -3148,6 +3166,12 @@
             "id": 3474,
             "title": "Lexicographically Smallest Generated String",
             "slug": "lexicographically-smallest-generated-string",
+            "level": 3
+        },
+        {
+            "id": 4086,
+            "title": "Minimum Interval Selection to Cover Target Intervals",
+            "slug": "minimum-interval-selection-to-cover-target-intervals",
             "level": 3
         },
         {
