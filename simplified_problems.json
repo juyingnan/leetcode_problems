@@ -31,6 +31,12 @@
             "level": 2
         },
         {
+            "id": 4088,
+            "title": "Difference Between Peaks and Valleys",
+            "slug": "difference-between-peaks-and-valleys",
+            "level": 1
+        },
+        {
             "id": 4081,
             "title": "Prime Subset Selection II",
             "slug": "prime-subset-selection-ii",
@@ -139,6 +145,18 @@
             "level": 1
         },
         {
+            "id": 4091,
+            "title": "Count Magical Substring Pairs II",
+            "slug": "count-magical-substring-pairs-ii",
+            "level": 3
+        },
+        {
+            "id": 4090,
+            "title": "Count Magical Substring Pairs I",
+            "slug": "count-magical-substring-pairs-i",
+            "level": 2
+        },
+        {
             "id": 4039,
             "title": "Sum of Decoded Numbers",
             "slug": "sum-of-decoded-numbers",
@@ -154,6 +172,12 @@
             "id": 4072,
             "title": "Maximum Alternating Subarray Sum With One Deletion",
             "slug": "maximum-alternating-subarray-sum-with-one-deletion",
+            "level": 2
+        },
+        {
+            "id": 4089,
+            "title": "Count Subarrays With Loose Bounds",
+            "slug": "count-subarrays-with-loose-bounds",
             "level": 2
         },
         {
