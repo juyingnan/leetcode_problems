@@ -13,10 +13,28 @@
             "level": 1
         },
         {
+            "id": 4092,
+            "title": "Binary Digit Score",
+            "slug": "binary-digit-score",
+            "level": 1
+        },
+        {
             "id": 4074,
             "title": "Maximum Product Pair With Target Sum",
             "slug": "maximum-product-pair-with-target-sum",
             "level": 1
+        },
+        {
+            "id": 4095,
+            "title": "Count Frequency Staircase Subarrays II",
+            "slug": "count-frequency-staircase-subarrays-ii",
+            "level": 3
+        },
+        {
+            "id": 4094,
+            "title": "Count Frequency Staircase Subarrays I",
+            "slug": "count-frequency-staircase-subarrays-i",
+            "level": 2
         },
         {
             "id": 4076,
@@ -557,6 +575,12 @@
             "title": "Limit Occurrences in Sorted Array",
             "slug": "limit-occurrences-in-sorted-array",
             "level": 1
+        },
+        {
+            "id": 4093,
+            "title": "Maximize Sum After At Most K Digit Rearrangements",
+            "slug": "maximize-sum-after-at-most-k-digit-rearrangements",
+            "level": 2
         },
         {
             "id": 3966,
