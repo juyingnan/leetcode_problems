@@ -106,6 +106,14 @@ def simplify(questions: list[dict]) -> list[dict]:
             "slug": item["titleSlug"],
             "level": level,
         })
+    # Keep output ordering stable across API changes.
+    result.sort(
+        key=lambda item: (
+            0, item["id"]
+        ) if isinstance(item["id"], int) else (
+            1, str(item["id"])
+        )
+    )
     if len(result) < MIN_FREE_PROBLEMS:
         raise RuntimeError(
             f"Only {len(result)} free problems returned; refusing to overwrite "
