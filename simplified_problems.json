@@ -19847,6 +19847,30 @@
             "title": "Count Frequency Staircase Subarrays II",
             "slug": "count-frequency-staircase-subarrays-ii",
             "level": 3
+        },
+        {
+            "id": 4097,
+            "title": "Minimum Value of Merged Integers",
+            "slug": "minimum-value-of-merged-integers",
+            "level": 1
+        },
+        {
+            "id": 4098,
+            "title": "Minimize the Maximum Value of GCD-Connected Array",
+            "slug": "minimize-the-maximum-value-of-gcd-connected-array",
+            "level": 2
+        },
+        {
+            "id": 4099,
+            "title": "Minimum Operations to Sort With Locked Indices",
+            "slug": "minimum-operations-to-sort-with-locked-indices",
+            "level": 2
+        },
+        {
+            "id": 4100,
+            "title": "Minimum Cost Path With Even XOR Parity",
+            "slug": "minimum-cost-path-with-even-xor-parity",
+            "level": 3
         }
     ]
 }
