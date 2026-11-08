@@ -19871,6 +19871,54 @@
             "title": "Minimum Cost Path With Even XOR Parity",
             "slug": "minimum-cost-path-with-even-xor-parity",
             "level": 3
+        },
+        {
+            "id": 4102,
+            "title": "Count Valid Substrings I",
+            "slug": "count-valid-substrings-i",
+            "level": 2
+        },
+        {
+            "id": 4103,
+            "title": "Remove Elements by Type and Color",
+            "slug": "remove-elements-by-type-and-color",
+            "level": 2
+        },
+        {
+            "id": 4104,
+            "title": "Count Valid Substrings II",
+            "slug": "count-valid-substrings-ii",
+            "level": 2
+        },
+        {
+            "id": 4105,
+            "title": "Repeated String Match II",
+            "slug": "repeated-string-match-ii",
+            "level": 3
+        },
+        {
+            "id": 4106,
+            "title": "Find Mismatched Segments Between Two Strings",
+            "slug": "find-mismatched-segments-between-two-strings",
+            "level": 2
+        },
+        {
+            "id": 4107,
+            "title": "Count Valid Suffix Sorts I",
+            "slug": "count-valid-suffix-sorts-i",
+            "level": 2
+        },
+        {
+            "id": 4108,
+            "title": "Minimum Cost to Make Red Nodes Connected",
+            "slug": "minimum-cost-to-make-red-nodes-connected",
+            "level": 2
+        },
+        {
+            "id": 4109,
+            "title": "Count Valid Suffix Sorts II",
+            "slug": "count-valid-suffix-sorts-ii",
+            "level": 3
         }
     ]
 }
